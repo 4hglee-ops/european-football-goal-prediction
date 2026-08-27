@@ -77,7 +77,7 @@ Train 22,430건을 중심으로 확인한 중요한 특징은 다음과 같습�
 
 ### EDA가 실제 모델 결정으로 이어진 과정
 
-![Data to decision](./docs/assets/data_to_decision.svg)
+![Data to decision](./docs/assets/data_to_decision_v2.svg)
 
 이 프로젝트에서 EDA는 모델링 전에 한 번 하고 끝나는 절차가 아니라, **오류 분석이 다시 다음 데이터와 가설로 이어지는 반복 과정**이었습니다.
 

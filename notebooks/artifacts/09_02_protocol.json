@@ -1,0 +1,38 @@
+{
+  "stage": "09-02 Two-stage Integration",
+  "source_snapshot": "09_01A_snapshot_conservative_labels.csv",
+  "label_policy": "09-01A conservative audited labels",
+  "population": "all development rows target_year >= 2017",
+  "target": "next_goals_audited",
+  "model_a": {
+    "type": "Fixed CatBoost Classifier",
+    "target": "matched_next_audited",
+    "features": "S3 + transfer_event_preseason + destination_in_big5",
+    "threshold_selection": "last season inside Outer Train; maximize Macro F1"
+  },
+  "model_b": {
+    "type": "Fixed CatBoost Regressor S3",
+    "training_population": "matched_next_audited == True",
+    "target": "next_goals_audited",
+    "prediction_population": "all Outer Validation rows"
+  },
+  "two_stage_methods": {
+    "soft": "presence_probability * conditional_goal_pred",
+    "hard": "conditional_goal_pred if presence_probability >= inner-selected threshold else 0"
+  },
+  "direct_baseline": {
+    "type": "Fixed CatBoost Regressor",
+    "population": "all rows",
+    "target": "next_goals_audited",
+    "features": "S3 + transfer_event_preseason + destination_in_big5"
+  },
+  "outer_validation_seasons": [
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024"
+  ],
+  "test_input_season": "2024-2025",
+  "test_target_season": "2025-2026",
+  "test_status": "LOCKED / NOT LOADED"
+}

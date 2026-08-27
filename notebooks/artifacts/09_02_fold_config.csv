@@ -1,0 +1,5 @@
+fold,outer_val_season,model_a_iterations,model_a_threshold,model_b_iterations,model_b_positive_train_n,direct_iterations
+1,2020-2021,184,0.62,312,3252,467
+2,2021-2022,337,0.59,285,4086,459
+3,2022-2023,199,0.64,265,4875,494
+4,2023-2024,272,0.76,189,5622,352

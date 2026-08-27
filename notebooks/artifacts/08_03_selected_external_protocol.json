@@ -1,0 +1,53 @@
+{
+  "data_min_target_year": 2017,
+  "outer_validation_seasons": [
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024"
+  ],
+  "test_status": "LOCKED / NOT LOADED",
+  "selected_feature_hypothesis": {
+    "keep": [
+      "market_value_known",
+      "log_market_value",
+      "market_value_percentile",
+      "market_value_vs_position_median",
+      "market_value_growth_6m",
+      "market_value_growth_12m",
+      "market_value_vs_peak",
+      "changed_team_preseason",
+      "same_league_transfer",
+      "league_changed",
+      "country_changed",
+      "is_loan_preseason",
+      "days_since_transfer",
+      "new_team_prev_rank_pct",
+      "new_team_prev_points_per_game",
+      "new_team_prev_goal_diff_per_game",
+      "team_rank_change",
+      "team_points_change",
+      "team_goal_diff_change",
+      "new_team_strength_missing"
+    ],
+    "exclude": [
+      "transfer_fee_known",
+      "log_transfer_fee",
+      "fee_to_transfer_market_value_ratio"
+    ]
+  },
+  "catboost": {
+    "type": "fixed baseline",
+    "params": {
+      "depth": 6,
+      "learning_rate": 0.03,
+      "loss_function": "RMSE"
+    }
+  },
+  "mlp": {
+    "type": "frozen 07 tuned params",
+    "params_source": "D:\\dev\\03_PersonalProjects\\next_season_goal_prediction\\notebooks\\artifacts\\07_mlp_best_params_by_fold.csv",
+    "epoch": "recalibrated inside each Outer Train",
+    "numeric_missing": "train median imputation"
+  }
+}

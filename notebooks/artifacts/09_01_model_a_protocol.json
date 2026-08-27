@@ -1,0 +1,86 @@
+{
+  "stage": "09-01 Model A Next-season Big5 Presence",
+  "target": "matched_next",
+  "positive_class": "next-season Big5 record exists",
+  "negative_class": "next-season Big5 record does not exist",
+  "data_min_target_year": 2017,
+  "population": "all development rows",
+  "outer_validation_seasons": [
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024"
+  ],
+  "models": [
+    "Naive_Prevalence",
+    "Logistic_ModelA",
+    "CatBoost_ModelA"
+  ],
+  "numeric_features": [
+    "age",
+    "starts",
+    "minutes",
+    "goals",
+    "assists",
+    "non_penalty_goals",
+    "penalty_goals",
+    "penalty_attempts",
+    "goals_per90",
+    "assists_per90",
+    "goal_contrib_per90",
+    "goals_3yr_mean",
+    "goals_per90_3yr_mean",
+    "goals_3yr_max",
+    "old_team_rank_pct",
+    "old_team_points_per_game",
+    "old_team_goal_diff_per_game",
+    "market_value_known",
+    "log_market_value",
+    "market_value_percentile",
+    "market_value_vs_position_median",
+    "market_value_growth_6m",
+    "market_value_growth_12m",
+    "market_value_vs_peak",
+    "changed_team_preseason",
+    "same_league_transfer",
+    "league_changed",
+    "country_changed",
+    "is_loan_preseason",
+    "days_since_transfer",
+    "new_team_prev_rank_pct",
+    "new_team_prev_points_per_game",
+    "new_team_prev_goal_diff_per_game",
+    "team_rank_change",
+    "team_points_change",
+    "team_goal_diff_change",
+    "new_team_strength_missing",
+    "transfer_event_preseason",
+    "destination_in_big5"
+  ],
+  "categorical_features": [
+    "league",
+    "position_group"
+  ],
+  "model_a_specific_features": [
+    "transfer_event_preseason",
+    "destination_in_big5"
+  ],
+  "forbidden_features": [
+    "matched_next",
+    "next_10plus",
+    "next_goals",
+    "post_cutoff_context_event_count_audit",
+    "target_presence",
+    "unknown_date_context_event_count_audit"
+  ],
+  "threshold_selection": "last season inside each Outer Train; maximize Macro F1",
+  "primary_probability_metrics": [
+    "log_loss",
+    "brier",
+    "roc_auc",
+    "pr_auc_exit"
+  ],
+  "test_input_season": "2024-2025",
+  "test_target_season": "2025-2026",
+  "test_status": "LOCKED / NOT LOADED"
+}

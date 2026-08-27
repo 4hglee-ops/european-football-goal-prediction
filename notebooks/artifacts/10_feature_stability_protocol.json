@@ -1,0 +1,18 @@
+{
+  "stage": "10 Selected Feature Stability Check",
+  "purpose": "short pre-final-test stability check; not feature search",
+  "variants": [
+    "FULL",
+    "NO_MARKET",
+    "NO_TRANSFER_CONTEXT",
+    "NO_MODEL_A_CONTEXT"
+  ],
+  "integration": "Hard Two-stage only",
+  "material_mae_delta": 0.03,
+  "material_rule": "ablation improves mean MAE >= 0.03 and improves >= 3 of 4 folds",
+  "embedding_experiment": "NOT INCLUDED; final pipeline is CatBoost-based",
+  "hpo": "NOT INCLUDED",
+  "new_feature_search": "NOT INCLUDED",
+  "test_status": "LOCKED / NOT LOADED",
+  "next_step": "11 Final Test + Slice/Error Analysis"
+}

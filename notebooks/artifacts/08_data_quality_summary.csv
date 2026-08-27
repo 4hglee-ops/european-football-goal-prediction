@@ -1,0 +1,14 @@
+metric,value
+development_rows,23353.0
+unique_players,6161.0
+player_id_unique_match_rate,0.9011524103229995
+player_id_row_match_rate,0.9251059821008007
+old_team_strength_match_rate,1.0
+summer_event_transfer_date_coverage,0.22833122829175875
+preseason_transfer_rate,0.04992934526613283
+changed_team_rate,0.04984370316447566
+market_value_coverage_all,0.6816254870894531
+market_value_coverage_2005plus,0.8070780307255488
+post_cutoff_transfers_excluded,544.0
+unknown_date_events_excluded,4135.0
+new_team_strength_coverage_changed_big5,0.5846153846153846

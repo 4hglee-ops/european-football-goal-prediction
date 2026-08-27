@@ -1,0 +1,37 @@
+{
+  "stage": "09-01A matched_next label audit",
+  "source_snapshot": "08_v2_preseason_player_snapshot_dev.csv",
+  "audit_min_target_year": 2017,
+  "original_target": "matched_next",
+  "original_regression_target": "next_goals",
+  "correction_policy": "conservative; only unique target-season row matches passing age/name sanity rules",
+  "age_delta_allowed": [
+    0,
+    2
+  ],
+  "auto_correction_rules": [
+    "exact_name_age",
+    "same_tm_id_name_age",
+    "same_team_alias_age"
+  ],
+  "do_not_auto_correct": [
+    "stable Big5 at cutoff without target row evidence",
+    "post-cutoff transfer context",
+    "unknown-date transfer context",
+    "cross-team alias/spelling candidates",
+    "multiple target-season candidate matches",
+    "same-name cases with implausible age progression"
+  ],
+  "new_columns": [
+    "matched_next_original",
+    "next_goals_original",
+    "next_10plus_original",
+    "matched_next_audited",
+    "next_goals_audited",
+    "next_10plus_audited",
+    "label_audit_rule",
+    "label_audit_changed"
+  ],
+  "original_snapshot_overwritten": false,
+  "next_step": "Review audit outputs, then revalidate Model A and conditional Model B before 09-02 integration."
+}

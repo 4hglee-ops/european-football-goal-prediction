@@ -1,0 +1,2 @@
+row_id,player,season,team,age,next_row_id,next_player,next_team,next_age,name_similarity,review_status
+21364,Sehrou Guirassy,2021-2022,Rennes,25.0,22323,Serhou Guirassy,Stuttgart,26.0,0.9333333333333333,CROSS_TEAM_ALIAS_REVIEW

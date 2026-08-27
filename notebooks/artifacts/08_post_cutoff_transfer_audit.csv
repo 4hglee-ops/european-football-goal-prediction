@@ -1,0 +1,545 @@
+row_id,player,season,target_season,team,cutoff_date,tr_transfer_date,tr_from_club,tr_to_club,selection_status,context_score
+4031,James Milner,2004-2005,2005-2006,Newcastle Utd,2005-07-31,2005-08-31,Newcastle United,Aston Villa,context_match,0.896551724137931
+6963,James Milner,2007-2008,2008-2009,Newcastle Utd,2008-07-31,2008-08-29,Newcastle United,Aston Villa,context_match,0.896551724137931
+8080,Lorenzo De Silvestri,2008-2009,2009-2010,Lazio,2009-07-31,2009-08-26,SS Lazio,ACF Fiorentina,context_match,0.7692307692307693
+8549,André-Pierre Gignac,2009-2010,2010-2011,Toulouse,2010-07-31,2010-08-20,FC Toulouse,Olympique Marseille,context_match,0.8421052631578947
+8936,James Milner,2009-2010,2010-2011,Aston Villa,2010-07-31,2010-08-17,Aston Villa,Manchester City,context_match,1.0
+9149,Mario Balotelli,2009-2010,2010-2011,Inter,2010-07-31,2010-08-12,Inter Milan,Manchester City,single_candidate,0.625
+9710,Damien Marcq,2010-2011,2011-2012,Caen,2011-07-31,2011-08-30,SM Caen,Dijon FCO,context_match,0.7272727272727273
+10010,Jonathan de Guzmán,2010-2011,2011-2012,Mallorca,2011-07-31,2011-08-31,RCD Mallorca,Villarreal CF,context_match,0.8
+10033,Juan Mata,2010-2011,2011-2012,Valencia,2011-07-31,2011-08-24,Valencia CF,Chelsea FC,context_match,0.8421052631578947
+10242,Miralem Pjanić,2010-2011,2011-2012,Lyon,2011-07-31,2011-08-31,Olympique Lyon,AS Roma,single_candidate,0.4444444444444444
+10339,Raúl García,2010-2011,2011-2012,Atlético Madrid,2011-07-31,2011-08-01,Atlético de Madrid,CA Osasuna,context_match,0.9090909090909091
+10687,César Azpilicueta,2011-2012,2012-2013,Marseille,2012-08-09,2012-08-24,Olympique Marseille,Chelsea FC,single_candidate,0.6428571428571429
+11018,Joe Allen,2011-2012,2012-2013,Swansea City,2012-08-09,2012-08-10,Swansea City,Liverpool FC,context_match,1.0
+11152,Luka Modrić,2011-2012,2012-2013,Tottenham,2012-08-09,2012-08-27,Tottenham Hotspur,Real Madrid,context_match,0.6923076923076923
+11155,M'Baye Niang,2011-2012,2012-2013,Caen,2012-08-09,2012-08-28,SM Caen,AC Milan,context_match,0.7272727272727273
+11487,Steven Nzonzi,2011-2012,2012-2013,Blackburn,2012-08-09,2012-08-31,Blackburn Rovers,Stoke City,context_match,0.72
+11501,Thievy Bifouma,2011-2012,2012-2013,Espanyol,2012-08-09,2012-08-31,RCD Espanyol Barcelona,UD Las Palmas,single_candidate,0.5333333333333333
+11536,Victor Moses,2011-2012,2012-2013,Wigan Athletic,2012-08-09,2012-08-24,Wigan Athletic,Chelsea FC,context_match,1.0
+11584,Adem Ljajić,2012-2013,2013-2014,Fiorentina,2013-08-08,2013-08-28,ACF Fiorentina,AS Roma,context_match,0.8333333333333334
+11866,Érik Lamela,2012-2013,2013-2014,Roma,2013-08-08,2013-08-30,AS Roma,Tottenham Hotspur,context_match,0.7272727272727273
+11869,Étienne Capoue,2012-2013,2013-2014,Toulouse,2013-08-08,2013-08-15,FC Toulouse,Tottenham Hotspur,context_match,0.8421052631578947
+11930,Geoffrey Kondogbia,2012-2013,2013-2014,Sevilla,2013-08-08,2013-08-30,Sevilla FC,AS Monaco,context_match,0.8235294117647058
+12004,James McCarthy,2012-2013,2013-2014,Wigan Athletic,2013-08-08,2013-09-02,Wigan Athletic,Everton FC,context_match,1.0
+12107,Josuha Guilavogui,2012-2013,2013-2014,Saint-Étienne,2013-08-08,2013-09-02,AS Saint-Étienne,Atlético de Madrid,context_match,0.896551724137931
+12194,Luiz Gustavo,2012-2013,2013-2014,Bayern Munich,2013-08-08,2013-08-16,Bayern Munich,VfL Wolfsburg,context_match,1.0
+12203,Makoto Hasebe,2012-2013,2013-2014,Wolfsburg,2013-08-08,2013-09-02,VfL Wolfsburg,1.FC Nuremberg,context_match,0.8181818181818182
+12244,Marko Arnautović,2012-2013,2013-2014,Werder Bremen,2013-08-08,2013-09-02,SV Werder Bremen,Stoke City,context_match,0.896551724137931
+12582,Vicente Iborra,2012-2013,2013-2014,Levante,2013-08-08,2013-08-16,Levante UD,Sevilla FC,context_match,0.8235294117647058
+12587,Victor Moses,2012-2013,2013-2014,Chelsea,2013-08-08,2013-09-02,Chelsea FC,Liverpool FC,context_match,0.8235294117647058
+12661,Alberto Moreno,2013-2014,2014-2015,Sevilla,2014-08-07,2014-08-13,Sevilla FC,Liverpool FC,context_match,0.8235294117647058
+12687,Álvaro Negredo,2013-2014,2014-2015,Manchester City,2014-08-07,2014-09-01,Manchester City,Valencia CF,context_match,1.0
+12711,Andrés Guardado,2013-2014,2014-2015,Valencia,2014-08-07,2014-08-26,Valencia CF,PSV Eindhoven,context_match,0.8421052631578947
+12716,Ángel Di María,2013-2014,2014-2015,Real Madrid,2014-08-07,2014-08-26,Real Madrid,Manchester United,context_match,1.0
+12756,Benjamin Stambouli,2013-2014,2014-2015,Montpellier,2014-08-07,2014-09-01,Montpellier HSC,Tottenham Hotspur,context_match,0.8461538461538461
+12853,Danny Welbeck,2013-2014,2014-2015,Manchester Utd,2014-08-07,2014-09-01,Manchester United,Arsenal FC,context_match,0.9032258064516129
+12859,David López,2013-2014,2014-2015,Espanyol,2014-08-07,2014-08-31,RCD Espanyol Barcelona,SSC Napoli,single_candidate,0.5333333333333333
+12921,Éver Banega,2013-2014,2014-2015,Valencia,2014-08-07,2014-08-18,Valencia CF,Sevilla FC,context_match,0.8421052631578947
+12983,Giacomo Bonaventura,2013-2014,2014-2015,Atalanta,2014-08-07,2014-09-01,Atalanta BC,AC Milan,context_match,0.8421052631578947
+13212,Léo Baptistão,2013-2014,2014-2015,Betis,2014-08-07,2014-08-19,Atlético de Madrid,Rayo Vallecano,single_candidate,0.2608695652173913
+13218,Leroy Fer,2013-2014,2014-2015,Norwich City,2014-08-07,2014-08-20,Norwich City,Queens Park Rangers,context_match,1.0
+13287,Mario Balotelli,2013-2014,2014-2015,Milan,2014-08-07,2014-08-25,AC Milan,Liverpool FC,context_match,0.7692307692307693
+13353,Milan Badelj,2013-2014,2014-2015,Hamburger SV,2014-08-07,2014-08-31,Hamburger SV,ACF Fiorentina,context_match,1.0
+13462,Radamel Falcao,2013-2014,2014-2015,Monaco,2014-08-07,2014-09-01,AS Monaco,Manchester United,context_match,0.8
+13572,Shinji Kagawa,2013-2014,2014-2015,Manchester Utd,2014-08-07,2014-08-31,Manchester United,Borussia Dortmund,context_match,0.9032258064516129
+13585,Slobodan Medojević,2013-2014,2014-2015,Wolfsburg,2014-08-07,2014-08-31,VfL Wolfsburg,Eintracht Frankfurt,context_match,0.8181818181818182
+13660,Vincent Aboubakar,2013-2014,2014-2015,Lorient,2014-08-07,2014-08-24,FC Lorient,FC Porto,context_match,0.8235294117647058
+13713,Adama Traoré,2014-2015,2015-2016,Lille,2015-08-06,2015-08-14,FC Barcelona B,Aston Villa,single_candidate,0.35624999999999996
+13715,Adem Ljajić,2014-2015,2015-2016,Roma,2015-08-06,2015-08-31,AS Roma,Inter Milan,context_match,0.7272727272727273
+13769,Andrea Belotti,2014-2015,2015-2016,Palermo,2015-08-06,2015-08-18,US Palermo,Torino FC,context_match,0.8235294117647058
+13786,Anthony Martial,2014-2015,2015-2016,Monaco,2015-08-06,2015-09-01,AS Monaco,Manchester United,context_match,0.8
+13888,Clinton N'Jie,2014-2015,2015-2016,Lyon,2015-08-06,2015-08-15,Olympique Lyon,Tottenham Hotspur,single_candidate,0.4444444444444444
+13893,Cristhian Stuani,2014-2015,2015-2016,Espanyol,2015-08-06,2015-08-07,RCD Espanyol Barcelona,Middlesbrough FC,single_candidate,0.5333333333333333
+13942,Denis Suárez,2014-2015,2015-2016,Sevilla,2015-08-06,2015-08-28,Sevilla FC,FC Barcelona,context_match,0.8235294117647058
+13976,Edin Džeko,2014-2015,2015-2016,Manchester City,2015-08-06,2015-08-12,Manchester City,AS Roma,context_match,1.0
+14033,Florian Thauvin,2014-2015,2015-2016,Marseille,2015-08-06,2015-08-19,Olympique Marseille,Newcastle United,single_candidate,0.6428571428571429
+14072,Gerard Moreno,2014-2015,2015-2016,Villarreal,2015-08-06,2015-08-13,Villarreal CF,RCD Espanyol Barcelona,context_match,0.8695652173913043
+14086,Gökhan Inler,2014-2015,2015-2016,Napoli,2015-08-06,2015-08-19,SSC Napoli,Leicester City,context_match,0.75
+14138,Ivan Perišić,2014-2015,2015-2016,Wolfsburg,2015-08-06,2015-08-30,VfL Wolfsburg,Inter Milan,context_match,0.8181818181818182
+14184,Jhon Córdoba,2014-2015,2015-2016,Granada,2015-08-06,2015-08-31,Granada CF,1.FSV Mainz 05,context_match,0.8235294117647058
+14237,Juan Cuadrado,2014-2015,2015-2016,Fiorentina,2015-08-06,2015-08-25,Chelsea FC,Juventus FC,single_candidate,0.2714285714285714
+14267,Kevin De Bruyne,2014-2015,2015-2016,Wolfsburg,2015-08-06,2015-08-30,VfL Wolfsburg,Manchester City,context_match,0.8181818181818182
+14292,Lazar Marković,2014-2015,2015-2016,Liverpool,2015-08-06,2015-08-31,Liverpool FC,Fenerbahce,context_match,0.8571428571428571
+14293,Lazaros Christodoulopoulos,2014-2015,2015-2016,Hellas Verona,2015-08-06,2015-08-31,Hellas Verona,UC Sampdoria,context_match,1.0
+14322,Lucas Digne,2014-2015,2015-2016,Paris S-G,2015-08-06,2015-08-26,Paris Saint-Germain,AS Roma,single_candidate,0.6428571428571429
+14375,Mario Balotelli,2014-2015,2015-2016,Liverpool,2015-08-06,2015-08-27,Liverpool FC,AC Milan,context_match,0.8571428571428571
+14378,Mario Lemina,2014-2015,2015-2016,Marseille,2015-08-06,2015-08-31,Olympique Marseille,Juventus FC,single_candidate,0.6428571428571429
+14401,Mateo Kovačić,2014-2015,2015-2016,Inter,2015-08-06,2015-08-18,Inter Milan,Real Madrid,single_candidate,0.625
+14568,Raúl García,2014-2015,2015-2016,Atlético Madrid,2015-08-06,2015-08-30,Atlético de Madrid,Athletic Bilbao,context_match,0.9090909090909091
+14571,Rémy Cabella,2014-2015,2015-2016,Newcastle Utd,2015-08-06,2015-08-19,Newcastle United,Olympique Marseille,context_match,0.896551724137931
+14650,Sergi Darder,2014-2015,2015-2016,Málaga,2015-08-06,2015-08-29,Málaga CF,Olympique Lyon,context_match,0.8
+14703,Takashi Inui,2014-2015,2015-2016,Eint Frankfurt,2015-08-06,2015-08-26,Eintracht Frankfurt,SD Eibar,context_match,0.8484848484848485
+14729,Valentin Eysseric,2014-2015,2015-2016,Nice,2015-08-06,2015-08-18,OGC Nice,AS Saint-Étienne,context_match,0.6666666666666666
+14813,Alaixys Romao,2015-2016,2016-2017,Marseille,2016-08-11,2016-08-31,Olympique Marseille,Olympiacos Piraeus,single_candidate,0.6428571428571429
+14817,Alberto Grassi,2015-2016,2016-2017,Atalanta,2016-08-11,2016-08-30,SSC Napoli,Atalanta BC,context_match,0.7999999999999999
+14856,Amadou Diawara,2015-2016,2016-2017,Bologna,2016-08-11,2016-08-26,Bologna FC 1909,SSC Napoli,single_candidate,0.6363636363636364
+14871,Andy Delort,2015-2016,2016-2017,Caen,2016-08-11,2016-09-02,SM Caen,Tigres UANL,context_match,0.7272727272727273
+14904,Bas Dost,2015-2016,2016-2017,Wolfsburg,2016-08-11,2016-08-28,VfL Wolfsburg,Sporting CP,context_match,0.8181818181818182
+14914,Benjamin Stambouli,2015-2016,2016-2017,Paris S-G,2016-08-11,2016-08-26,Paris Saint-Germain,FC Schalke 04,single_candidate,0.6428571428571429
+14927,Bruno Fernandes,2015-2016,2016-2017,Udinese,2016-08-11,2016-08-16,Udinese Calcio,UC Sampdoria,context_match,0.6666666666666666
+15040,Edenílson,2015-2016,2016-2017,Udinese,2016-08-11,2016-08-31,Udinese Calcio,Genoa CFC,context_match,0.6666666666666666
+15053,Enner Valencia,2015-2016,2016-2017,West Ham,2016-08-11,2016-08-31,West Ham United,Everton FC,context_match,0.6956521739130435
+15268,Jordan Veretout,2015-2016,2016-2017,Aston Villa,2016-08-11,2016-08-24,Aston Villa,AS Saint-Étienne,context_match,1.0
+15278,Joselu,2015-2016,2016-2017,Stoke City,2016-08-11,2016-08-31,Stoke City,Deportivo de La Coruña,context_match,1.0
+15351,Lorenzo De Silvestri,2015-2016,2016-2017,Sampdoria,2016-08-11,2016-08-18,UC Sampdoria,Torino FC,context_match,0.8571428571428571
+15370,Lucas Pérez,2015-2016,2016-2017,La Coruña,2016-08-11,2016-08-30,Deportivo de La Coruña,Arsenal FC,single_candidate,0.5806451612903226
+15413,Marcos Alonso,2015-2016,2016-2017,Fiorentina,2016-08-11,2016-08-31,ACF Fiorentina,Chelsea FC,context_match,0.8333333333333334
+15496,Moussa Sissoko,2015-2016,2016-2017,Newcastle Utd,2016-08-11,2016-08-31,Newcastle United,Tottenham Hotspur,context_match,0.896551724137931
+15503,Nacer Chadli,2015-2016,2016-2017,Tottenham,2016-08-11,2016-08-29,Tottenham Hotspur,West Bromwich Albion,context_match,0.6923076923076923
+15614,Romain Saïss,2015-2016,2016-2017,Angers,2016-08-11,2016-08-30,Angers SCO,Wolverhampton Wanderers,context_match,0.75
+15669,Sofiane Boufal,2015-2016,2016-2017,Lille,2016-08-11,2016-08-29,LOSC Lille,Southampton FC,context_match,0.6666666666666666
+15686,Steven Moreira,2015-2016,2016-2017,Rennes,2016-08-11,2016-08-30,Stade Rennais FC,FC Lorient,single_candidate,0.45454545454545453
+15763,Yannick Bolasie,2015-2016,2016-2017,Crystal Palace,2016-08-11,2016-08-15,Crystal Palace,Everton FC,context_match,1.0
+15825,Alex Oxlade-Chamberlain,2016-2017,2017-2018,Arsenal,2017-08-03,2017-08-31,Arsenal FC,Liverpool FC,context_match,0.8235294117647058
+15841,Álvaro Medrán,2016-2017,2017-2018,Valencia,2017-08-03,2017-09-01,Valencia CF,Deportivo Alavés,context_match,0.8421052631578947
+15843,Álvaro Negredo,2016-2017,2017-2018,Middlesbrough,2017-08-03,2017-08-04,Valencia CF,Besiktas JK,single_candidate,0.16666666666666666
+15852,Andre Gray,2016-2017,2017-2018,Burnley,2017-08-03,2017-08-09,Burnley FC,Watford FC,context_match,0.8235294117647058
+15925,Carlos Bacca,2016-2017,2017-2018,Milan,2017-08-03,2017-08-16,AC Milan,Villarreal CF,context_match,0.7692307692307693
+15941,Cheick Doukouré,2016-2017,2017-2018,Metz,2017-08-03,2017-08-04,FC Metz,Levante UD,context_match,0.7272727272727273
+15987,Darko Brašanac,2016-2017,2017-2018,Betis,2017-08-03,2017-08-30,Real Betis Balompié,CD Leganés,single_candidate,0.4166666666666667
+16015,Divock Origi,2016-2017,2017-2018,Liverpool,2017-08-03,2017-08-31,Liverpool FC,VfL Wolfsburg,context_match,0.8571428571428571
+16022,Duje Čop,2016-2017,2017-2018,Sporting Gijón,2017-08-03,2017-08-31,Cagliari Calcio,Standard Liège,single_candidate,0.2714285714285714
+16048,Eric Maxim Choupo-Moting,2016-2017,2017-2018,Schalke 04,2017-08-03,2017-08-07,FC Schalke 04,Stoke City,context_match,0.8695652173913043
+16083,Florent Hadergjonaj,2016-2017,2017-2018,Ingolstadt 04,2017-08-03,2017-08-24,FC Ingolstadt 04,Huddersfield Town,context_match,0.896551724137931
+16113,Geoffrey Kondogbia,2016-2017,2017-2018,Inter,2017-08-03,2017-08-21,Inter Milan,Valencia CF,single_candidate,0.625
+16123,Giovanni Simeone,2016-2017,2017-2018,Genoa,2017-08-03,2017-08-16,Genoa CFC,ACF Fiorentina,context_match,0.7142857142857143
+16139,Gylfi Sigurðsson,2016-2017,2017-2018,Swansea City,2017-08-03,2017-08-16,Swansea City,Everton FC,context_match,1.0
+16206,Jeremy Toljan,2016-2017,2017-2018,Hoffenheim,2017-08-03,2017-08-30,TSG 1899 Hoffenheim,Borussia Dortmund,context_match,0.6896551724137931
+16218,João Cancelo,2016-2017,2017-2018,Valencia,2017-08-03,2017-08-22,Valencia CF,Inter Milan,context_match,0.8421052631578947
+16245,Jordy Clasie,2016-2017,2017-2018,Southampton,2017-08-03,2017-08-30,Southampton FC,Club Brugge KV,context_match,0.88
+16251,José Sosa,2016-2017,2017-2018,Milan,2017-08-03,2017-09-08,AC Milan,Trabzonspor,context_match,0.7692307692307693
+16281,Keita Baldé,2016-2017,2017-2018,Lazio,2017-08-03,2017-08-29,SS Lazio,AS Monaco,context_match,0.7692307692307693
+16288,Kevin Kampl,2016-2017,2017-2018,Leverkusen,2017-08-03,2017-08-31,Bayer 04 Leverkusen,RB Leipzig,context_match,0.6896551724137931
+16307,Kylian Mbappé,2016-2017,2017-2018,Monaco,2017-08-03,2017-08-31,AS Monaco,Paris Saint-Germain,context_match,0.8
+16376,Marcelo Díaz,2016-2017,2017-2018,Celta Vigo,2017-08-03,2017-08-17,Celta de Vigo,UNAM Pumas,context_match,0.8695652173913043
+16396,Mario Lemina,2016-2017,2017-2018,Juventus,2017-08-03,2017-08-08,Juventus FC,Southampton FC,context_match,0.8421052631578947
+16402,Mariusz Stępiński,2016-2017,2017-2018,Nantes,2017-08-03,2017-08-31,FC Nantes,Chievo Verona,context_match,0.8
+16410,Marten de Roon,2016-2017,2017-2018,Middlesbrough,2017-08-03,2017-08-10,Middlesbrough FC,Atalanta BC,context_match,0.896551724137931
+16479,Nani,2016-2017,2017-2018,Valencia,2017-08-03,2017-08-31,Valencia CF,SS Lazio,context_match,0.8421052631578947
+16497,Nordin Amrabat,2016-2017,2017-2018,Watford,2017-08-03,2017-09-01,Watford FC,CD Leganés,context_match,0.8235294117647058
+16515,Ousmane Dembélé,2016-2017,2017-2018,Dortmund,2017-08-03,2017-08-25,Borussia Dortmund,FC Barcelona,single_candidate,0.64
+16516,Oussama Tannane,2016-2017,2017-2018,Saint-Étienne,2017-08-03,2017-09-01,AS Saint-Étienne,UD Las Palmas,context_match,0.896551724137931
+16531,Patrik Schick,2016-2017,2017-2018,Sampdoria,2017-08-03,2017-08-29,UC Sampdoria,AS Roma,context_match,0.8571428571428571
+16558,Rachid Ghezzal,2016-2017,2017-2018,Lyon,2017-08-03,2017-08-07,Olympique Lyon,AS Monaco,single_candidate,0.4444444444444444
+16570,Rémy Cabella,2016-2017,2017-2018,Marseille,2017-08-03,2017-08-31,Olympique Marseille,AS Saint-Étienne,single_candidate,0.6428571428571429
+16639,Sergi Darder,2016-2017,2017-2018,Lyon,2017-08-03,2017-08-31,Olympique Lyon,RCD Espanyol Barcelona,single_candidate,0.4444444444444444
+16641,Sergi Samper,2016-2017,2017-2018,Granada,2017-08-03,2017-08-24,FC Barcelona,UD Las Palmas,single_candidate,0.3157894736842105
+16656,Sofiane Feghouli,2016-2017,2017-2018,West Ham,2017-08-03,2017-08-14,West Ham United,Galatasaray,context_match,0.6956521739130435
+16700,Tomás Rincón,2016-2017,2017-2018,Genoa,2017-08-03,2017-08-11,Juventus FC,Torino FC,single_candidate,0.2714285714285714
+16707,Valentin Eysseric,2016-2017,2017-2018,Nice,2017-08-03,2017-08-09,OGC Nice,ACF Fiorentina,context_match,0.6666666666666666
+16724,Vieirinha,2016-2017,2017-2018,Wolfsburg,2017-08-03,2017-08-31,VfL Wolfsburg,PAOK Thessaloniki,context_match,0.8181818181818182
+16754,Yann Karamoh,2016-2017,2017-2018,Caen,2017-08-03,2017-08-31,SM Caen,Inter Milan,context_match,0.7272727272727273
+16767,Youssef Aït Bennasser,2016-2017,2017-2018,Nancy,2017-08-03,2017-08-16,AS Monaco,SM Caen,single_candidate,0.42857142857142855
+16783,Adem Ljajić,2017-2018,2018-2019,Torino,2018-08-09,2018-08-31,Torino FC,Besiktas JK,context_match,0.8
+16810,Alexis Blin,2017-2018,2018-2019,Toulouse,2018-08-09,2018-09-10,FC Toulouse,Amiens SC,context_match,0.8421052631578947
+16838,Andreas Cornelius,2017-2018,2018-2019,Atalanta,2018-08-09,2018-08-31,Atalanta BC,FC Girondins Bordeaux,context_match,0.8421052631578947
+16863,Anwar El Ghazi,2017-2018,2018-2019,Lille,2018-08-09,2018-08-22,LOSC Lille,Aston Villa,context_match,0.6666666666666666
+17018,Enes Ünal,2017-2018,2018-2019,Villarreal,2018-08-09,2018-08-19,Villarreal CF,Real Valladolid CF,context_match,0.8695652173913043
+17023,Eric Maxim Choupo-Moting,2017-2018,2018-2019,Stoke City,2018-08-09,2018-08-31,Stoke City,Paris Saint-Germain,context_match,1.0
+17050,Filip Kostić,2017-2018,2018-2019,Hamburger SV,2018-08-09,2018-08-20,Hamburger SV,Eintracht Frankfurt,context_match,1.0
+17073,Gaëtan Laborde,2017-2018,2018-2019,Bordeaux,2018-08-09,2018-08-16,FC Girondins Bordeaux,Montpellier HSC,single_candidate,0.5517241379310345
+17092,Gianluca Lapadula,2017-2018,2018-2019,Genoa,2018-08-09,2018-08-16,Genoa CFC,AC Milan,context_match,0.7142857142857143
+17096,Giovani Lo Celso,2017-2018,2018-2019,Paris S-G,2018-08-09,2018-08-31,Paris Saint-Germain,Real Betis Balompié,single_candidate,0.6428571428571429
+17251,Keita Baldé,2017-2018,2018-2019,Monaco,2018-08-09,2018-08-13,AS Monaco,Inter Milan,context_match,0.8
+17256,Kévin Gameiro,2017-2018,2018-2019,Atlético Madrid,2018-08-09,2018-08-12,Atlético de Madrid,Valencia CF,context_match,0.9090909090909091
+17261,Kevin Strootman,2017-2018,2018-2019,Roma,2018-08-09,2018-08-28,AS Roma,Olympique Marseille,context_match,0.7272727272727273
+17277,Lebo Mothiba,2017-2018,2018-2019,Lille,2018-08-09,2018-08-30,LOSC Lille,RC Strasbourg Alsace,context_match,0.6666666666666666
+17399,Maxime Gonalons,2017-2018,2018-2019,Roma,2018-08-09,2018-08-20,AS Roma,Sevilla FC,context_match,0.7272727272727273
+17445,Nacho Gil,2017-2018,2018-2019,Las Palmas,2018-08-09,2018-09-10,Valencia CF,Elche CF,single_candidate,0.2857142857142857
+17583,Samu Castillejo,2017-2018,2018-2019,Villarreal,2018-08-09,2018-08-17,Villarreal CF,AC Milan,context_match,0.8695652173913043
+17637,Steven Nzonzi,2017-2018,2018-2019,Sevilla,2018-08-09,2018-08-14,Sevilla FC,AS Roma,context_match,0.8235294117647058
+17645,Tammy Abraham,2017-2018,2018-2019,Swansea City,2018-08-09,2018-08-31,Chelsea FC,Aston Villa,single_candidate,0.45454545454545453
+17662,Tiemoué Bakayoko,2017-2018,2018-2019,Chelsea,2018-08-09,2018-08-13,Chelsea FC,AC Milan,context_match,0.8235294117647058
+17713,Yassine Benzia,2017-2018,2018-2019,Lille,2018-08-09,2018-08-31,LOSC Lille,Fenerbahce,context_match,0.6666666666666666
+17721,Youssef En-Nesyri,2017-2018,2018-2019,Málaga,2018-08-09,2018-08-17,Málaga CF,CD Leganés,context_match,0.8
+17776,Álvaro Medrán,2018-2019,2019-2020,Rayo Vallecano,2019-08-08,2019-09-02,Valencia CF,Without Club,single_candidate,0.48
+17780,Anastasios Donis,2018-2019,2019-2020,Stuttgart,2019-08-08,2019-09-02,VfB Stuttgart,Stade Reims,context_match,0.8181818181818182
+17804,Ante Rebić,2018-2019,2019-2020,Eint Frankfurt,2019-08-08,2019-09-02,Eintracht Frankfurt,AC Milan,context_match,0.8484848484848485
+17814,Antonio Luna,2018-2019,2019-2020,Levante,2019-08-08,2019-08-29,Levante UD,Rayo Vallecano,context_match,0.8235294117647058
+17853,Borja Iglesias,2018-2019,2019-2020,Espanyol,2019-08-08,2019-08-14,RCD Espanyol Barcelona,Real Betis Balompié,single_candidate,0.5333333333333333
+17974,Erick Pulgar,2018-2019,2019-2020,Bologna,2019-08-08,2019-08-09,Bologna FC 1909,ACF Fiorentina,single_candidate,0.6363636363636364
+18036,Gerard Gumbau,2018-2019,2019-2020,Leganés,2019-08-08,2019-08-14,CD Leganés,Girona FC,context_match,0.8235294117647058
+18041,Giannelli Imbula,2018-2019,2019-2020,Rayo Vallecano,2019-08-08,2019-08-31,Stoke City,US Lecce,single_candidate,0.34545454545454546
+18044,Giovanni Simeone,2018-2019,2019-2020,Fiorentina,2019-08-08,2019-08-30,ACF Fiorentina,Cagliari Calcio,context_match,0.8333333333333334
+18068,Henrikh Mkhitaryan,2018-2019,2019-2020,Arsenal,2019-08-08,2019-09-02,Arsenal FC,AS Roma,context_match,0.8235294117647058
+18094,Ivan Perišić,2018-2019,2019-2020,Inter,2019-08-08,2019-08-13,Inter Milan,Bayern Munich,single_candidate,0.625
+18125,Jeff Reine-Adélaïde,2018-2019,2019-2020,Angers,2019-08-08,2019-08-14,Angers SCO,Olympique Lyon,context_match,0.75
+18150,Jonas Martin,2018-2019,2019-2020,Strasbourg,2019-08-08,2019-09-02,RC Strasbourg Alsace,Stade Rennais FC,context_match,0.6666666666666666
+18208,Kenedy,2018-2019,2019-2020,Newcastle Utd,2019-08-08,2019-09-02,Chelsea FC,Getafe CF,single_candidate,0.34545454545454546
+18221,Khouma Babacar,2018-2019,2019-2020,Sassuolo,2019-08-08,2019-09-02,US Sassuolo,US Lecce,context_match,0.8421052631578947
+18245,Leonardo Bittencourt,2018-2019,2019-2020,Hoffenheim,2019-08-08,2019-09-02,TSG 1899 Hoffenheim,SV Werder Bremen,context_match,0.6896551724137931
+18269,Lucas Lima,2018-2019,2019-2020,Nantes,2019-08-08,2019-08-27,FC Nantes,Al-Ahli SFC,context_match,0.8
+18277,Ludovic Blas,2018-2019,2019-2020,Guingamp,2019-08-08,2019-09-02,EA Guingamp,FC Nantes,context_match,0.8421052631578947
+18281,Luiz Gustavo,2018-2019,2019-2020,Marseille,2019-08-08,2019-09-02,Olympique Marseille,Fenerbahce,single_candidate,0.6428571428571429
+18315,Mario Lemina,2018-2019,2019-2020,Southampton,2019-08-08,2019-09-02,Southampton FC,Galatasaray,context_match,0.88
+18319,Mariusz Stępiński,2018-2019,2019-2020,Chievo,2019-08-08,2019-09-02,Chievo Verona,Hellas Verona,single_candidate,0.631578947368421
+18347,Mauro Icardi,2018-2019,2019-2020,Inter,2019-08-08,2019-09-02,Inter Milan,Paris Saint-Germain,single_candidate,0.625
+18359,Mehdi Léris,2018-2019,2019-2020,Chievo,2019-08-08,2019-08-12,Chievo Verona,UC Sampdoria,single_candidate,0.631578947368421
+18449,Patrik Schick,2018-2019,2019-2020,Roma,2019-08-08,2019-09-02,AS Roma,RB Leipzig,context_match,0.7272727272727273
+18462,Philippe Coutinho,2018-2019,2019-2020,Barcelona,2019-08-08,2019-08-19,FC Barcelona,Bayern Munich,context_match,0.8571428571428571
+18475,Radamel Falcao,2018-2019,2019-2020,Monaco,2019-08-08,2019-09-02,AS Monaco,Galatasaray,context_match,0.8
+18526,Rony Lopes,2018-2019,2019-2020,Monaco,2019-08-08,2019-08-14,AS Monaco,Sevilla FC,context_match,0.8
+18598,Steven Nzonzi,2018-2019,2019-2020,Roma,2019-08-08,2019-08-16,AS Roma,Galatasaray,context_match,0.7272727272727273
+18633,Valentin Rongier,2018-2019,2019-2020,Nantes,2019-08-08,2019-09-03,FC Nantes,Olympique Marseille,context_match,0.8
+18648,Walace,2018-2019,2019-2020,Hannover 96,2019-08-08,2019-08-12,Hannover 96,Udinese Calcio,context_match,1.0
+18658,Wissam Ben Yedder,2018-2019,2019-2020,Sevilla,2019-08-08,2019-08-14,Sevilla FC,AS Monaco,context_match,0.8235294117647058
+18689,Abdoulaye Doucouré,2019-2020,2020-2021,Watford,2020-08-20,2020-09-08,Watford FC,Everton FC,context_match,0.8235294117647058
+18712,Alessandro Florenzi,2019-2020,2020-2021,Roma,2020-08-20,2020-09-11,AS Roma,Paris Saint-Germain,context_match,0.7272727272727273
+18715,Álex Berenguer,2019-2020,2020-2021,Torino,2020-08-20,2020-10-02,Torino FC,Athletic Bilbao,context_match,0.8
+18726,Alfred Duncan,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-08-31,ACF Fiorentina,US Sassuolo,context_match,0.8333333333333334
+18729,Allan,2019-2020,2020-2021,Napoli,2020-08-20,2020-09-05,SSC Napoli,Everton FC,context_match,0.75
+18747,Andreas Pereira,2019-2020,2020-2021,Manchester Utd,2020-08-20,2020-10-02,Manchester United,SS Lazio,context_match,0.9032258064516129
+18760,Ante Budimir,2019-2020,2020-2021,Mallorca,2020-08-20,2020-10-05,RCD Mallorca,CA Osasuna,context_match,0.8
+18761,Ante Rebić,2019-2020,2020-2021,Milan,2020-08-20,2020-09-11,AC Milan,Eintracht Frankfurt,context_match,0.7692307692307693
+18766,Antonín Barák,2019-2020,2020-2021,Lecce,2020-08-20,2020-09-17,Udinese Calcio,Hellas Verona,single_candidate,0.21111111111111108
+18770,Antonio Sanabria,2019-2020,2020-2021,Genoa,2020-08-20,2020-08-31,Genoa CFC,Real Betis Balompié,context_match,0.7142857142857143
+18777,Arthur Melo,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-01,FC Barcelona,Juventus FC,context_match,0.8571428571428571
+18778,Artur Ioniță,2019-2020,2020-2021,Cagliari,2020-08-20,2020-09-01,Cagliari Calcio,Benevento Calcio,context_match,0.6956521739130435
+18779,Arturo Vidal,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-22,FC Barcelona,Inter Milan,context_match,0.8571428571428571
+18785,Baptiste Santamaria,2019-2020,2020-2021,Angers,2020-08-20,2020-09-17,Angers SCO,SC Freiburg,context_match,0.75
+18793,Bertrand Traoré,2019-2020,2020-2021,Lyon,2020-08-20,2020-09-19,Olympique Lyon,Aston Villa,single_candidate,0.4444444444444444
+18803,Bouna Sarr,2019-2020,2020-2021,Marseille,2020-08-20,2020-10-05,Olympique Marseille,Bayern Munich,single_candidate,0.6428571428571429
+18810,Callum Wilson,2019-2020,2020-2021,Bournemouth,2020-08-20,2020-09-07,AFC Bournemouth,Newcastle United,context_match,0.8461538461538461
+18812,Carles Pérez,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,FC Barcelona,context_match,0.7272727272727273
+18867,Davy Klaassen,2019-2020,2020-2021,Werder Bremen,2020-08-20,2020-10-05,SV Werder Bremen,Ajax Amsterdam,context_match,0.896551724137931
+18888,Diogo Jota,2019-2020,2020-2021,Wolves,2020-08-20,2020-09-19,Wolverhampton Wanderers,Liverpool FC,single_candidate,0.41379310344827586
+18907,Eduard Löwen,2019-2020,2020-2021,Augsburg,2020-08-20,2020-10-05,FC Augsburg,Hertha BSC,context_match,0.8421052631578947
+18926,Éver Banega,2019-2020,2020-2021,Sevilla,2020-08-20,2020-09-15,Sevilla FC,Al-Shabab FC,context_match,0.8235294117647058
+18937,Federico Chiesa,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-10-05,ACF Fiorentina,Juventus FC,context_match,0.8333333333333334
+18940,Felipe Anderson,2019-2020,2020-2021,West Ham,2020-08-20,2020-10-06,West Ham United,FC Porto,context_match,0.6956521739130435
+18953,Fousseni Diabaté,2019-2020,2020-2021,Amiens,2020-08-20,2020-09-25,Leicester City,Trabzonspor,single_candidate,0.33529411764705885
+18979,Gerard Deulofeu,2019-2020,2020-2021,Watford,2020-08-20,2020-10-05,Watford FC,Udinese Calcio,context_match,0.8235294117647058
+18983,Giacomo Bonaventura,2019-2020,2020-2021,Milan,2020-08-20,2020-09-10,AC Milan,ACF Fiorentina,context_match,0.7692307692307693
+18984,Gianluca Caprari,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-09-04,UC Sampdoria,Benevento Calcio,context_match,0.8571428571428571
+18986,Gianluca Mancini,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,Atalanta BC,context_match,0.7272727272727273
+18991,Gonçalo Paciência,2019-2020,2020-2021,Eint Frankfurt,2020-08-20,2020-09-15,Eintracht Frankfurt,FC Schalke 04,context_match,0.8484848484848485
+18992,Gonzalo Escalante,2019-2020,2020-2021,Eibar,2020-08-20,2020-09-01,SD Eibar,SS Lazio,context_match,0.7692307692307693
+18997,Grégoire Defrel,2019-2020,2020-2021,Sassuolo,2020-08-20,2020-08-31,US Sassuolo,AS Roma,context_match,0.8421052631578947
+19000,Guido Carrillo,2019-2020,2020-2021,Leganés,2020-08-20,2020-10-05,Southampton FC,Elche CF,single_candidate,0.2533333333333333
+19003,Habib Diallo,2019-2020,2020-2021,Metz,2020-08-20,2020-10-05,FC Metz,RC Strasbourg Alsace,context_match,0.7272727272727273
+19009,Harry Wilson,2019-2020,2020-2021,Bournemouth,2020-08-20,2020-10-16,Liverpool FC,Cardiff City,single_candidate,0.17391304347826086
+19045,Ivan Perišić,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-08-31,Bayern Munich,Inter Milan,context_match,1.0
+19047,Ivan Rakitić,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-01,FC Barcelona,Sevilla FC,context_match,0.8571428571428571
+19073,Jeff Hendrick,2019-2020,2020-2021,Burnley,2020-08-20,2020-08-24,Burnley FC,Newcastle United,context_match,0.8235294117647058
+19079,Jérémy Gélin,2019-2020,2020-2021,Rennes,2020-08-20,2020-10-05,Stade Rennais FC,Royal Antwerp FC,single_candidate,0.45454545454545453
+19081,Jhon Córdoba,2019-2020,2020-2021,Köln,2020-08-20,2020-09-15,1.FC Köln,Hertha BSC,single_candidate,0.6153846153846154
+19098,Jonathan Calleri,2019-2020,2020-2021,Espanyol,2020-08-20,2020-09-13,Club Deportivo Maldonado,CA Osasuna,single_candidate,0.31666666666666665
+19106,Jordan Veretout,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,ACF Fiorentina,context_match,0.7272727272727273
+19111,José Callejón,2019-2020,2020-2021,Napoli,2020-08-20,2020-10-05,SSC Napoli,ACF Fiorentina,context_match,0.75
+19129,Justin Kluivert,2019-2020,2020-2021,Roma,2020-08-20,2020-10-05,AS Roma,RB Leipzig,context_match,0.7272727272727273
+19130,Kai Havertz,2019-2020,2020-2021,Leverkusen,2020-08-20,2020-09-04,Bayer 04 Leverkusen,Chelsea FC,context_match,0.6896551724137931
+19137,Karol Linetty,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-09-01,UC Sampdoria,Torino FC,context_match,0.8571428571428571
+19140,Ken Sema,2019-2020,2020-2021,Udinese,2020-08-20,2020-08-31,Udinese Calcio,Watford FC,context_match,0.6666666666666666
+19149,Kévin Rodrigues,2019-2020,2020-2021,Leganés,2020-08-20,2020-09-12,Real Sociedad,SD Eibar,single_candidate,0.3
+19153,Kevin Volland,2019-2020,2020-2021,Leverkusen,2020-08-20,2020-09-02,Bayer 04 Leverkusen,AS Monaco,context_match,0.6896551724137931
+19154,Khouma Babacar,2019-2020,2020-2021,Lecce,2020-08-20,2020-09-03,US Sassuolo,Alanyaspor,single_candidate,0.12666666666666665
+19192,Lucas Paquetá,2019-2020,2020-2021,Milan,2020-08-20,2020-09-30,AC Milan,Olympique Lyon,context_match,0.7692307692307693
+19194,Lucas Torreira,2019-2020,2020-2021,Arsenal,2020-08-20,2020-10-05,Arsenal FC,Atlético de Madrid,context_match,0.8235294117647058
+19221,Marc Roca,2019-2020,2020-2021,Espanyol,2020-08-20,2020-10-04,RCD Espanyol Barcelona,Bayern Munich,single_candidate,0.5333333333333333
+19237,Mario Pašalić,2019-2020,2020-2021,Atalanta,2020-08-20,2020-08-31,Atalanta BC,Chelsea FC,context_match,0.8421052631578947
+19248,Martín Montoya,2019-2020,2020-2021,Brighton,2020-08-20,2020-08-25,Brighton & Hove Albion,Real Betis Balompié,single_candidate,0.5714285714285714
+19262,Matt Doherty,2019-2020,2020-2021,Wolves,2020-08-20,2020-08-30,Wolverhampton Wanderers,Tottenham Hotspur,single_candidate,0.41379310344827586
+19265,Mattéo Guendouzi,2019-2020,2020-2021,Arsenal,2020-08-20,2020-10-05,Arsenal FC,Hertha BSC,context_match,0.8235294117647058
+19266,Matteo Pessina,2019-2020,2020-2021,Hellas Verona,2020-08-20,2020-08-31,Hellas Verona,Atalanta BC,context_match,1.0
+19278,Maxime Lopez,2019-2020,2020-2021,Marseille,2020-08-20,2020-10-05,Olympique Marseille,US Sassuolo,single_candidate,0.6428571428571429
+19297,Milan Badelj,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-08-31,ACF Fiorentina,SS Lazio,context_match,0.8333333333333334
+19299,Miralem Pjanić,2019-2020,2020-2021,Juventus,2020-08-20,2020-09-01,Juventus FC,FC Barcelona,context_match,0.8421052631578947
+19348,Ondrej Duda,2019-2020,2020-2021,Norwich City,2020-08-20,2020-09-16,Hertha BSC,1.FC Köln,single_candidate,0.18181818181818182
+19382,Philippe Coutinho,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-08-31,Bayern Munich,FC Barcelona,context_match,1.0
+19400,Raphinha,2019-2020,2020-2021,Rennes,2020-08-20,2020-10-05,Stade Rennais FC,Leeds United,single_candidate,0.45454545454545453
+19413,Ridle Baku,2019-2020,2020-2021,Mainz 05,2020-08-20,2020-10-01,1.FSV Mainz 05,VfL Wolfsburg,context_match,0.7272727272727273
+19421,Roberto Pereyra,2019-2020,2020-2021,Watford,2020-08-20,2020-09-28,Watford FC,Udinese Calcio,context_match,0.8235294117647058
+19425,Robin Koch,2019-2020,2020-2021,Freiburg,2020-08-20,2020-08-29,SC Freiburg,Leeds United,context_match,0.8421052631578947
+19440,Ronaldo Vieira,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-10-03,UC Sampdoria,Hellas Verona,context_match,0.8571428571428571
+19442,Ross Barkley,2019-2020,2020-2021,Chelsea,2020-08-20,2020-09-30,Chelsea FC,Aston Villa,context_match,0.8235294117647058
+19451,Ryan Fraser,2019-2020,2020-2021,Bournemouth,2020-08-20,2020-09-07,AFC Bournemouth,Newcastle United,context_match,0.8461538461538461
+19462,Sandro Tonali,2019-2020,2020-2021,Brescia,2020-08-20,2020-09-09,Brescia Calcio (- 2025),AC Milan,single_candidate,0.5384615384615384
+19518,Thiago Alcántara,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-09-18,Bayern Munich,Liverpool FC,context_match,1.0
+19524,Thomas Partey,2019-2020,2020-2021,Atlético Madrid,2020-08-20,2020-10-05,Atlético de Madrid,Arsenal FC,context_match,0.9090909090909091
+19551,Victor Osimhen,2019-2020,2020-2021,Lille,2020-08-20,2020-09-01,LOSC Lille,SSC Napoli,context_match,0.6666666666666666
+19566,Weston McKennie,2019-2020,2020-2021,Schalke 04,2020-08-20,2020-09-01,FC Schalke 04,Juventus FC,context_match,0.8695652173913043
+19600,Abdoul Kader Bamba,2020-2021,2021-2022,Nantes,2021-08-05,2021-08-31,FC Nantes,Amiens SC,context_match,0.8
+19602,Abdoulaye Touré,2020-2021,2021-2022,Nantes,2021-08-05,2021-08-31,FC Nantes,Genoa CFC,context_match,0.8
+19606,Ademola Lookman,2020-2021,2021-2022,Fulham,2021-08-05,2021-08-31,RB Leipzig,Leicester City,single_candidate,0.125
+19619,Alberto Grassi,2020-2021,2021-2022,Parma,2021-08-05,2021-08-21,Parma Calcio 1913,Cagliari Calcio,single_candidate,0.45454545454545453
+19632,Alexander Sørloth,2020-2021,2021-2022,RB Leipzig,2021-08-05,2021-08-25,RB Leipzig,Real Sociedad,context_match,1.0
+19647,Amine Harit,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-31,FC Schalke 04,Olympique Marseille,context_match,0.8695652173913043
+19665,Andy Delort,2020-2021,2021-2022,Montpellier,2021-08-05,2021-08-28,Montpellier HSC,OGC Nice,context_match,0.8461538461538461
+19676,Antoine Griezmann,2020-2021,2021-2022,Barcelona,2021-08-05,2021-08-31,FC Barcelona,Atlético de Madrid,context_match,0.8571428571428571
+19701,Baptiste Santamaria,2020-2021,2021-2022,Freiburg,2021-08-05,2021-08-17,SC Freiburg,Stade Rennais FC,context_match,0.8421052631578947
+19748,Christian Kouamé,2020-2021,2021-2022,Fiorentina,2021-08-05,2021-08-21,ACF Fiorentina,RSC Anderlecht,context_match,0.8333333333333334
+19760,Cristiano Ronaldo,2020-2021,2021-2022,Juventus,2021-08-05,2021-08-31,Juventus FC,Manchester United,context_match,0.8421052631578947
+19772,Daniel James,2020-2021,2021-2022,Manchester Utd,2021-08-05,2021-08-31,Manchester United,Leeds United,context_match,0.9032258064516129
+19807,Dodi Lukebakio,2020-2021,2021-2022,Hertha BSC,2021-08-05,2021-08-30,Hertha BSC,VfL Wolfsburg,context_match,1.0
+19819,Edin Džeko,2020-2021,2021-2022,Roma,2021-08-05,2021-08-14,AS Roma,Inter Milan,context_match,0.7272727272727273
+19822,Eduardo Camavinga,2020-2021,2021-2022,Rennes,2021-08-05,2021-08-31,Stade Rennais FC,Real Madrid,single_candidate,0.45454545454545453
+19841,Ethan Ampadu,2020-2021,2021-2022,Sheffield Utd,2021-08-05,2021-08-31,Chelsea FC,Venezia FC,single_candidate,0.2608695652173913
+19873,Francesco Caputo,2020-2021,2021-2022,Sassuolo,2021-08-05,2021-08-31,US Sassuolo,UC Sampdoria,context_match,0.8421052631578947
+19883,Gaëtan Laborde,2020-2021,2021-2022,Montpellier,2021-08-05,2021-08-31,Montpellier HSC,Stade Rennais FC,context_match,0.8461538461538461
+19895,Gianluca Caprari,2020-2021,2021-2022,Benevento,2021-08-05,2021-08-31,UC Sampdoria,Hellas Verona,single_candidate,0.34545454545454546
+19900,Giovanni Simeone,2020-2021,2021-2022,Cagliari,2021-08-05,2021-08-26,Cagliari Calcio,Hellas Verona,context_match,0.6956521739130435
+19926,Héctor Bellerín,2020-2021,2021-2022,Arsenal,2021-08-05,2021-08-31,Arsenal FC,Real Betis Balompié,context_match,0.8235294117647058
+19927,Hélder Costa,2020-2021,2021-2022,Leeds United,2021-08-05,2021-08-31,Leeds United,Valencia CF,context_match,1.0
+19929,Hernani,2020-2021,2021-2022,Parma,2021-08-05,2021-08-07,Parma Calcio 1913,Genoa CFC,single_candidate,0.45454545454545453
+19969,Jakub Jankto,2020-2021,2021-2022,Sampdoria,2021-08-05,2021-08-20,UC Sampdoria,Getafe CF,context_match,0.8571428571428571
+19973,James Rodríguez,2020-2021,2021-2022,Everton,2021-08-05,2021-09-22,Everton FC,Al-Rayyan SC,context_match,0.8235294117647058
+20006,Joaquín Correa,2020-2021,2021-2022,Lazio,2021-08-05,2021-08-26,SS Lazio,Inter Milan,context_match,0.7692307692307693
+20041,Josh Sargent,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-09,SV Werder Bremen,Norwich City,context_match,0.896551724137931
+20043,Josip Brekalo,2020-2021,2021-2022,Wolfsburg,2021-08-05,2021-08-31,VfL Wolfsburg,Torino FC,context_match,0.8181818181818182
+20054,Junior Messias,2020-2021,2021-2022,Crotone,2021-08-05,2021-08-31,FC Crotone,AC Milan,context_match,0.8235294117647058
+20076,Kevin Möhwald,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-30,SV Werder Bremen,1.FC Union Berlin,context_match,0.896551724137931
+20077,Kévin Rodrigues,2020-2021,2021-2022,Eibar,2021-08-05,2021-08-11,Real Sociedad,Rayo Vallecano,single_candidate,0.3333333333333333
+20103,Lionel Messi,2020-2021,2021-2022,Barcelona,2021-08-05,2021-08-10,FC Barcelona,Paris Saint-Germain,context_match,0.8571428571428571
+20105,Loren Morón,2020-2021,2021-2022,Betis,2021-08-05,2021-08-25,Real Betis Balompié,RCD Espanyol Barcelona,single_candidate,0.4166666666666667
+20119,Lucas Pérez,2020-2021,2021-2022,Alavés,2021-08-05,2021-08-31,Deportivo Alavés,Elche CF,single_candidate,0.5454545454545454
+20125,Ludwig Augustinsson,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-15,SV Werder Bremen,Sevilla FC,context_match,0.896551724137931
+20132,Luiz Araújo,2020-2021,2021-2022,Lille,2021-08-05,2021-08-06,LOSC Lille,Atlanta United FC,context_match,0.6666666666666666
+20137,Luuk de Jong,2020-2021,2021-2022,Sevilla,2021-08-05,2021-08-31,Sevilla FC,FC Barcelona,context_match,0.8235294117647058
+20143,Mamadou Fofana,2020-2021,2021-2022,Metz,2021-08-05,2021-08-12,FC Metz,Amiens SC,context_match,0.7272727272727273
+20147,Manuel Locatelli,2020-2021,2021-2022,Sassuolo,2021-08-05,2021-08-18,US Sassuolo,Juventus FC,context_match,0.8421052631578947
+20151,Marc Cucurella,2020-2021,2021-2022,Getafe,2021-08-05,2021-08-31,Getafe CF,Brighton & Hove Albion,context_match,0.8
+20152,Marcel Hartel,2020-2021,2021-2022,Arminia,2021-08-05,2021-08-10,Arminia Bielefeld,FC St. Pauli,single_candidate,0.5833333333333334
+20153,Marcel Sabitzer,2020-2021,2021-2022,RB Leipzig,2021-08-05,2021-08-30,RB Leipzig,Bayern Munich,context_match,1.0
+20157,Marco Richter,2020-2021,2021-2022,Augsburg,2021-08-05,2021-08-09,FC Augsburg,Hertha BSC,context_match,0.8421052631578947
+20161,Marcus Ingvartsen,2020-2021,2021-2022,Union Berlin,2021-08-05,2021-08-30,1.FC Union Berlin,1.FSV Mainz 05,context_match,0.8275862068965517
+20185,Matheus Cunha,2020-2021,2021-2022,Hertha BSC,2021-08-05,2021-08-25,Hertha BSC,Atlético de Madrid,context_match,1.0
+20195,Matthew Hoppe,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-31,FC Schalke 04,RCD Mallorca,context_match,0.8695652173913043
+20197,Mattia Zaccagni,2020-2021,2021-2022,Hellas Verona,2021-08-05,2021-08-31,Hellas Verona,SS Lazio,context_match,1.0
+20207,Maximilian Eggestein,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-18,SV Werder Bremen,SC Freiburg,context_match,0.896551724137931
+20210,Maxwel Cornet,2020-2021,2021-2022,Lyon,2021-08-05,2021-08-29,Olympique Lyon,Burnley FC,single_candidate,0.4444444444444444
+20246,Moussa Sissoko,2020-2021,2021-2022,Tottenham,2021-08-05,2021-08-27,Tottenham Hotspur,Watford FC,context_match,0.6923076923076923
+20248,Myziane Maolida,2020-2021,2021-2022,Nice,2021-08-05,2021-08-31,OGC Nice,Hertha BSC,context_match,0.6666666666666666
+20273,Nicolas Viola,2020-2021,2021-2022,Benevento,2021-08-05,2021-10-20,Without Club,Bologna FC 1909,single_candidate,0.15833333333333333
+20289,Omar Mascarell,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-23,FC Schalke 04,Elche CF,context_match,0.8695652173913043
+20300,Pablo Sarabia,2020-2021,2021-2022,Paris S-G,2021-08-05,2021-08-31,Paris Saint-Germain,Sporting CP,single_candidate,0.6428571428571429
+20307,Pape Matar Sarr,2020-2021,2021-2022,Metz,2021-08-05,2021-08-27,FC Metz,Tottenham Hotspur,context_match,0.7272727272727273
+20367,Robert Andrich,2020-2021,2021-2022,Union Berlin,2021-08-05,2021-08-16,1.FC Union Berlin,Bayer 04 Leverkusen,context_match,0.8275862068965517
+20392,Romelu Lukaku,2020-2021,2021-2022,Inter,2021-08-05,2021-08-12,Inter Milan,Chelsea FC,single_candidate,0.625
+20423,Saúl Ñíguez,2020-2021,2021-2022,Atlético Madrid,2021-08-05,2021-08-31,Atlético de Madrid,Chelsea FC,context_match,0.9090909090909091
+20437,Sergi Guardiola,2020-2021,2021-2022,Valladolid,2021-08-05,2021-08-31,Real Valladolid CF,Rayo Vallecano,context_match,0.7142857142857143
+20449,Simon Banza,2020-2021,2021-2022,Lens,2021-08-05,2021-08-31,RC Lens,FC Famalicão,context_match,0.7272727272727273
+20473,Tammy Abraham,2020-2021,2021-2022,Chelsea,2021-08-05,2021-08-17,Chelsea FC,AS Roma,context_match,0.8235294117647058
+20483,Thomas Delaney,2020-2021,2021-2022,Dortmund,2021-08-05,2021-08-25,Borussia Dortmund,Sevilla FC,single_candidate,0.64
+20495,Toma Bašić,2020-2021,2021-2022,Bordeaux,2021-08-05,2021-08-25,FC Girondins Bordeaux,SS Lazio,single_candidate,0.5517241379310345
+20506,Unai López,2020-2021,2021-2022,Athletic Club,2021-08-05,2021-08-31,Athletic Bilbao,Rayo Vallecano,context_match,0.7857142857142857
+20529,Willian,2020-2021,2021-2022,Arsenal,2021-08-05,2021-08-30,Arsenal FC,Sport Club Corinthians Paulista,context_match,0.8235294117647058
+20544,Yoane Wissa,2020-2021,2021-2022,Lorient,2021-08-05,2021-08-10,FC Lorient,Brentford FC,context_match,0.8235294117647058
+20545,Yoshinori Mutō,2020-2021,2021-2022,Eibar,2021-08-05,2021-08-07,Newcastle United,Vissel Kobe,single_candidate,0.2375
+20566,Adnan Januzaj,2021-2022,2022-2023,Real Sociedad,2022-08-04,2022-08-31,Real Sociedad,Sevilla FC,context_match,1.0
+20572,Ajdin Hrustic,2021-2022,2022-2023,Eint Frankfurt,2022-08-04,2022-09-01,Eintracht Frankfurt,Hellas Verona,context_match,0.8484848484848485
+20587,Alexander Isak,2021-2022,2022-2023,Real Sociedad,2022-08-04,2022-08-26,Real Sociedad,Newcastle United,context_match,1.0
+20594,Allan,2021-2022,2022-2023,Everton,2022-08-04,2022-09-25,Everton FC,Al-Wahda FC,context_match,0.8235294117647058
+20599,Amadou Onana,2021-2022,2022-2023,Lille,2022-08-04,2022-08-09,LOSC Lille,Everton FC,context_match,0.6666666666666666
+20601,Amine Gouiri,2021-2022,2022-2023,Nice,2022-08-04,2022-09-01,OGC Nice,Stade Rennais FC,context_match,0.6666666666666666
+20603,Ander Herrera,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-08-27,Paris Saint-Germain,Athletic Bilbao,single_candidate,0.6428571428571429
+20608,Andrea Belotti,2021-2022,2022-2023,Torino,2022-08-04,2022-08-28,Torino FC,AS Roma,context_match,0.8
+20630,Antonín Barák,2021-2022,2022-2023,Hellas Verona,2022-08-04,2022-08-26,Hellas Verona,ACF Fiorentina,context_match,1.0
+20631,Antonio Candreva,2021-2022,2022-2023,Sampdoria,2022-08-04,2022-08-12,UC Sampdoria,US Salernitana 1919,context_match,0.8571428571428571
+20637,Armand Lauriente,2021-2022,2022-2023,Lorient,2022-08-04,2022-08-31,FC Lorient,US Sassuolo,context_match,0.8235294117647058
+20643,Arthur Melo,2021-2022,2022-2023,Juventus,2022-08-04,2022-09-01,Juventus FC,Liverpool FC,context_match,0.8421052631578947
+20646,Aster Vranckx,2021-2022,2022-2023,Wolfsburg,2022-08-04,2022-09-01,VfL Wolfsburg,AC Milan,context_match,0.8181818181818182
+20665,Boubacar Traoré,2021-2022,2022-2023,Metz,2022-08-04,2022-09-01,FC Metz,Wolverhampton Wanderers,context_match,0.7272727272727273
+20667,Boulaye Dia,2021-2022,2022-2023,Villarreal,2022-08-04,2022-08-18,Villarreal CF,US Salernitana 1919,context_match,0.8695652173913043
+20679,Callum Hudson-Odoi,2021-2022,2022-2023,Chelsea,2022-08-04,2022-08-30,Chelsea FC,Bayer 04 Leverkusen,context_match,0.8235294117647058
+20681,Calvin Stengs,2021-2022,2022-2023,Nice,2022-08-04,2022-08-30,OGC Nice,Royal Antwerp FC,context_match,0.6666666666666666
+20684,Carlos Soler,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,Paris Saint-Germain,context_match,0.8421052631578947
+20685,Casemiro,2021-2022,2022-2023,Real Madrid,2022-08-04,2022-08-22,Real Madrid,Manchester United,context_match,1.0
+20691,Cheikhou Kouyaté,2021-2022,2022-2023,Crystal Palace,2022-08-04,2022-08-13,Crystal Palace,Nottingham Forest,context_match,1.0
+20713,Daniel James,2021-2022,2022-2023,Leeds United,2022-08-04,2022-09-01,Leeds United,Fulham FC,context_match,1.0
+20716,Daniel Wass,2021-2022,2022-2023,Valencia,2022-08-04,2022-08-12,Atlético de Madrid,Bröndby IF,single_candidate,0.38461538461538464
+20734,Dele Alli,2021-2022,2022-2023,Tottenham,2022-08-04,2022-08-25,Everton FC,Besiktas JK,single_candidate,0.3157894736842105
+20738,Denis Zakaria,2021-2022,2022-2023,M'Gladbach,2022-08-04,2022-09-01,Juventus FC,Chelsea FC,single_candidate,0.19047619047619047
+20742,Diadie Samassékou,2021-2022,2022-2023,Hoffenheim,2022-08-04,2022-09-15,TSG 1899 Hoffenheim,Olympiacos Piraeus,context_match,0.6896551724137931
+20756,Dries Mertens,2021-2022,2022-2023,Napoli,2022-08-04,2022-08-08,SSC Napoli,Galatasaray,context_match,0.75
+20764,El Bilal Touré,2021-2022,2022-2023,Reims,2022-08-04,2022-09-01,Stade Reims,UD Almería,single_candidate,0.625
+20773,Emmanuel Dennis,2021-2022,2022-2023,Watford,2022-08-04,2022-08-13,Watford FC,Nottingham Forest,context_match,0.8235294117647058
+20782,Ethan Ampadu,2021-2022,2022-2023,Venezia,2022-08-04,2022-09-01,Chelsea FC,Spezia Calcio,single_candidate,0.38
+20804,Filip Kostić,2021-2022,2022-2023,Eint Frankfurt,2022-08-04,2022-08-12,Eintracht Frankfurt,Juventus FC,context_match,0.8484848484848485
+20832,Gaël Kakuta,2021-2022,2022-2023,Lens,2022-08-04,2022-10-05,RC Lens,Amiens SC,context_match,0.7272727272727273
+20833,Gaëtan Laborde,2021-2022,2022-2023,Rennes,2022-08-04,2022-09-01,Stade Rennais FC,OGC Nice,single_candidate,0.45454545454545453
+20841,Georginio Wijnaldum,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-08-05,Paris Saint-Germain,AS Roma,single_candidate,0.6428571428571429
+20848,Giacomo Raspadori,2021-2022,2022-2023,Sassuolo,2022-08-04,2022-08-20,US Sassuolo,SSC Napoli,context_match,0.8421052631578947
+20856,Giulio Maggiore,2021-2022,2022-2023,Spezia,2022-08-04,2022-08-16,Spezia Calcio,US Salernitana 1919,single_candidate,0.631578947368421
+20858,Gonçalo Guedes,2021-2022,2022-2023,Valencia,2022-08-04,2022-08-08,Valencia CF,Wolverhampton Wanderers,context_match,0.8421052631578947
+20859,Gonzalo Escalante,2021-2022,2022-2023,Alavés,2022-08-04,2022-08-09,SS Lazio,US Cremonese,single_candidate,0.2857142857142857
+20860,Gonzalo Melero,2021-2022,2022-2023,Levante,2022-08-04,2022-09-01,Levante UD,UD Almería,context_match,0.8235294117647058
+20865,Guido Carrillo,2021-2022,2022-2023,Elche,2022-08-04,2022-08-30,Elche CF,Henan FC,context_match,0.7692307692307693
+20875,Harry Winks,2021-2022,2022-2023,Tottenham,2022-08-04,2022-08-30,Tottenham Hotspur,UC Sampdoria,context_match,0.6923076923076923
+20896,Ignatius Ganago,2021-2022,2022-2023,Lens,2022-08-04,2022-09-01,RC Lens,FC Nantes,context_match,0.7272727272727273
+20899,Ilan Kebbal,2021-2022,2022-2023,Reims,2022-08-04,2022-09-01,Stade Reims,Paris FC,single_candidate,0.625
+20941,Jean Onana,2021-2022,2022-2023,Bordeaux,2022-08-04,2022-09-01,FC Girondins Bordeaux,RC Lens,single_candidate,0.5517241379310345
+20983,Jordan Veretout,2021-2022,2022-2023,Roma,2022-08-04,2022-08-05,AS Roma,Olympique Marseille,context_match,0.7272727272727273
+21017,Kasper Dolberg,2021-2022,2022-2023,Nice,2022-08-04,2022-09-01,OGC Nice,Sevilla FC,context_match,0.6666666666666666
+21049,Leander Dendoncker,2021-2022,2022-2023,Wolves,2022-08-04,2022-09-01,Wolverhampton Wanderers,Aston Villa,single_candidate,0.41379310344827586
+21069,Lucas Ocampos,2021-2022,2022-2023,Sevilla,2022-08-04,2022-08-31,Sevilla FC,Ajax Amsterdam,context_match,0.8235294117647058
+21070,Lucas Paquetá,2021-2022,2022-2023,Lyon,2022-08-04,2022-08-29,Olympique Lyon,West Ham United,single_candidate,0.4444444444444444
+21090,Mahdi Camara,2021-2022,2022-2023,Saint-Étienne,2022-08-04,2022-08-26,AS Saint-Étienne,Stade Brestois 29,context_match,0.896551724137931
+21146,Mauro Icardi,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-09-08,Paris Saint-Germain,Galatasaray,single_candidate,0.6428571428571429
+21150,Maxi Gómez,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,Trabzonspor,context_match,0.8421052631578947
+21157,Maxwel Cornet,2021-2022,2022-2023,Burnley,2022-08-04,2022-08-05,Burnley FC,West Ham United,context_match,0.8235294117647058
+21197,Nathan Redmond,2021-2022,2022-2023,Southampton,2022-08-04,2022-09-08,Southampton FC,Besiktas JK,context_match,0.88
+21199,Neal Maupay,2021-2022,2022-2023,Brighton,2022-08-04,2022-08-26,Brighton & Hove Albion,Everton FC,single_candidate,0.5714285714285714
+21216,Nicolò Rovella,2021-2022,2022-2023,Genoa,2022-08-04,2022-08-31,Juventus FC,AC Monza,single_candidate,0.2923076923076923
+21235,Oriol Romeu,2021-2022,2022-2023,Southampton,2022-08-04,2022-09-01,Southampton FC,Girona FC,context_match,0.88
+21236,Óscar Melendo,2021-2022,2022-2023,Espanyol,2022-08-04,2022-08-06,RCD Espanyol Barcelona,Granada CF,single_candidate,0.5333333333333333
+21269,Pierre-Emerick Aubameyang,2021-2022,2022-2023,Barcelona,2022-08-04,2022-09-01,FC Barcelona,Chelsea FC,context_match,0.8571428571428571
+21274,Pol Lirola,2021-2022,2022-2023,Marseille,2022-08-04,2022-08-12,Olympique Marseille,Elche CF,single_candidate,0.6428571428571429
+21289,Raúl de Tomás,2021-2022,2022-2023,Espanyol,2022-08-04,2022-09-13,RCD Espanyol Barcelona,Rayo Vallecano,single_candidate,0.5333333333333333
+21295,Remi Oudin,2021-2022,2022-2023,Bordeaux,2022-08-04,2022-08-31,FC Girondins Bordeaux,US Lecce,single_candidate,0.5517241379310345
+21296,Remo Freuler,2021-2022,2022-2023,Atalanta,2022-08-04,2022-08-14,Atalanta BC,Nottingham Forest,context_match,0.8421052631578947
+21298,Renato Steffen,2021-2022,2022-2023,Wolfsburg,2022-08-04,2022-08-30,VfL Wolfsburg,FC Lugano,context_match,0.8181818181818182
+21356,Sasa Kalajdzic,2021-2022,2022-2023,Stuttgart,2022-08-04,2022-08-31,VfB Stuttgart,Wolverhampton Wanderers,context_match,0.8181818181818182
+21373,Sergiño Dest,2021-2022,2022-2023,Barcelona,2022-08-04,2022-09-01,FC Barcelona,AC Milan,context_match,0.8571428571428571
+21377,Sergio Reguilón,2021-2022,2022-2023,Tottenham,2022-08-04,2022-08-30,Tottenham Hotspur,Atlético de Madrid,context_match,0.6923076923076923
+21383,Sofiane Diop,2021-2022,2022-2023,Monaco,2022-08-04,2022-08-29,AS Monaco,OGC Nice,context_match,0.8
+21425,Timo Werner,2021-2022,2022-2023,Chelsea,2022-08-04,2022-08-09,Chelsea FC,RB Leipzig,context_match,0.8235294117647058
+21445,Uroš Račić,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,SC Braga,context_match,0.8421052631578947
+21459,Wajdi Kechrida,2021-2022,2022-2023,Salernitana,2022-08-04,2022-08-29,US Salernitana 1919,Atromitos Athens,context_match,0.7333333333333333
+21494,Abdelhamid Sabiri,2022-2023,2023-2024,Sampdoria,2023-08-10,2023-09-07,ACF Fiorentina,Al-Fayha FC,single_candidate,0.43478260869565216
+21501,Adama Traoré,2022-2023,2023-2024,Wolves,2023-08-10,2023-08-12,Wolverhampton Wanderers,Fulham FC,single_candidate,0.41379310344827586
+21503,Ado Onaiwu,2022-2023,2023-2024,Toulouse,2023-08-10,2023-08-28,FC Toulouse,AJ Auxerre,context_match,0.8421052631578947
+21517,Aleksandar Mitrović,2022-2023,2023-2024,Fulham,2023-08-10,2023-08-19,Fulham FC,Al-Hilal SFC,context_match,0.8
+21523,Alex Iwobi,2022-2023,2023-2024,Everton,2023-08-10,2023-09-01,Everton FC,Fulham FC,context_match,0.8235294117647058
+21529,Alexis Flips,2022-2023,2023-2024,Reims,2023-08-10,2023-08-12,Stade Reims,RSC Anderlecht,single_candidate,0.625
+21531,Alexis Saelemaekers,2022-2023,2023-2024,Milan,2023-08-10,2023-08-30,AC Milan,Bologna FC 1909,context_match,0.7692307692307693
+21532,Alexis Sánchez,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-26,Olympique Marseille,Inter Milan,single_candidate,0.6428571428571429
+21562,Ansu Fati,2022-2023,2023-2024,Barcelona,2023-08-10,2023-09-01,FC Barcelona,Brighton & Hove Albion,context_match,0.8571428571428571
+21571,Anton Stach,2022-2023,2023-2024,Mainz 05,2023-08-10,2023-09-01,1.FSV Mainz 05,TSG 1899 Hoffenheim,context_match,0.7272727272727273
+21577,Arber Zeneli,2022-2023,2023-2024,Reims,2023-08-10,2023-09-02,Stade Reims,Adana Demirspor,single_candidate,0.625
+21586,Assan Ceesay,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-15,US Lecce,Damac FC,context_match,0.7692307692307693
+21601,Beto,2022-2023,2023-2024,Udinese,2023-08-10,2023-08-29,Udinese Calcio,Everton FC,context_match,0.6666666666666666
+21608,Boubakary Soumaré,2022-2023,2023-2024,Leicester City,2023-08-10,2023-09-01,Leicester City,Sevilla FC,context_match,1.0
+21610,Bradley Barcola,2022-2023,2023-2024,Lyon,2023-08-10,2023-08-31,Olympique Lyon,Paris Saint-Germain,single_candidate,0.4444444444444444
+21617,Brennan Johnson,2022-2023,2023-2024,Nott'ham Forest,2023-08-10,2023-09-01,Nottingham Forest,Tottenham Hotspur,context_match,0.875
+21635,Cengiz Ünder,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-13,Olympique Marseille,Fenerbahce,single_candidate,0.6428571428571429
+21637,Charles De Ketelaere,2022-2023,2023-2024,Milan,2023-08-10,2023-08-16,AC Milan,Atalanta BC,context_match,0.7692307692307693
+21673,Daniel Podence,2022-2023,2023-2024,Wolves,2023-08-10,2023-09-04,Wolverhampton Wanderers,Olympiacos Piraeus,single_candidate,0.41379310344827586
+21694,Demarai Gray,2022-2023,2023-2024,Everton,2023-08-10,2023-09-07,Everton FC,Al-Ettifaq FC,context_match,0.8235294117647058
+21703,Divock Origi,2022-2023,2023-2024,Milan,2023-08-10,2023-09-01,AC Milan,Nottingham Forest,context_match,0.7692307692307693
+21705,Dodi Lukebakio,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-24,Hertha BSC,Sevilla FC,context_match,1.0
+21716,Duván Zapata,2022-2023,2023-2024,Atalanta,2023-08-10,2023-09-01,Atalanta BC,Torino FC,context_match,0.8421052631578947
+21734,Elye Wahi,2022-2023,2023-2024,Montpellier,2023-08-10,2023-08-20,Montpellier HSC,RC Lens,context_match,0.8461538461538461
+21743,Eric García,2022-2023,2023-2024,Barcelona,2023-08-10,2023-09-01,FC Barcelona,Girona FC,context_match,0.8571428571428571
+21761,Fares Chaïbi,2022-2023,2023-2024,Toulouse,2023-08-10,2023-08-30,FC Toulouse,Eintracht Frankfurt,context_match,0.8421052631578947
+21764,Federico Di Francesco,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-31,US Lecce,Palermo FC,context_match,0.7692307692307693
+21775,Flavien Tait,2022-2023,2023-2024,Rennes,2023-08-10,2023-09-06,Stade Rennais FC,Samsunspor,single_candidate,0.45454545454545453
+21790,Fred,2022-2023,2023-2024,Manchester Utd,2023-08-10,2023-08-13,Manchester United,Fenerbahce,context_match,0.9032258064516129
+21826,Habib Diallo,2022-2023,2023-2024,Strasbourg,2023-08-10,2023-08-13,RC Strasbourg Alsace,Al-Shabab FC,context_match,0.6666666666666666
+21830,Han-Noah Massengo,2022-2023,2023-2024,Auxerre,2023-08-10,2023-08-31,Bristol City,Burnley FC,single_candidate,0.22352941176470587
+21831,Haris Belkebla,2022-2023,2023-2024,Brest,2023-08-10,2023-09-12,Stade Brestois 29,Ohod Club,single_candidate,0.45454545454545453
+21833,Harry Kane,2022-2023,2023-2024,Tottenham,2023-08-10,2023-08-12,Tottenham Hotspur,Bayern Munich,context_match,0.6923076923076923
+21841,Hirving Lozano,2022-2023,2023-2024,Napoli,2023-08-10,2023-09-01,SSC Napoli,PSV Eindhoven,context_match,0.75
+21849,Ibrahima Koné,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-16,FC Lorient,UD Almería,context_match,0.8235294117647058
+21859,Ilia Gruev,2022-2023,2023-2024,Werder Bremen,2023-08-10,2023-08-31,SV Werder Bremen,Leeds United,context_match,0.896551724137931
+21880,Jack Harrison,2022-2023,2023-2024,Leeds United,2023-08-10,2023-08-14,Leeds United,Everton FC,context_match,1.0
+21884,Jaidon Anthony,2022-2023,2023-2024,Bournemouth,2023-08-10,2023-09-01,AFC Bournemouth,Leeds United,context_match,0.8461538461538461
+21889,James Ward-Prowse,2022-2023,2023-2024,Southampton,2023-08-10,2023-08-14,Southampton FC,West Ham United,context_match,0.88
+21897,Jean-Ricner Bellegarde,2022-2023,2023-2024,Strasbourg,2023-08-10,2023-09-01,RC Strasbourg Alsace,Wolverhampton Wanderers,context_match,0.6666666666666666
+21903,Jerdy Schouten,2022-2023,2023-2024,Bologna,2023-08-10,2023-08-16,Bologna FC 1909,PSV Eindhoven,single_candidate,0.6363636363636364
+21905,Jeremy Doku,2022-2023,2023-2024,Rennes,2023-08-10,2023-08-24,Stade Rennais FC,Manchester City,single_candidate,0.45454545454545453
+21907,Jesper Lindstrøm,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-08-29,Eintracht Frankfurt,SSC Napoli,context_match,0.8484848484848485
+21911,Joakim Mæhle,2022-2023,2023-2024,Atalanta,2023-08-10,2023-08-12,Atalanta BC,VfL Wolfsburg,context_match,0.8421052631578947
+21916,Joaquín Correa,2022-2023,2023-2024,Inter,2023-08-10,2023-08-25,Inter Milan,Olympique Marseille,single_candidate,0.625
+21945,Juan Bernat,2022-2023,2023-2024,Paris S-G,2023-08-10,2023-09-01,Paris Saint-Germain,SL Benfica,single_candidate,0.6428571428571429
+21947,Juanmi,2022-2023,2023-2024,Betis,2023-08-10,2023-08-19,Real Betis Balompié,Al-Riyadh SC,single_candidate,0.4166666666666667
+21954,Junior Messias,2022-2023,2023-2024,Milan,2023-08-10,2023-08-11,AC Milan,Genoa CFC,context_match,0.7692307692307693
+21959,Kamory Doumbia,2022-2023,2023-2024,Reims,2023-08-10,2023-09-01,Stade Reims,Stade Brestois 29,single_candidate,0.625
+21974,Kevin Lasagna,2022-2023,2023-2024,Hellas Verona,2023-08-10,2023-08-15,Hellas Verona,Fatih Karagümrük,context_match,1.0
+22027,Lovro Majer,2022-2023,2023-2024,Rennes,2023-08-10,2023-08-16,Stade Rennais FC,VfL Wolfsburg,single_candidate,0.45454545454545453
+22029,Lucas Boyé,2022-2023,2023-2024,Elche,2023-08-10,2023-08-30,Elche CF,Granada CF,context_match,0.7692307692307693
+22045,Luka Jović,2022-2023,2023-2024,Fiorentina,2023-08-10,2023-09-01,ACF Fiorentina,AC Milan,context_match,0.8333333333333334
+22060,Marco Richter,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-22,Hertha BSC,1.FSV Mainz 05,context_match,1.0
+22071,Marko Arnautović,2022-2023,2023-2024,Bologna,2023-08-10,2023-08-16,Bologna FC 1909,Inter Milan,single_candidate,0.6363636363636364
+22087,Matheus Nunes,2022-2023,2023-2024,Wolves,2023-08-10,2023-09-01,Wolverhampton Wanderers,Manchester City,single_candidate,0.41379310344827586
+22093,Mattéo Guendouzi,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-31,Olympique Marseille,SS Lazio,single_candidate,0.6428571428571429
+22096,Matthis Abline,2022-2023,2023-2024,Auxerre,2023-08-10,2023-08-25,Stade Rennais FC,FC Nantes,single_candidate,0.34782608695652173
+22102,Maxime Lopez,2022-2023,2023-2024,Sassuolo,2023-08-10,2023-09-01,US Sassuolo,ACF Fiorentina,context_match,0.8421052631578947
+22105,Mehdi Bourabia,2022-2023,2023-2024,Spezia,2023-08-10,2023-09-01,Spezia Calcio,Frosinone Calcio,single_candidate,0.631578947368421
+22122,Mitchell van Bergen,2022-2023,2023-2024,Reims,2023-08-10,2023-08-31,Stade Reims,Twente Enschede FC,single_candidate,0.625
+22130,Moisés Caicedo,2022-2023,2023-2024,Brighton,2023-08-10,2023-08-14,Brighton & Hove Albion,Chelsea FC,single_candidate,0.5714285714285714
+22134,Morten Hjulmand,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-13,US Lecce,Sporting CP,context_match,0.7692307692307693
+22143,Musa Barrow,2022-2023,2023-2024,Bologna,2023-08-10,2023-09-04,Bologna FC 1909,Al-Taawoun FC,single_candidate,0.6363636363636364
+22144,Nabil Bentaleb,2022-2023,2023-2024,Angers,2023-08-10,2023-08-28,Angers SCO,LOSC Lille,context_match,0.75
+22149,Neal Maupay,2022-2023,2023-2024,Everton,2023-08-10,2023-09-01,Everton FC,Brentford FC,context_match,0.8235294117647058
+22153,Nemanja Matić,2022-2023,2023-2024,Roma,2023-08-10,2023-08-14,AS Roma,Stade Rennais FC,context_match,0.7272727272727273
+22155,Neymar,2022-2023,2023-2024,Paris S-G,2023-08-10,2023-08-15,Paris Saint-Germain,Al-Hilal SFC,single_candidate,0.6428571428571429
+22156,Niclas Füllkrug,2022-2023,2023-2024,Werder Bremen,2023-08-10,2023-08-31,SV Werder Bremen,Borussia Dortmund,context_match,0.896551724137931
+22159,Nicolás Domínguez,2022-2023,2023-2024,Bologna,2023-08-10,2023-09-01,Bologna FC 1909,Nottingham Forest,single_candidate,0.6363636363636364
+22162,Nicolas Haas,2022-2023,2023-2024,Empoli,2023-08-10,2023-09-03,FC Empoli,FC Luzern,context_match,0.8
+22190,Ousmane Dembélé,2022-2023,2023-2024,Barcelona,2023-08-10,2023-08-12,FC Barcelona,Paris Saint-Germain,context_match,0.8571428571428571
+22196,Papu Gómez,2022-2023,2023-2024,Sevilla,2023-08-10,2023-09-01,Sevilla FC,Without Club,context_match,0.8235294117647058
+22225,Rafael Borré,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-09-01,Eintracht Frankfurt,SV Werder Bremen,context_match,0.8484848484848485
+22230,Randal Kolo Muani,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-09-01,Eintracht Frankfurt,Paris Saint-Germain,context_match,0.8484848484848485
+22242,Remo Freuler,2022-2023,2023-2024,Nott'ham Forest,2023-08-10,2023-09-01,Nottingham Forest,Bologna FC 1909,context_match,0.875
+22273,Roméo Lavia,2022-2023,2023-2024,Southampton,2023-08-10,2023-08-18,Southampton FC,Chelsea FC,context_match,0.88
+22274,Rominigue Kouamé,2022-2023,2023-2024,Troyes,2023-08-10,2023-09-01,ESTAC Troyes,Cádiz CF,context_match,0.6666666666666666
+22296,Samu Castillejo,2022-2023,2023-2024,Valencia,2023-08-10,2023-09-01,Valencia CF,US Sassuolo,context_match,0.8421052631578947
+22306,Sardar Azmoun,2022-2023,2023-2024,Leverkusen,2023-08-10,2023-08-26,Bayer 04 Leverkusen,AS Roma,context_match,0.6896551724137931
+22316,Sergi Darder,2022-2023,2023-2024,Espanyol,2023-08-10,2023-08-11,RCD Espanyol Barcelona,RCD Mallorca,single_candidate,0.5333333333333333
+22327,Simon Zoller,2022-2023,2023-2024,Bochum,2023-08-10,2023-09-01,VfL Bochum,FC St. Pauli,context_match,0.75
+22328,Simone Bastoni,2022-2023,2023-2024,Spezia,2023-08-10,2023-09-01,Spezia Calcio,FC Empoli,single_candidate,0.631578947368421
+22331,Sofyan Amrabat,2022-2023,2023-2024,Fiorentina,2023-08-10,2023-09-01,ACF Fiorentina,Manchester United,context_match,0.8333333333333334
+22340,Stéphane Diarra,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-21,FC Lorient,AS Saint-Étienne,context_match,0.8235294117647058
+22345,Suat Serdar,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-22,Hertha BSC,Hellas Verona,context_match,1.0
+22382,Tyler Adams,2022-2023,2023-2024,Leeds United,2023-08-10,2023-08-20,Leeds United,AFC Bournemouth,context_match,1.0
+22400,Wataru Endo,2022-2023,2023-2024,Stuttgart,2023-08-10,2023-08-18,VfB Stuttgart,Liverpool FC,context_match,0.8181818181818182
+22407,Wilson Odobert,2022-2023,2023-2024,Troyes,2023-08-10,2023-08-12,ESTAC Troyes,Burnley FC,context_match,0.6666666666666666
+22413,Yannick Carrasco,2022-2023,2023-2024,Atlético Madrid,2023-08-10,2023-09-04,Atlético de Madrid,Al-Shabab FC,context_match,0.9090909090909091
+22418,Yoann Cathline,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-21,FC Lorient,Almere City FC,context_match,0.8235294117647058
+22450,Albert Guðmundsson,2023-2024,2024-2025,Genoa,2024-08-14,2024-08-16,Genoa CFC,ACF Fiorentina,context_match,0.7142857142857143
+22494,Andrea Pinamonti,2023-2024,2024-2025,Sassuolo,2024-08-14,2024-08-16,US Sassuolo,Genoa CFC,context_match,0.8421052631578947
+22523,Arne Engels,2023-2024,2024-2025,Augsburg,2024-08-14,2024-08-30,FC Augsburg,Celtic FC,context_match,0.8421052631578947
+22528,Arthur Atta,2023-2024,2024-2025,Metz,2024-08-14,2024-08-30,FC Metz,Udinese Calcio,context_match,0.7272727272727273
+22535,Aurélio Buta,2023-2024,2024-2025,Eint Frankfurt,2024-08-14,2024-08-29,Eintracht Frankfurt,Stade Reims,context_match,0.8484848484848485
+22538,Azzedine Ounahi,2023-2024,2024-2025,Marseille,2024-08-14,2024-09-04,Olympique Marseille,Panathinaikos FC,single_candidate,0.6428571428571429
+22548,Benjamin Bourigeaud,2023-2024,2024-2025,Rennes,2024-08-14,2024-08-30,Stade Rennais FC,Al-Duhail SC,single_candidate,0.45454545454545453
+22553,Billy Gilmour,2023-2024,2024-2025,Brighton,2024-08-14,2024-08-30,Brighton & Hove Albion,SSC Napoli,single_candidate,0.5714285714285714
+22558,Boulaye Dia,2023-2024,2024-2025,Salernitana,2024-08-14,2024-08-16,US Salernitana 1919,SS Lazio,context_match,0.7333333333333333
+22578,Carlos Soler,2023-2024,2024-2025,Paris S-G,2024-08-14,2024-08-30,Paris Saint-Germain,West Ham United,single_candidate,0.6428571428571429
+22586,Chiedozie Ogbene,2023-2024,2024-2025,Luton Town,2024-08-14,2024-08-28,Luton Town,Ipswich Town,context_match,1.0
+22601,Conor Gallagher,2023-2024,2024-2025,Chelsea,2024-08-14,2024-08-21,Chelsea FC,Atlético de Madrid,context_match,0.8235294117647058
+22616,Danilo Cataldi,2023-2024,2024-2025,Lazio,2024-08-14,2024-08-30,SS Lazio,ACF Fiorentina,context_match,0.7692307692307693
+22623,David Datro Fofana,2023-2024,2024-2025,Burnley,2024-08-14,2024-09-13,Chelsea FC,Göztepe,single_candidate,0.23529411764705882
+22632,Désiré Doué,2023-2024,2024-2025,Rennes,2024-08-14,2024-08-17,Stade Rennais FC,Paris Saint-Germain,single_candidate,0.45454545454545453
+22654,Eddie Nketiah,2023-2024,2024-2025,Arsenal,2024-08-14,2024-08-30,Arsenal FC,Crystal Palace,context_match,0.8235294117647058
+22656,Edoardo Bove,2023-2024,2024-2025,Roma,2024-08-14,2024-08-30,AS Roma,ACF Fiorentina,context_match,0.7272727272727273
+22691,Fabio Miretti,2023-2024,2024-2025,Juventus,2024-08-14,2024-08-25,Juventus FC,Genoa CFC,context_match,0.8421052631578947
+22695,Faride Alidou,2023-2024,2024-2025,Köln,2024-08-14,2024-08-25,Eintracht Frankfurt,Hellas Verona,single_candidate,0.22352941176470587
+22697,Federico Chiesa,2023-2024,2024-2025,Juventus,2024-08-14,2024-08-29,Juventus FC,Liverpool FC,context_match,0.8421052631578947
+22719,Frank Onyeka,2023-2024,2024-2025,Brentford,2024-08-14,2024-08-30,Brentford FC,FC Augsburg,context_match,0.8571428571428571
+22720,Frederic Guilbert,2023-2024,2024-2025,Strasbourg,2024-08-14,2024-08-27,RC Strasbourg Alsace,US Lecce,context_match,0.6666666666666666
+22781,İlkay Gündoğan,2023-2024,2024-2025,Barcelona,2024-08-14,2024-08-23,FC Barcelona,Manchester City,context_match,0.8571428571428571
+22795,Ivan Toney,2023-2024,2024-2025,Brentford,2024-08-14,2024-08-31,Brentford FC,Al-Ahli SFC,context_match,0.8571428571428571
+22809,James Ward-Prowse,2023-2024,2024-2025,West Ham,2024-08-14,2024-08-30,West Ham United,Nottingham Forest,context_match,0.6956521739130435
+22824,Jens Cajuste,2023-2024,2024-2025,Napoli,2024-08-14,2024-08-19,SSC Napoli,Ipswich Town,context_match,0.75
+22852,Jordan Ayew,2023-2024,2024-2025,Crystal Palace,2024-08-14,2024-08-23,Crystal Palace,Leicester City,context_match,1.0
+22856,Jordan Veretout,2023-2024,2024-2025,Marseille,2024-08-14,2024-09-04,Olympique Marseille,Olympique Lyon,single_candidate,0.6428571428571429
+22873,Julian Justvan,2023-2024,2024-2025,Darmstadt 98,2024-08-14,2024-08-20,TSG 1899 Hoffenheim,1.FC Nuremberg,single_candidate,0.14615384615384616
+22925,Lazar Samardzic,2023-2024,2024-2025,Udinese,2024-08-14,2024-08-18,Udinese Calcio,Atalanta BC,context_match,0.6666666666666666
+22957,Lucas Ocampos,2023-2024,2024-2025,Sevilla,2024-08-14,2024-09-03,Sevilla FC,CF Monterrey,context_match,0.8235294117647058
+22968,Luis Rioja,2023-2024,2024-2025,Alavés,2024-08-14,2024-08-22,Deportivo Alavés,Valencia CF,single_candidate,0.5454545454545454
+22974,Manu Koné,2023-2024,2024-2025,Gladbach,2024-08-14,2024-08-30,Borussia Mönchengladbach,AS Roma,single_candidate,0.5
+22979,Manuel Ugarte,2023-2024,2024-2025,Paris S-G,2024-08-14,2024-08-30,Paris Saint-Germain,Manchester United,single_candidate,0.6428571428571429
+22983,Marco Brescianini,2023-2024,2024-2025,Frosinone,2024-08-14,2024-08-16,Frosinone Calcio,Atalanta BC,context_match,0.72
+23049,Mikel Merino,2023-2024,2024-2025,Real Sociedad,2024-08-14,2024-08-27,Real Sociedad,Arsenal FC,context_match,1.0
+23107,Niklas Dorsch,2023-2024,2024-2025,Augsburg,2024-08-14,2024-08-30,FC Augsburg,1.FC Heidenheim 1846,context_match,0.8421052631578947
+23113,Odsonne Édouard,2023-2024,2024-2025,Crystal Palace,2024-08-14,2024-08-30,Crystal Palace,Leicester City,context_match,1.0
+23167,Raheem Sterling,2023-2024,2024-2025,Chelsea,2024-08-14,2024-08-30,Chelsea FC,Arsenal FC,context_match,0.8235294117647058
+23181,Reinier,2023-2024,2024-2025,Frosinone,2024-08-14,2024-08-30,Real Madrid,Granada CF,single_candidate,0.2
+23185,Renato Tapia,2023-2024,2024-2025,Celta Vigo,2024-08-14,2024-08-15,Celta de Vigo,CD Leganés,context_match,0.8695652173913043
+23198,Robin Gosens,2023-2024,2024-2025,Union Berlin,2024-08-14,2024-08-30,1.FC Union Berlin,ACF Fiorentina,context_match,0.8275862068965517
+23207,Roland Sallai,2023-2024,2024-2025,Freiburg,2024-08-14,2024-09-13,SC Freiburg,Galatasaray,context_match,0.8421052631578947
+23210,Romain Faivre,2023-2024,2024-2025,Lorient,2024-08-14,2024-08-16,AFC Bournemouth,Stade Brestois 29,single_candidate,0.36363636363636365
+23226,Salih Özcan,2023-2024,2024-2025,Dortmund,2024-08-14,2024-08-28,Borussia Dortmund,VfL Wolfsburg,single_candidate,0.64
+23227,Salis Abdul Samed,2023-2024,2024-2025,Lens,2024-08-14,2024-08-30,RC Lens,Sunderland AFC,context_match,0.7272727272727273
+23232,Samuel Moutoussamy,2023-2024,2024-2025,Nantes,2024-08-14,2024-08-22,FC Nantes,Sivasspor,context_match,0.8
+23234,Sander Berge,2023-2024,2024-2025,Burnley,2024-08-14,2024-08-22,Burnley FC,Fulham FC,context_match,0.8235294117647058
+23241,Scott McTominay,2023-2024,2024-2025,Manchester Utd,2024-08-14,2024-08-30,Manchester United,SSC Napoli,context_match,0.9032258064516129
+23272,Teun Koopmeiners,2023-2024,2024-2025,Atalanta,2024-08-14,2024-08-28,Atalanta BC,Juventus FC,context_match,0.8421052631578947
+23288,Tom Krauß,2023-2024,2024-2025,Mainz 05,2024-08-14,2024-08-22,1.FSV Mainz 05,Luton Town,context_match,0.7272727272727273
+23306,Victor Osimhen,2023-2024,2024-2025,Napoli,2024-08-14,2024-09-04,SSC Napoli,Galatasaray,context_match,0.75
+23325,Willian,2023-2024,2024-2025,Fulham,2024-08-14,2024-09-02,Fulham FC,Olympiacos Piraeus,context_match,0.8
+23327,Wilson Odobert,2023-2024,2024-2025,Burnley,2024-08-14,2024-08-16,Burnley FC,Tottenham Hotspur,context_match,0.8235294117647058
+23332,Yacine Adli,2023-2024,2024-2025,Milan,2024-08-14,2024-08-28,AC Milan,ACF Fiorentina,context_match,0.7692307692307693
+23345,Youssouf Fofana,2023-2024,2024-2025,Monaco,2024-08-14,2024-08-17,AS Monaco,AC Milan,context_match,0.8

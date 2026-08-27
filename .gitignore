@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+
+# Large source data
+data/transfermarkt-datasets.duckdb
+data/transfermarkt-data-master/
+
+# Row-level and intermediate artifacts
+notebooks/artifacts/*predictions.csv
+notebooks/artifacts/*snapshot*.csv
+notebooks/artifacts/*crosswalk*.csv
+notebooks/artifacts/*transfer_events_clean.csv
+notebooks/artifacts/*market_value_snapshots.csv
+notebooks/artifacts/*transfer_date_match_audit.csv
+
+# OS
+.DS_Store
+Thumbs.db

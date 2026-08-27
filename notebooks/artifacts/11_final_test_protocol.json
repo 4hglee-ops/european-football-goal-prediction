@@ -1,0 +1,25 @@
+{
+  "stage": "11 Final Test + Slice/Error Analysis",
+  "selection_status": "FROZEN BEFORE TEST",
+  "feature_set": "FULL",
+  "feature_stability_result": "KEEP_FULL",
+  "development_label": "09-01A conservative audited labels",
+  "final_test_label": "original locked test.csv labels; no post-hoc correction",
+  "model_a": {
+    "type": "Fixed CatBoost Classifier",
+    "iterations": 324,
+    "threshold": 0.67,
+    "threshold_source": "last development input season before final test"
+  },
+  "model_b": {
+    "type": "Fixed CatBoost Regressor S3",
+    "iterations": 247,
+    "training_population": "matched_next_audited == True"
+  },
+  "integration": "Hard Gate",
+  "test_input_season": "2024-2025",
+  "test_target_season": "2025-2026",
+  "test_opened": true,
+  "test_used_for_selection": false,
+  "post_test_model_change_allowed": false
+}

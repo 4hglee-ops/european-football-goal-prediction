@@ -1,0 +1,34 @@
+{
+  "stage": "09-01B Audited Label Revalidation",
+  "source": "09_01A_snapshot_conservative_labels.csv",
+  "audit_policy": "only 09-01A hard corrections are applied",
+  "manual_cross_team_alias_added": false,
+  "model_a": {
+    "type": "Fixed CatBoost Classifier",
+    "features": "S3 + Model A transfer_event_preseason + destination_in_big5",
+    "original_target": "matched_next_original",
+    "audited_target": "matched_next_audited"
+  },
+  "model_b": {
+    "type": "Fixed CatBoost Regressor S3",
+    "params": {
+      "depth": 6,
+      "learning_rate": 0.03,
+      "loss_function": "RMSE"
+    },
+    "original_population": "matched_next_original == True",
+    "audited_population": "matched_next_audited == True",
+    "original_target": "next_goals_original",
+    "audited_target": "next_goals_audited"
+  },
+  "outer_validation_seasons": [
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024"
+  ],
+  "test_input_season": "2024-2025",
+  "test_target_season": "2025-2026",
+  "test_status": "LOCKED / NOT LOADED",
+  "next_step": "Decide audited labels and Model A/B baseline; then build 09-02 Two-stage Integration."
+}

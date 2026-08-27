@@ -1,0 +1,9 @@
+metric,value
+development_rows,7572.0
+corrections,20.0
+presence_before,6371.0
+presence_after,6391.0
+presence_rate_before,0.8413893291072372
+presence_rate_after,0.8440306391970417
+recovered_goal_sum,95.0
+recovered_10plus_n,3.0

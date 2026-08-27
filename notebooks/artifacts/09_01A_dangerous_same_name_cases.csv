@@ -1,0 +1,3 @@
+row_id_current,player_current,season_current,target_season,team_current,age_current,tm_player_id_current,audit_norm_player,row_id_target,player_target,season_target,team_target,age_target,tm_player_id_target,age_delta
+16392,Mariano,2016-2017,2017-2018,Sevilla,30.0,54155.0,mariano,17361,Mariano,2017-2018,Lyon,23.0,54155.0,-7.0
+22161,Nicolás González,2022-2023,2023-2024,Valencia,20.0,,nicolas gonzalez,23099,Nicolás González,2023-2024,Fiorentina,25.0,,5.0

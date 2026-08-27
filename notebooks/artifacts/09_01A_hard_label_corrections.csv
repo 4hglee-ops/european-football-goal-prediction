@@ -1,0 +1,21 @@
+row_id,player,season,target_season,team,age,tm_player_id,match_confidence,next_row_id,next_player,next_team,next_age,next_tm_player_id,next_match_confidence,recovered_next_goals,recovered_next_minutes,age_delta,name_similarity,name_contains,same_team,same_tm_player_id,rule
+20600,Amine Adli,2021-2022,2022-2023,Leverkusen,21.0,532776.0,A,21541,Amine Adli,Leverkusen,22.0,532776.0,A,5.0,1435.0,1.0,1.0,True,True,True,exact_name_age
+20601,Amine Gouiri,2021-2022,2022-2023,Nice,21.0,418659.0,A,21542,Amine Gouiri,Rennes,22.0,418659.0,A,15.0,2749.0,1.0,1.0,True,False,True,exact_name_age
+20735,Demarai Gray,2021-2022,2022-2023,Everton,25.0,292417.0,A,21694,Demarai Gray,Everton,26.0,292417.0,A,4.0,2507.0,1.0,1.0,True,True,True,exact_name_age
+20885,Hugo Guillamón,2021-2022,2022-2023,Valencia,21.0,495629.0,A,21844,Hugo Guillamón,Valencia,22.0,495629.0,A,1.0,1632.0,1.0,1.0,True,True,True,exact_name_age
+20892,Ibrahima Sissoko,2021-2022,2022-2023,Strasbourg,23.0,372712.0,A,21851,Ibrahima Sissoko,Strasbourg,24.0,372712.0,A,0.0,1310.0,1.0,1.0,True,True,True,exact_name_age
+20975,Jonathan Bamba,2021-2022,2022-2023,Lille,25.0,292818.0,A,21929,Jonathan Bamba,Lille,26.0,292818.0,A,6.0,2783.0,1.0,1.0,True,True,True,exact_name_age
+21031,Khéphren Thuram-Ulie,2021-2022,2022-2023,Nice,20.0,,UNMATCHED,21978,Khéphren Thuram,Nice,21.0,463618.0,A,2.0,2547.0,1.0,0.8571428571428571,True,True,False,same_team_alias_age
+21053,Lee Kangin,2021-2022,2022-2023,Mallorca,20.0,,UNMATCHED,22011,Lee Kang-in,Mallorca,21.0,,UNMATCHED,6.0,2823.0,1.0,0.9523809523809523,False,True,False,same_team_alias_age
+21126,Martinelli,2021-2022,2022-2023,Arsenal,20.0,815558.0,A,21794,Gabriel Martinelli,Arsenal,21.0,655488.0,A,15.0,2789.0,1.0,0.7142857142857143,True,True,False,same_team_alias_age
+21367,Sepe Elye Wahi,2021-2022,2022-2023,Montpellier,18.0,,UNMATCHED,21734,Elye Wahi,Montpellier,19.0,659542.0,A,19.0,2513.0,1.0,0.782608695652174,True,True,False,same_team_alias_age
+21484,Youssef Maleh,2021-2022,2022-2023,Fiorentina,22.0,324377.0,A,22423,Youssef Maleh,Lecce,23.0,324377.0,A,0.0,971.0,1.0,1.0,True,False,True,exact_name_age
+21587,Atakan Karazor,2022-2023,2023-2024,Stuttgart,25.0,232320.0,A,22533,Atakan Karazor,Stuttgart,26.0,232320.0,A,0.0,2623.0,1.0,1.0,True,True,True,exact_name_age
+21611,Brahim Díaz,2022-2023,2023-2024,Milan,22.0,314678.0,A,22560,Brahim Díaz,Real Madrid,23.0,314678.0,A,8.0,1545.0,1.0,1.0,True,False,True,exact_name_age
+21733,Elvis Rexhbeçaj,2022-2023,2023-2024,Augsburg,24.0,280575.0,A,22666,Elvis Rexhbeçaj,Augsburg,25.0,280575.0,A,2.0,1985.0,1.0,1.0,True,True,True,exact_name_age
+21752,Evann Guessand,2022-2023,2023-2024,Nantes,21.0,500689.0,A,22685,Evann Guessand,Nice,22.0,500689.0,A,6.0,1553.0,1.0,1.0,True,False,True,exact_name_age
+21795,Gabriel Strefezza,2022-2023,2023-2024,Lecce,25.0,457673.0,A,22726,Gabriel Strefezza,Lecce,26.0,457673.0,A,1.0,1112.0,1.0,1.0,True,True,True,exact_name_age
+21844,Hugo Guillamón,2022-2023,2023-2024,Valencia,22.0,495629.0,A,22766,Hugo Guillamón,Valencia,23.0,495629.0,A,1.0,1315.0,1.0,1.0,True,True,True,exact_name_age
+21897,Jean-Ricner Bellegarde,2022-2023,2023-2024,Strasbourg,24.0,450050.0,A,22821,Jean-Ricner Bellegarde,Wolves,25.0,450050.0,A,4.0,1227.0,1.0,1.0,True,False,True,exact_name_age
+22182,Omar Mascarell,2022-2023,2023-2024,Elche,29.0,142031.0,A,23122,Omar Mascarell,Mallorca,30.0,142031.0,A,0.0,1571.0,1.0,1.0,True,False,True,exact_name_age
+22193,Pablo Rosario,2022-2023,2023-2024,Nice,25.0,370791.0,A,23138,Pablo Rosario,Nice,26.0,370791.0,A,0.0,2009.0,1.0,1.0,True,True,True,exact_name_age

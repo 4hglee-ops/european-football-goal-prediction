@@ -1,0 +1,553 @@
+row_id,player,season,target_season,team,cutoff_date,transfer_date,from_club,to_club,context_score
+4031,James Milner,2004-2005,2005-2006,Newcastle Utd,2005-07-31,2005-08-31,Newcastle United,Aston Villa,0.896551724137931
+6963,James Milner,2007-2008,2008-2009,Newcastle Utd,2008-07-31,2008-08-29,Newcastle United,Aston Villa,0.896551724137931
+7441,Steven Davis,2007-2008,2008-2009,Fulham,2008-07-31,2008-08-01,Fulham FC,Rangers FC,0.98
+8080,Lorenzo De Silvestri,2008-2009,2009-2010,Lazio,2009-07-31,2009-08-26,SS Lazio,ACF Fiorentina,0.98
+8549,André-Pierre Gignac,2009-2010,2010-2011,Toulouse,2010-07-31,2010-08-20,FC Toulouse,Olympique Marseille,0.98
+8936,James Milner,2009-2010,2010-2011,Aston Villa,2010-07-31,2010-08-17,Aston Villa,Manchester City,1.0
+9149,Mario Balotelli,2009-2010,2010-2011,Inter,2010-07-31,2010-08-12,Inter Milan,Manchester City,0.92
+9710,Damien Marcq,2010-2011,2011-2012,Caen,2011-07-31,2011-08-30,SM Caen,Dijon FCO,0.7272727272727273
+10010,Jonathan de Guzmán,2010-2011,2011-2012,Mallorca,2011-07-31,2011-08-31,RCD Mallorca,Villarreal CF,0.92
+10033,Juan Mata,2010-2011,2011-2012,Valencia,2011-07-31,2011-08-24,Valencia CF,Chelsea FC,0.98
+10339,Raúl García,2010-2011,2011-2012,Atlético Madrid,2011-07-31,2011-08-01,Atlético de Madrid,CA Osasuna,0.98
+10687,César Azpilicueta,2011-2012,2012-2013,Marseille,2012-08-09,2012-08-24,Olympique Marseille,Chelsea FC,0.92
+11018,Joe Allen,2011-2012,2012-2013,Swansea City,2012-08-09,2012-08-10,Swansea City,Liverpool FC,1.0
+11152,Luka Modrić,2011-2012,2012-2013,Tottenham,2012-08-09,2012-08-27,Tottenham Hotspur,Real Madrid,0.92
+11155,M'Baye Niang,2011-2012,2012-2013,Caen,2012-08-09,2012-08-28,SM Caen,AC Milan,0.7272727272727273
+11487,Steven Nzonzi,2011-2012,2012-2013,Blackburn,2012-08-09,2012-08-31,Blackburn Rovers,Stoke City,0.92
+11501,Thievy Bifouma,2011-2012,2012-2013,Espanyol,2012-08-09,2012-08-31,RCD Espanyol Barcelona,UD Las Palmas,0.92
+11536,Victor Moses,2011-2012,2012-2013,Wigan Athletic,2012-08-09,2012-08-24,Wigan Athletic,Chelsea FC,1.0
+11584,Adem Ljajić,2012-2013,2013-2014,Fiorentina,2013-08-08,2013-08-28,ACF Fiorentina,AS Roma,0.92
+11866,Érik Lamela,2012-2013,2013-2014,Roma,2013-08-08,2013-08-30,AS Roma,Tottenham Hotspur,0.7272727272727273
+11869,Étienne Capoue,2012-2013,2013-2014,Toulouse,2013-08-08,2013-08-15,FC Toulouse,Tottenham Hotspur,0.98
+11930,Geoffrey Kondogbia,2012-2013,2013-2014,Sevilla,2013-08-08,2013-08-30,Sevilla FC,AS Monaco,0.98
+12004,James McCarthy,2012-2013,2013-2014,Wigan Athletic,2013-08-08,2013-09-02,Wigan Athletic,Everton FC,1.0
+12107,Josuha Guilavogui,2012-2013,2013-2014,Saint-Étienne,2013-08-08,2013-09-02,AS Saint-Étienne,Atlético de Madrid,0.92
+12194,Luiz Gustavo,2012-2013,2013-2014,Bayern Munich,2013-08-08,2013-08-16,Bayern Munich,VfL Wolfsburg,1.0
+12203,Makoto Hasebe,2012-2013,2013-2014,Wolfsburg,2013-08-08,2013-09-02,VfL Wolfsburg,1.FC Nuremberg,0.98
+12244,Marko Arnautović,2012-2013,2013-2014,Werder Bremen,2013-08-08,2013-09-02,SV Werder Bremen,Stoke City,0.98
+12582,Vicente Iborra,2012-2013,2013-2014,Levante,2013-08-08,2013-08-16,Levante UD,Sevilla FC,0.92
+12587,Victor Moses,2012-2013,2013-2014,Chelsea,2013-08-08,2013-09-02,Chelsea FC,Liverpool FC,0.98
+12661,Alberto Moreno,2013-2014,2014-2015,Sevilla,2014-08-07,2014-08-13,Sevilla FC,Liverpool FC,0.98
+12687,Álvaro Negredo,2013-2014,2014-2015,Manchester City,2014-08-07,2014-09-01,Manchester City,Valencia CF,1.0
+12711,Andrés Guardado,2013-2014,2014-2015,Valencia,2014-08-07,2014-08-26,Valencia CF,PSV Eindhoven,0.98
+12716,Ángel Di María,2013-2014,2014-2015,Real Madrid,2014-08-07,2014-08-26,Real Madrid,Manchester United,1.0
+12756,Benjamin Stambouli,2013-2014,2014-2015,Montpellier,2014-08-07,2014-09-01,Montpellier HSC,Tottenham Hotspur,0.92
+12853,Danny Welbeck,2013-2014,2014-2015,Manchester Utd,2014-08-07,2014-09-01,Manchester United,Arsenal FC,1.0
+12859,David López,2013-2014,2014-2015,Espanyol,2014-08-07,2014-08-31,RCD Espanyol Barcelona,SSC Napoli,0.92
+12921,Éver Banega,2013-2014,2014-2015,Valencia,2014-08-07,2014-08-18,Valencia CF,Sevilla FC,0.98
+12983,Giacomo Bonaventura,2013-2014,2014-2015,Atalanta,2014-08-07,2014-09-01,Atalanta BC,AC Milan,0.98
+13287,Mario Balotelli,2013-2014,2014-2015,Milan,2014-08-07,2014-08-25,AC Milan,Liverpool FC,0.98
+13353,Milan Badelj,2013-2014,2014-2015,Hamburger SV,2014-08-07,2014-08-31,Hamburger SV,ACF Fiorentina,1.0
+13399,Nordin Amrabat,2013-2014,2014-2015,Málaga,2014-08-07,2014-09-01,Galatasaray,Málaga CF,0.98
+13462,Radamel Falcao,2013-2014,2014-2015,Monaco,2014-08-07,2014-09-01,AS Monaco,Manchester United,0.92
+13476,Ravel Morrison,2013-2014,2014-2015,West Ham,2014-08-07,2014-09-24,West Ham United,Cardiff City,0.6956521739130435
+13572,Shinji Kagawa,2013-2014,2014-2015,Manchester Utd,2014-08-07,2014-08-31,Manchester United,Borussia Dortmund,1.0
+13585,Slobodan Medojević,2013-2014,2014-2015,Wolfsburg,2014-08-07,2014-08-31,VfL Wolfsburg,Eintracht Frankfurt,0.98
+13660,Vincent Aboubakar,2013-2014,2014-2015,Lorient,2014-08-07,2014-08-24,FC Lorient,FC Porto,0.98
+13715,Adem Ljajić,2014-2015,2015-2016,Roma,2015-08-06,2015-08-31,AS Roma,Inter Milan,0.7272727272727273
+13769,Andrea Belotti,2014-2015,2015-2016,Palermo,2015-08-06,2015-08-18,US Palermo,Torino FC,0.92
+13786,Anthony Martial,2014-2015,2015-2016,Monaco,2015-08-06,2015-09-01,AS Monaco,Manchester United,0.92
+13893,Cristhian Stuani,2014-2015,2015-2016,Espanyol,2015-08-06,2015-08-07,RCD Espanyol Barcelona,Middlesbrough FC,0.92
+13942,Denis Suárez,2014-2015,2015-2016,Sevilla,2015-08-06,2015-08-28,Sevilla FC,FC Barcelona,0.98
+13976,Edin Džeko,2014-2015,2015-2016,Manchester City,2015-08-06,2015-08-12,Manchester City,AS Roma,1.0
+14033,Florian Thauvin,2014-2015,2015-2016,Marseille,2015-08-06,2015-08-19,Olympique Marseille,Newcastle United,0.92
+14072,Gerard Moreno,2014-2015,2015-2016,Villarreal,2015-08-06,2015-08-13,Villarreal CF,RCD Espanyol Barcelona,0.98
+14086,Gökhan Inler,2014-2015,2015-2016,Napoli,2015-08-06,2015-08-19,SSC Napoli,Leicester City,0.92
+14138,Ivan Perišić,2014-2015,2015-2016,Wolfsburg,2015-08-06,2015-08-30,VfL Wolfsburg,Inter Milan,0.98
+14184,Jhon Córdoba,2014-2015,2015-2016,Granada,2015-08-06,2015-08-31,Granada CF,1.FSV Mainz 05,0.98
+14267,Kevin De Bruyne,2014-2015,2015-2016,Wolfsburg,2015-08-06,2015-08-30,VfL Wolfsburg,Manchester City,0.98
+14292,Lazar Marković,2014-2015,2015-2016,Liverpool,2015-08-06,2015-08-31,Liverpool FC,Fenerbahce,0.98
+14293,Lazaros Christodoulopoulos,2014-2015,2015-2016,Hellas Verona,2015-08-06,2015-08-31,Hellas Verona,UC Sampdoria,1.0
+14322,Lucas Digne,2014-2015,2015-2016,Paris S-G,2015-08-06,2015-08-26,Paris Saint-Germain,AS Roma,1.0
+14375,Mario Balotelli,2014-2015,2015-2016,Liverpool,2015-08-06,2015-08-27,Liverpool FC,AC Milan,0.98
+14378,Mario Lemina,2014-2015,2015-2016,Marseille,2015-08-06,2015-08-31,Olympique Marseille,Juventus FC,0.92
+14401,Mateo Kovačić,2014-2015,2015-2016,Inter,2015-08-06,2015-08-18,Inter Milan,Real Madrid,0.92
+14568,Raúl García,2014-2015,2015-2016,Atlético Madrid,2015-08-06,2015-08-30,Atlético de Madrid,Athletic Bilbao,0.98
+14571,Rémy Cabella,2014-2015,2015-2016,Newcastle Utd,2015-08-06,2015-08-19,Newcastle United,Olympique Marseille,0.896551724137931
+14609,Rubén Pérez,2014-2015,2015-2016,Granada,2015-08-06,2015-08-07,Atlético de Madrid,Granada CF,0.98
+14650,Sergi Darder,2014-2015,2015-2016,Málaga,2015-08-06,2015-08-29,Málaga CF,Olympique Lyon,0.98
+14703,Takashi Inui,2014-2015,2015-2016,Eint Frankfurt,2015-08-06,2015-08-26,Eintracht Frankfurt,SD Eibar,1.0
+14729,Valentin Eysseric,2014-2015,2015-2016,Nice,2015-08-06,2015-08-18,OGC Nice,AS Saint-Étienne,0.6666666666666666
+14767,Xherdan Shaqiri,2014-2015,2015-2016,Inter,2015-08-06,2015-08-11,Inter Milan,Stoke City,0.92
+14813,Alaixys Romao,2015-2016,2016-2017,Marseille,2016-08-11,2016-08-31,Olympique Marseille,Olympiacos Piraeus,0.92
+14817,Alberto Grassi,2015-2016,2016-2017,Atalanta,2016-08-11,2016-08-30,SSC Napoli,Atalanta BC,0.98
+14856,Amadou Diawara,2015-2016,2016-2017,Bologna,2016-08-11,2016-08-26,Bologna FC 1909,SSC Napoli,0.98
+14871,Andy Delort,2015-2016,2016-2017,Caen,2016-08-11,2016-09-02,SM Caen,Tigres UANL,0.7272727272727273
+14904,Bas Dost,2015-2016,2016-2017,Wolfsburg,2016-08-11,2016-08-28,VfL Wolfsburg,Sporting CP,0.98
+14914,Benjamin Stambouli,2015-2016,2016-2017,Paris S-G,2016-08-11,2016-08-26,Paris Saint-Germain,FC Schalke 04,1.0
+14927,Bruno Fernandes,2015-2016,2016-2017,Udinese,2016-08-11,2016-08-16,Udinese Calcio,UC Sampdoria,0.98
+15040,Edenílson,2015-2016,2016-2017,Udinese,2016-08-11,2016-08-31,Udinese Calcio,Genoa CFC,0.98
+15053,Enner Valencia,2015-2016,2016-2017,West Ham,2016-08-11,2016-08-31,West Ham United,Everton FC,0.6956521739130435
+15268,Jordan Veretout,2015-2016,2016-2017,Aston Villa,2016-08-11,2016-08-24,Aston Villa,AS Saint-Étienne,1.0
+15278,Joselu,2015-2016,2016-2017,Stoke City,2016-08-11,2016-08-31,Stoke City,Deportivo de La Coruña,1.0
+15285,Juan Cuadrado,2015-2016,2016-2017,Juventus,2016-08-11,2016-08-31,Chelsea FC,Juventus FC,0.98
+15351,Lorenzo De Silvestri,2015-2016,2016-2017,Sampdoria,2016-08-11,2016-08-18,UC Sampdoria,Torino FC,0.92
+15370,Lucas Pérez,2015-2016,2016-2017,La Coruña,2016-08-11,2016-08-30,Deportivo de La Coruña,Arsenal FC,0.92
+15413,Marcos Alonso,2015-2016,2016-2017,Fiorentina,2016-08-11,2016-08-31,ACF Fiorentina,Chelsea FC,0.92
+15496,Moussa Sissoko,2015-2016,2016-2017,Newcastle Utd,2016-08-11,2016-08-31,Newcastle United,Tottenham Hotspur,0.896551724137931
+15503,Nacer Chadli,2015-2016,2016-2017,Tottenham,2016-08-11,2016-08-29,Tottenham Hotspur,West Bromwich Albion,0.92
+15614,Romain Saïss,2015-2016,2016-2017,Angers,2016-08-11,2016-08-30,Angers SCO,Wolverhampton Wanderers,0.92
+15669,Sofiane Boufal,2015-2016,2016-2017,Lille,2016-08-11,2016-08-29,LOSC Lille,Southampton FC,0.92
+15763,Yannick Bolasie,2015-2016,2016-2017,Crystal Palace,2016-08-11,2016-08-15,Crystal Palace,Everton FC,1.0
+15825,Alex Oxlade-Chamberlain,2016-2017,2017-2018,Arsenal,2017-08-03,2017-08-31,Arsenal FC,Liverpool FC,0.98
+15841,Álvaro Medrán,2016-2017,2017-2018,Valencia,2017-08-03,2017-09-01,Valencia CF,Deportivo Alavés,0.98
+15852,Andre Gray,2016-2017,2017-2018,Burnley,2017-08-03,2017-08-09,Burnley FC,Watford FC,0.98
+15872,Ante Rebić,2016-2017,2017-2018,Eint Frankfurt,2017-08-03,2017-08-31,ACF Fiorentina,Eintracht Frankfurt,1.0
+15925,Carlos Bacca,2016-2017,2017-2018,Milan,2017-08-03,2017-08-16,AC Milan,Villarreal CF,0.98
+15941,Cheick Doukouré,2016-2017,2017-2018,Metz,2017-08-03,2017-08-04,FC Metz,Levante UD,0.98
+15987,Darko Brašanac,2016-2017,2017-2018,Betis,2017-08-03,2017-08-30,Real Betis Balompié,CD Leganés,0.92
+16015,Divock Origi,2016-2017,2017-2018,Liverpool,2017-08-03,2017-08-31,Liverpool FC,VfL Wolfsburg,0.98
+16048,Eric Maxim Choupo-Moting,2016-2017,2017-2018,Schalke 04,2017-08-03,2017-08-07,FC Schalke 04,Stoke City,0.98
+16083,Florent Hadergjonaj,2016-2017,2017-2018,Ingolstadt 04,2017-08-03,2017-08-24,FC Ingolstadt 04,Huddersfield Town,0.98
+16113,Geoffrey Kondogbia,2016-2017,2017-2018,Inter,2017-08-03,2017-08-21,Inter Milan,Valencia CF,0.92
+16123,Giovanni Simeone,2016-2017,2017-2018,Genoa,2017-08-03,2017-08-16,Genoa CFC,ACF Fiorentina,0.92
+16139,Gylfi Sigurðsson,2016-2017,2017-2018,Swansea City,2017-08-03,2017-08-16,Swansea City,Everton FC,1.0
+16206,Jeremy Toljan,2016-2017,2017-2018,Hoffenheim,2017-08-03,2017-08-30,TSG 1899 Hoffenheim,Borussia Dortmund,0.92
+16218,João Cancelo,2016-2017,2017-2018,Valencia,2017-08-03,2017-08-22,Valencia CF,Inter Milan,0.98
+16245,Jordy Clasie,2016-2017,2017-2018,Southampton,2017-08-03,2017-08-30,Southampton FC,Club Brugge KV,0.98
+16251,José Sosa,2016-2017,2017-2018,Milan,2017-08-03,2017-09-08,AC Milan,Trabzonspor,0.98
+16281,Keita Baldé,2016-2017,2017-2018,Lazio,2017-08-03,2017-08-29,SS Lazio,AS Monaco,0.98
+16288,Kevin Kampl,2016-2017,2017-2018,Leverkusen,2017-08-03,2017-08-31,Bayer 04 Leverkusen,RB Leipzig,0.98
+16307,Kylian Mbappé,2016-2017,2017-2018,Monaco,2017-08-03,2017-08-31,AS Monaco,Paris Saint-Germain,0.92
+16376,Marcelo Díaz,2016-2017,2017-2018,Celta Vigo,2017-08-03,2017-08-17,Celta de Vigo,UNAM Pumas,0.98
+16396,Mario Lemina,2016-2017,2017-2018,Juventus,2017-08-03,2017-08-08,Juventus FC,Southampton FC,0.98
+16402,Mariusz Stępiński,2016-2017,2017-2018,Nantes,2017-08-03,2017-08-31,FC Nantes,Chievo Verona,0.98
+16410,Marten de Roon,2016-2017,2017-2018,Middlesbrough,2017-08-03,2017-08-10,Middlesbrough FC,Atalanta BC,0.98
+16479,Nani,2016-2017,2017-2018,Valencia,2017-08-03,2017-08-31,Valencia CF,SS Lazio,0.98
+16497,Nordin Amrabat,2016-2017,2017-2018,Watford,2017-08-03,2017-09-01,Watford FC,CD Leganés,0.98
+16515,Ousmane Dembélé,2016-2017,2017-2018,Dortmund,2017-08-03,2017-08-25,Borussia Dortmund,FC Barcelona,1.0
+16516,Oussama Tannane,2016-2017,2017-2018,Saint-Étienne,2017-08-03,2017-09-01,AS Saint-Étienne,UD Las Palmas,0.92
+16531,Patrik Schick,2016-2017,2017-2018,Sampdoria,2017-08-03,2017-08-29,UC Sampdoria,AS Roma,0.92
+16570,Rémy Cabella,2016-2017,2017-2018,Marseille,2017-08-03,2017-08-31,Olympique Marseille,AS Saint-Étienne,0.92
+16656,Sofiane Feghouli,2016-2017,2017-2018,West Ham,2017-08-03,2017-08-14,West Ham United,Galatasaray,0.6956521739130435
+16707,Valentin Eysseric,2016-2017,2017-2018,Nice,2017-08-03,2017-08-09,OGC Nice,ACF Fiorentina,0.6666666666666666
+16724,Vieirinha,2016-2017,2017-2018,Wolfsburg,2017-08-03,2017-08-31,VfL Wolfsburg,PAOK Thessaloniki,0.98
+16748,Xeka,2016-2017,2017-2018,Lille,2017-08-03,2017-08-31,LOSC Lille,Dijon FCO,0.92
+16754,Yann Karamoh,2016-2017,2017-2018,Caen,2017-08-03,2017-08-31,SM Caen,Inter Milan,0.7272727272727273
+16783,Adem Ljajić,2017-2018,2018-2019,Torino,2018-08-09,2018-08-31,Torino FC,Besiktas JK,0.98
+16810,Alexis Blin,2017-2018,2018-2019,Toulouse,2018-08-09,2018-09-10,FC Toulouse,Amiens SC,0.98
+16838,Andreas Cornelius,2017-2018,2018-2019,Atalanta,2018-08-09,2018-08-31,Atalanta BC,FC Girondins Bordeaux,0.98
+16863,Anwar El Ghazi,2017-2018,2018-2019,Lille,2018-08-09,2018-08-22,LOSC Lille,Aston Villa,0.92
+16907,Carlos Bacca,2017-2018,2018-2019,Villarreal,2018-08-09,2018-08-17,AC Milan,Villarreal CF,0.98
+17018,Enes Ünal,2017-2018,2018-2019,Villarreal,2018-08-09,2018-08-19,Villarreal CF,Real Valladolid CF,0.98
+17023,Eric Maxim Choupo-Moting,2017-2018,2018-2019,Stoke City,2018-08-09,2018-08-31,Stoke City,Paris Saint-Germain,1.0
+17050,Filip Kostić,2017-2018,2018-2019,Hamburger SV,2018-08-09,2018-08-20,Hamburger SV,Eintracht Frankfurt,1.0
+17073,Gaëtan Laborde,2017-2018,2018-2019,Bordeaux,2018-08-09,2018-08-16,FC Girondins Bordeaux,Montpellier HSC,0.92
+17092,Gianluca Lapadula,2017-2018,2018-2019,Genoa,2018-08-09,2018-08-16,Genoa CFC,AC Milan,0.92
+17092,Gianluca Lapadula,2017-2018,2018-2019,Genoa,2018-08-09,2018-08-17,AC Milan,Genoa CFC,0.92
+17096,Giovani Lo Celso,2017-2018,2018-2019,Paris S-G,2018-08-09,2018-08-31,Paris Saint-Germain,Real Betis Balompié,1.0
+17103,Gonçalo Guedes,2017-2018,2018-2019,Valencia,2018-08-09,2018-08-27,Paris Saint-Germain,Valencia CF,0.98
+17251,Keita Baldé,2017-2018,2018-2019,Monaco,2018-08-09,2018-08-13,AS Monaco,Inter Milan,0.92
+17256,Kévin Gameiro,2017-2018,2018-2019,Atlético Madrid,2018-08-09,2018-08-12,Atlético de Madrid,Valencia CF,0.98
+17261,Kevin Strootman,2017-2018,2018-2019,Roma,2018-08-09,2018-08-28,AS Roma,Olympique Marseille,0.7272727272727273
+17277,Lebo Mothiba,2017-2018,2018-2019,Lille,2018-08-09,2018-08-30,LOSC Lille,RC Strasbourg Alsace,0.92
+17326,M'Baye Niang,2017-2018,2018-2019,Torino,2018-08-09,2018-08-31,Torino FC,Stade Rennais FC,0.98
+17399,Maxime Gonalons,2017-2018,2018-2019,Roma,2018-08-09,2018-08-20,AS Roma,Sevilla FC,0.7272727272727273
+17536,Rémy Cabella,2017-2018,2018-2019,Saint-Étienne,2018-08-09,2018-08-16,Olympique Marseille,AS Saint-Étienne,0.92
+17540,Riccardo Saponara,2017-2018,2018-2019,Fiorentina,2018-08-09,2018-08-17,ACF Fiorentina,UC Sampdoria,0.92
+17583,Samu Castillejo,2017-2018,2018-2019,Villarreal,2018-08-09,2018-08-17,Villarreal CF,AC Milan,0.98
+17637,Steven Nzonzi,2017-2018,2018-2019,Sevilla,2018-08-09,2018-08-14,Sevilla FC,AS Roma,0.98
+17662,Tiemoué Bakayoko,2017-2018,2018-2019,Chelsea,2018-08-09,2018-08-13,Chelsea FC,AC Milan,0.98
+17713,Yassine Benzia,2017-2018,2018-2019,Lille,2018-08-09,2018-08-31,LOSC Lille,Fenerbahce,0.92
+17721,Youssef En-Nesyri,2017-2018,2018-2019,Málaga,2018-08-09,2018-08-17,Málaga CF,CD Leganés,0.98
+17780,Anastasios Donis,2018-2019,2019-2020,Stuttgart,2019-08-08,2019-09-02,VfB Stuttgart,Stade Reims,0.98
+17804,Ante Rebić,2018-2019,2019-2020,Eint Frankfurt,2019-08-08,2019-09-02,Eintracht Frankfurt,AC Milan,1.0
+17814,Antonio Luna,2018-2019,2019-2020,Levante,2019-08-08,2019-08-29,Levante UD,Rayo Vallecano,0.92
+17853,Borja Iglesias,2018-2019,2019-2020,Espanyol,2019-08-08,2019-08-14,RCD Espanyol Barcelona,Real Betis Balompié,0.92
+17974,Erick Pulgar,2018-2019,2019-2020,Bologna,2019-08-08,2019-08-09,Bologna FC 1909,ACF Fiorentina,0.98
+18036,Gerard Gumbau,2018-2019,2019-2020,Leganés,2019-08-08,2019-08-14,CD Leganés,Girona FC,0.92
+18044,Giovanni Simeone,2018-2019,2019-2020,Fiorentina,2019-08-08,2019-08-30,ACF Fiorentina,Cagliari Calcio,0.92
+18055,Guido Carrillo,2018-2019,2019-2020,Leganés,2019-08-08,2019-09-01,Southampton FC,CD Leganés,0.92
+18068,Henrikh Mkhitaryan,2018-2019,2019-2020,Arsenal,2019-08-08,2019-09-02,Arsenal FC,AS Roma,0.98
+18094,Ivan Perišić,2018-2019,2019-2020,Inter,2019-08-08,2019-08-13,Inter Milan,Bayern Munich,0.92
+18125,Jeff Reine-Adélaïde,2018-2019,2019-2020,Angers,2019-08-08,2019-08-14,Angers SCO,Olympique Lyon,0.92
+18150,Jonas Martin,2018-2019,2019-2020,Strasbourg,2019-08-08,2019-09-02,RC Strasbourg Alsace,Stade Rennais FC,0.92
+18221,Khouma Babacar,2018-2019,2019-2020,Sassuolo,2019-08-08,2019-09-02,US Sassuolo,US Lecce,0.92
+18245,Leonardo Bittencourt,2018-2019,2019-2020,Hoffenheim,2019-08-08,2019-09-02,TSG 1899 Hoffenheim,SV Werder Bremen,0.92
+18269,Lucas Lima,2018-2019,2019-2020,Nantes,2019-08-08,2019-08-27,FC Nantes,Al-Ahli SFC,0.98
+18277,Ludovic Blas,2018-2019,2019-2020,Guingamp,2019-08-08,2019-09-02,EA Guingamp,FC Nantes,0.92
+18281,Luiz Gustavo,2018-2019,2019-2020,Marseille,2019-08-08,2019-09-02,Olympique Marseille,Fenerbahce,0.92
+18312,Mario Balotelli,2018-2019,2019-2020,Marseille,2019-08-08,2019-08-18,Olympique Marseille,Brescia Calcio (- 2025),0.92
+18315,Mario Lemina,2018-2019,2019-2020,Southampton,2019-08-08,2019-09-02,Southampton FC,Galatasaray,0.98
+18319,Mariusz Stępiński,2018-2019,2019-2020,Chievo,2019-08-08,2019-09-02,Chievo Verona,Hellas Verona,0.92
+18347,Mauro Icardi,2018-2019,2019-2020,Inter,2019-08-08,2019-09-02,Inter Milan,Paris Saint-Germain,0.92
+18359,Mehdi Léris,2018-2019,2019-2020,Chievo,2019-08-08,2019-08-12,Chievo Verona,UC Sampdoria,0.92
+18449,Patrik Schick,2018-2019,2019-2020,Roma,2019-08-08,2019-09-02,AS Roma,RB Leipzig,0.7272727272727273
+18462,Philippe Coutinho,2018-2019,2019-2020,Barcelona,2019-08-08,2019-08-19,FC Barcelona,Bayern Munich,0.98
+18475,Radamel Falcao,2018-2019,2019-2020,Monaco,2019-08-08,2019-09-02,AS Monaco,Galatasaray,0.92
+18526,Rony Lopes,2018-2019,2019-2020,Monaco,2019-08-08,2019-08-14,AS Monaco,Sevilla FC,0.92
+18554,Sanjin Prcić,2018-2019,2019-2020,Strasbourg,2019-08-08,2019-09-02,Levante UD,RC Strasbourg Alsace,0.92
+18598,Steven Nzonzi,2018-2019,2019-2020,Roma,2019-08-08,2019-08-16,AS Roma,Galatasaray,0.7272727272727273
+18633,Valentin Rongier,2018-2019,2019-2020,Nantes,2019-08-08,2019-09-03,FC Nantes,Olympique Marseille,0.98
+18643,Vincenzo Grifo,2018-2019,2019-2020,Freiburg,2019-08-08,2019-09-02,TSG 1899 Hoffenheim,SC Freiburg,0.98
+18648,Walace,2018-2019,2019-2020,Hannover 96,2019-08-08,2019-08-12,Hannover 96,Udinese Calcio,1.0
+18658,Wissam Ben Yedder,2018-2019,2019-2020,Sevilla,2019-08-08,2019-08-14,Sevilla FC,AS Monaco,0.98
+18676,Youssef Aït Bennasser,2018-2019,2019-2020,Monaco,2019-08-08,2019-08-30,AS Monaco,FC Girondins Bordeaux,0.92
+18689,Abdoulaye Doucouré,2019-2020,2020-2021,Watford,2020-08-20,2020-09-08,Watford FC,Everton FC,0.98
+18712,Alessandro Florenzi,2019-2020,2020-2021,Roma,2020-08-20,2020-09-11,AS Roma,Paris Saint-Germain,0.7272727272727273
+18715,Álex Berenguer,2019-2020,2020-2021,Torino,2020-08-20,2020-10-02,Torino FC,Athletic Bilbao,0.98
+18724,Alexis Sánchez,2019-2020,2020-2021,Inter,2020-08-20,2020-08-31,Inter Milan,Manchester United,0.92
+18724,Alexis Sánchez,2019-2020,2020-2021,Inter,2020-08-20,2020-09-01,Manchester United,Inter Milan,0.92
+18726,Alfred Duncan,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-08-31,ACF Fiorentina,US Sassuolo,0.92
+18726,Alfred Duncan,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-09-01,US Sassuolo,ACF Fiorentina,0.92
+18729,Allan,2019-2020,2020-2021,Napoli,2020-08-20,2020-09-05,SSC Napoli,Everton FC,0.92
+18732,Álvaro Morata,2019-2020,2020-2021,Atlético Madrid,2020-08-20,2020-09-22,Atlético de Madrid,Juventus FC,0.98
+18743,Andrea Pinamonti,2019-2020,2020-2021,Genoa,2020-08-20,2020-09-01,Inter Milan,Genoa CFC,0.92
+18743,Andrea Pinamonti,2019-2020,2020-2021,Genoa,2020-08-20,2020-09-18,Genoa CFC,Inter Milan,0.92
+18747,Andreas Pereira,2019-2020,2020-2021,Manchester Utd,2020-08-20,2020-10-02,Manchester United,SS Lazio,1.0
+18760,Ante Budimir,2019-2020,2020-2021,Mallorca,2020-08-20,2020-10-05,RCD Mallorca,CA Osasuna,0.92
+18761,Ante Rebić,2019-2020,2020-2021,Milan,2020-08-20,2020-09-11,AC Milan,Eintracht Frankfurt,0.98
+18761,Ante Rebić,2019-2020,2020-2021,Milan,2020-08-20,2020-09-12,Eintracht Frankfurt,AC Milan,0.98
+18770,Antonio Sanabria,2019-2020,2020-2021,Genoa,2020-08-20,2020-08-31,Genoa CFC,Real Betis Balompié,0.92
+18777,Arthur Melo,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-01,FC Barcelona,Juventus FC,0.98
+18778,Artur Ioniță,2019-2020,2020-2021,Cagliari,2020-08-20,2020-09-01,Cagliari Calcio,Benevento Calcio,0.98
+18779,Arturo Vidal,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-22,FC Barcelona,Inter Milan,0.98
+18785,Baptiste Santamaria,2019-2020,2020-2021,Angers,2020-08-20,2020-09-17,Angers SCO,SC Freiburg,0.92
+18803,Bouna Sarr,2019-2020,2020-2021,Marseille,2020-08-20,2020-10-05,Olympique Marseille,Bayern Munich,0.92
+18810,Callum Wilson,2019-2020,2020-2021,Bournemouth,2020-08-20,2020-09-07,AFC Bournemouth,Newcastle United,0.98
+18812,Carles Pérez,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,FC Barcelona,0.7272727272727273
+18812,Carles Pérez,2019-2020,2020-2021,Roma,2020-08-20,2020-09-01,FC Barcelona,AS Roma,0.7272727272727273
+18825,Christian Kouamé,2019-2020,2020-2021,Genoa,2020-08-20,2020-08-31,ACF Fiorentina,Genoa CFC,0.92
+18825,Christian Kouamé,2019-2020,2020-2021,Genoa,2020-08-20,2020-09-01,Genoa CFC,ACF Fiorentina,0.92
+18867,Davy Klaassen,2019-2020,2020-2021,Werder Bremen,2020-08-20,2020-10-05,SV Werder Bremen,Ajax Amsterdam,0.98
+18871,Dejan Kulusevski,2019-2020,2020-2021,Parma,2020-08-20,2020-08-31,Parma Calcio 1913,Juventus FC,0.98
+18907,Eduard Löwen,2019-2020,2020-2021,Augsburg,2020-08-20,2020-10-05,FC Augsburg,Hertha BSC,0.98
+18926,Éver Banega,2019-2020,2020-2021,Sevilla,2020-08-20,2020-09-15,Sevilla FC,Al-Shabab FC,0.98
+18937,Federico Chiesa,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-10-05,ACF Fiorentina,Juventus FC,0.92
+18940,Felipe Anderson,2019-2020,2020-2021,West Ham,2020-08-20,2020-10-06,West Ham United,FC Porto,0.6956521739130435
+18979,Gerard Deulofeu,2019-2020,2020-2021,Watford,2020-08-20,2020-10-05,Watford FC,Udinese Calcio,0.98
+18983,Giacomo Bonaventura,2019-2020,2020-2021,Milan,2020-08-20,2020-09-10,AC Milan,ACF Fiorentina,0.98
+18984,Gianluca Caprari,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-08-31,Parma Calcio 1913,UC Sampdoria,0.92
+18984,Gianluca Caprari,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-09-04,UC Sampdoria,Benevento Calcio,0.92
+18986,Gianluca Mancini,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,Atalanta BC,0.7272727272727273
+18986,Gianluca Mancini,2019-2020,2020-2021,Roma,2020-08-20,2020-09-01,Atalanta BC,AS Roma,0.7272727272727273
+18989,Giovanni Simeone,2019-2020,2020-2021,Cagliari,2020-08-20,2020-08-31,Cagliari Calcio,ACF Fiorentina,0.98
+18989,Giovanni Simeone,2019-2020,2020-2021,Cagliari,2020-08-20,2020-09-01,ACF Fiorentina,Cagliari Calcio,0.98
+18991,Gonçalo Paciência,2019-2020,2020-2021,Eint Frankfurt,2020-08-20,2020-09-15,Eintracht Frankfurt,FC Schalke 04,1.0
+18992,Gonzalo Escalante,2019-2020,2020-2021,Eibar,2020-08-20,2020-09-01,SD Eibar,SS Lazio,0.92
+18997,Grégoire Defrel,2019-2020,2020-2021,Sassuolo,2020-08-20,2020-08-31,US Sassuolo,AS Roma,0.92
+18997,Grégoire Defrel,2019-2020,2020-2021,Sassuolo,2020-08-20,2020-09-01,AS Roma,US Sassuolo,0.92
+19003,Habib Diallo,2019-2020,2020-2021,Metz,2020-08-20,2020-10-05,FC Metz,RC Strasbourg Alsace,0.98
+19015,Henrikh Mkhitaryan,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,Arsenal FC,0.7272727272727273
+19015,Henrikh Mkhitaryan,2019-2020,2020-2021,Roma,2020-08-20,2020-09-01,Arsenal FC,AS Roma,0.7272727272727273
+19016,Hernani,2019-2020,2020-2021,Parma,2020-08-20,2020-08-31,Parma Calcio 1913,Zenit St. Petersburg,0.98
+19016,Hernani,2019-2020,2020-2021,Parma,2020-08-20,2020-09-01,Zenit St. Petersburg,Parma Calcio 1913,0.98
+19045,Ivan Perišić,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-08-31,Bayern Munich,Inter Milan,1.0
+19047,Ivan Rakitić,2019-2020,2020-2021,Barcelona,2020-08-20,2020-09-01,FC Barcelona,Sevilla FC,0.98
+19073,Jeff Hendrick,2019-2020,2020-2021,Burnley,2020-08-20,2020-08-24,Burnley FC,Newcastle United,0.98
+19081,Jhon Córdoba,2019-2020,2020-2021,Köln,2020-08-20,2020-09-15,1.FC Köln,Hertha BSC,0.98
+19106,Jordan Veretout,2019-2020,2020-2021,Roma,2020-08-20,2020-08-31,AS Roma,ACF Fiorentina,0.7272727272727273
+19106,Jordan Veretout,2019-2020,2020-2021,Roma,2020-08-20,2020-09-01,ACF Fiorentina,AS Roma,0.7272727272727273
+19111,José Callejón,2019-2020,2020-2021,Napoli,2020-08-20,2020-10-05,SSC Napoli,ACF Fiorentina,0.92
+19129,Justin Kluivert,2019-2020,2020-2021,Roma,2020-08-20,2020-10-05,AS Roma,RB Leipzig,0.7272727272727273
+19130,Kai Havertz,2019-2020,2020-2021,Leverkusen,2020-08-20,2020-09-04,Bayer 04 Leverkusen,Chelsea FC,0.98
+19137,Karol Linetty,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-09-01,UC Sampdoria,Torino FC,0.92
+19140,Ken Sema,2019-2020,2020-2021,Udinese,2020-08-20,2020-08-31,Udinese Calcio,Watford FC,0.98
+19153,Kevin Volland,2019-2020,2020-2021,Leverkusen,2020-08-20,2020-09-02,Bayer 04 Leverkusen,AS Monaco,0.98
+19186,Lucas Castro,2019-2020,2020-2021,Cagliari,2020-08-20,2020-09-01,Cagliari Calcio,SPAL,0.98
+19192,Lucas Paquetá,2019-2020,2020-2021,Milan,2020-08-20,2020-09-30,AC Milan,Olympique Lyon,0.98
+19194,Lucas Torreira,2019-2020,2020-2021,Arsenal,2020-08-20,2020-10-05,Arsenal FC,Atlético de Madrid,0.98
+19221,Marc Roca,2019-2020,2020-2021,Espanyol,2020-08-20,2020-10-04,RCD Espanyol Barcelona,Bayern Munich,0.92
+19237,Mario Pašalić,2019-2020,2020-2021,Atalanta,2020-08-20,2020-08-31,Atalanta BC,Chelsea FC,0.98
+19237,Mario Pašalić,2019-2020,2020-2021,Atalanta,2020-08-20,2020-09-01,Chelsea FC,Atalanta BC,0.98
+19243,Marko Rog,2019-2020,2020-2021,Cagliari,2020-08-20,2020-08-31,Cagliari Calcio,SSC Napoli,0.98
+19243,Marko Rog,2019-2020,2020-2021,Cagliari,2020-08-20,2020-09-01,SSC Napoli,Cagliari Calcio,0.98
+19248,Martín Montoya,2019-2020,2020-2021,Brighton,2020-08-20,2020-08-25,Brighton & Hove Albion,Real Betis Balompié,0.92
+19265,Mattéo Guendouzi,2019-2020,2020-2021,Arsenal,2020-08-20,2020-10-05,Arsenal FC,Hertha BSC,0.98
+19266,Matteo Pessina,2019-2020,2020-2021,Hellas Verona,2020-08-20,2020-08-31,Hellas Verona,Atalanta BC,1.0
+19278,Maxime Lopez,2019-2020,2020-2021,Marseille,2020-08-20,2020-10-05,Olympique Marseille,US Sassuolo,0.92
+19297,Milan Badelj,2019-2020,2020-2021,Fiorentina,2020-08-20,2020-08-31,ACF Fiorentina,SS Lazio,0.92
+19299,Miralem Pjanić,2019-2020,2020-2021,Juventus,2020-08-20,2020-09-01,Juventus FC,FC Barcelona,0.98
+19332,Nicolò Barella,2019-2020,2020-2021,Inter,2020-08-20,2020-08-31,Inter Milan,Cagliari Calcio,0.92
+19332,Nicolò Barella,2019-2020,2020-2021,Inter,2020-08-20,2020-09-01,Cagliari Calcio,Inter Milan,0.92
+19369,Patrik Schick,2019-2020,2020-2021,RB Leipzig,2020-08-20,2020-08-24,RB Leipzig,AS Roma,1.0
+19382,Philippe Coutinho,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-08-31,Bayern Munich,FC Barcelona,1.0
+19413,Ridle Baku,2019-2020,2020-2021,Mainz 05,2020-08-20,2020-10-01,1.FSV Mainz 05,VfL Wolfsburg,0.92
+19421,Roberto Pereyra,2019-2020,2020-2021,Watford,2020-08-20,2020-09-28,Watford FC,Udinese Calcio,0.98
+19425,Robin Koch,2019-2020,2020-2021,Freiburg,2020-08-20,2020-08-29,SC Freiburg,Leeds United,0.98
+19434,Rolando Mandragora,2019-2020,2020-2021,Udinese,2020-08-20,2020-10-03,Udinese Calcio,Juventus FC,0.98
+19434,Rolando Mandragora,2019-2020,2020-2021,Udinese,2020-08-20,2020-10-04,Juventus FC,Udinese Calcio,0.98
+19440,Ronaldo Vieira,2019-2020,2020-2021,Sampdoria,2020-08-20,2020-10-03,UC Sampdoria,Hellas Verona,0.92
+19442,Ross Barkley,2019-2020,2020-2021,Chelsea,2020-08-20,2020-09-30,Chelsea FC,Aston Villa,0.98
+19451,Ryan Fraser,2019-2020,2020-2021,Bournemouth,2020-08-20,2020-09-07,AFC Bournemouth,Newcastle United,0.98
+19462,Sandro Tonali,2019-2020,2020-2021,Brescia,2020-08-20,2020-09-09,Brescia Calcio (- 2025),AC Milan,0.98
+19490,Simone Verdi,2019-2020,2020-2021,Torino,2020-08-20,2020-08-31,Torino FC,SSC Napoli,0.98
+19490,Simone Verdi,2019-2020,2020-2021,Torino,2020-08-20,2020-09-01,SSC Napoli,Torino FC,0.98
+19518,Thiago Alcántara,2019-2020,2020-2021,Bayern Munich,2020-08-20,2020-09-18,Bayern Munich,Liverpool FC,1.0
+19524,Thomas Partey,2019-2020,2020-2021,Atlético Madrid,2020-08-20,2020-10-05,Atlético de Madrid,Arsenal FC,0.98
+19551,Victor Osimhen,2019-2020,2020-2021,Lille,2020-08-20,2020-09-01,LOSC Lille,SSC Napoli,0.92
+19566,Weston McKennie,2019-2020,2020-2021,Schalke 04,2020-08-20,2020-09-01,FC Schalke 04,Juventus FC,0.98
+19600,Abdoul Kader Bamba,2020-2021,2021-2022,Nantes,2021-08-05,2021-08-31,FC Nantes,Amiens SC,0.98
+19602,Abdoulaye Touré,2020-2021,2021-2022,Nantes,2021-08-05,2021-08-31,FC Nantes,Genoa CFC,0.98
+19619,Alberto Grassi,2020-2021,2021-2022,Parma,2021-08-05,2021-08-21,Parma Calcio 1913,Cagliari Calcio,0.98
+19632,Alexander Sørloth,2020-2021,2021-2022,RB Leipzig,2021-08-05,2021-08-25,RB Leipzig,Real Sociedad,1.0
+19647,Amine Harit,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-31,FC Schalke 04,Olympique Marseille,0.98
+19665,Andy Delort,2020-2021,2021-2022,Montpellier,2021-08-05,2021-08-28,Montpellier HSC,OGC Nice,0.92
+19676,Antoine Griezmann,2020-2021,2021-2022,Barcelona,2021-08-05,2021-08-31,FC Barcelona,Atlético de Madrid,0.98
+19686,Arnaud Kalimuendo,2020-2021,2021-2022,Lens,2021-08-05,2021-08-31,Paris Saint-Germain,RC Lens,0.7272727272727273
+19701,Baptiste Santamaria,2020-2021,2021-2022,Freiburg,2021-08-05,2021-08-17,SC Freiburg,Stade Rennais FC,0.98
+19748,Christian Kouamé,2020-2021,2021-2022,Fiorentina,2021-08-05,2021-08-21,ACF Fiorentina,RSC Anderlecht,0.92
+19760,Cristiano Ronaldo,2020-2021,2021-2022,Juventus,2021-08-05,2021-08-31,Juventus FC,Manchester United,0.98
+19772,Daniel James,2020-2021,2021-2022,Manchester Utd,2021-08-05,2021-08-31,Manchester United,Leeds United,1.0
+19807,Dodi Lukebakio,2020-2021,2021-2022,Hertha BSC,2021-08-05,2021-08-30,Hertha BSC,VfL Wolfsburg,1.0
+19819,Edin Džeko,2020-2021,2021-2022,Roma,2021-08-05,2021-08-14,AS Roma,Inter Milan,0.7272727272727273
+19873,Francesco Caputo,2020-2021,2021-2022,Sassuolo,2021-08-05,2021-08-31,US Sassuolo,UC Sampdoria,0.92
+19883,Gaëtan Laborde,2020-2021,2021-2022,Montpellier,2021-08-05,2021-08-31,Montpellier HSC,Stade Rennais FC,0.92
+19900,Giovanni Simeone,2020-2021,2021-2022,Cagliari,2021-08-05,2021-08-26,Cagliari Calcio,Hellas Verona,0.98
+19926,Héctor Bellerín,2020-2021,2021-2022,Arsenal,2021-08-05,2021-08-31,Arsenal FC,Real Betis Balompié,0.98
+19927,Hélder Costa,2020-2021,2021-2022,Leeds United,2021-08-05,2021-08-31,Leeds United,Valencia CF,1.0
+19929,Hernani,2020-2021,2021-2022,Parma,2021-08-05,2021-08-07,Parma Calcio 1913,Genoa CFC,0.98
+19953,Ivan Ilić,2020-2021,2021-2022,Hellas Verona,2021-08-05,2021-08-12,Manchester City U23,Hellas Verona,1.0
+19969,Jakub Jankto,2020-2021,2021-2022,Sampdoria,2021-08-05,2021-08-20,UC Sampdoria,Getafe CF,0.92
+19973,James Rodríguez,2020-2021,2021-2022,Everton,2021-08-05,2021-09-22,Everton FC,Al-Rayyan SC,0.98
+20006,Joaquín Correa,2020-2021,2021-2022,Lazio,2021-08-05,2021-08-26,SS Lazio,Inter Milan,0.98
+20007,Joe Willock,2020-2021,2021-2022,Newcastle Utd,2021-08-05,2021-08-13,Arsenal FC,Newcastle United,0.896551724137931
+20041,Josh Sargent,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-09,SV Werder Bremen,Norwich City,0.98
+20043,Josip Brekalo,2020-2021,2021-2022,Wolfsburg,2021-08-05,2021-08-31,VfL Wolfsburg,Torino FC,0.98
+20054,Junior Messias,2020-2021,2021-2022,Crotone,2021-08-05,2021-08-31,FC Crotone,AC Milan,0.98
+20076,Kevin Möhwald,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-30,SV Werder Bremen,1.FC Union Berlin,0.98
+20103,Lionel Messi,2020-2021,2021-2022,Barcelona,2021-08-05,2021-08-10,FC Barcelona,Paris Saint-Germain,0.98
+20105,Loren Morón,2020-2021,2021-2022,Betis,2021-08-05,2021-08-25,Real Betis Balompié,RCD Espanyol Barcelona,0.92
+20119,Lucas Pérez,2020-2021,2021-2022,Alavés,2021-08-05,2021-08-31,Deportivo Alavés,Elche CF,0.92
+20125,Ludwig Augustinsson,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-15,SV Werder Bremen,Sevilla FC,0.98
+20132,Luiz Araújo,2020-2021,2021-2022,Lille,2021-08-05,2021-08-06,LOSC Lille,Atlanta United FC,0.92
+20137,Luuk de Jong,2020-2021,2021-2022,Sevilla,2021-08-05,2021-08-31,Sevilla FC,FC Barcelona,0.98
+20143,Mamadou Fofana,2020-2021,2021-2022,Metz,2021-08-05,2021-08-12,FC Metz,Amiens SC,0.98
+20147,Manuel Locatelli,2020-2021,2021-2022,Sassuolo,2021-08-05,2021-08-18,US Sassuolo,Juventus FC,0.92
+20151,Marc Cucurella,2020-2021,2021-2022,Getafe,2021-08-05,2021-08-31,Getafe CF,Brighton & Hove Albion,0.98
+20152,Marcel Hartel,2020-2021,2021-2022,Arminia,2021-08-05,2021-08-10,Arminia Bielefeld,FC St. Pauli,0.92
+20153,Marcel Sabitzer,2020-2021,2021-2022,RB Leipzig,2021-08-05,2021-08-30,RB Leipzig,Bayern Munich,1.0
+20157,Marco Richter,2020-2021,2021-2022,Augsburg,2021-08-05,2021-08-09,FC Augsburg,Hertha BSC,0.98
+20161,Marcus Ingvartsen,2020-2021,2021-2022,Union Berlin,2021-08-05,2021-08-30,1.FC Union Berlin,1.FSV Mainz 05,0.98
+20175,Martin Ødegaard,2020-2021,2021-2022,Arsenal,2021-08-05,2021-08-20,Real Madrid,Arsenal FC,0.98
+20185,Matheus Cunha,2020-2021,2021-2022,Hertha BSC,2021-08-05,2021-08-25,Hertha BSC,Atlético de Madrid,1.0
+20195,Matthew Hoppe,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-31,FC Schalke 04,RCD Mallorca,0.98
+20197,Mattia Zaccagni,2020-2021,2021-2022,Hellas Verona,2021-08-05,2021-08-31,Hellas Verona,SS Lazio,1.0
+20207,Maximilian Eggestein,2020-2021,2021-2022,Werder Bremen,2021-08-05,2021-08-18,SV Werder Bremen,SC Freiburg,0.98
+20246,Moussa Sissoko,2020-2021,2021-2022,Tottenham,2021-08-05,2021-08-27,Tottenham Hotspur,Watford FC,0.92
+20248,Myziane Maolida,2020-2021,2021-2022,Nice,2021-08-05,2021-08-31,OGC Nice,Hertha BSC,0.6666666666666666
+20289,Omar Mascarell,2020-2021,2021-2022,Schalke 04,2021-08-05,2021-08-23,FC Schalke 04,Elche CF,0.98
+20300,Pablo Sarabia,2020-2021,2021-2022,Paris S-G,2021-08-05,2021-08-31,Paris Saint-Germain,Sporting CP,1.0
+20307,Pape Matar Sarr,2020-2021,2021-2022,Metz,2021-08-05,2021-08-27,FC Metz,Tottenham Hotspur,0.98
+20307,Pape Matar Sarr,2020-2021,2021-2022,Metz,2021-08-05,2021-08-28,Tottenham Hotspur,FC Metz,0.98
+20336,Pol Lirola,2020-2021,2021-2022,Marseille,2021-08-05,2021-08-23,ACF Fiorentina,Olympique Marseille,0.92
+20367,Robert Andrich,2020-2021,2021-2022,Union Berlin,2021-08-05,2021-08-16,1.FC Union Berlin,Bayer 04 Leverkusen,0.98
+20392,Romelu Lukaku,2020-2021,2021-2022,Inter,2021-08-05,2021-08-12,Inter Milan,Chelsea FC,0.92
+20402,Rubén Sobrino,2020-2021,2021-2022,Cádiz,2021-08-05,2021-08-30,Valencia CF,Cádiz CF,0.98
+20423,Saúl Ñíguez,2020-2021,2021-2022,Atlético Madrid,2021-08-05,2021-08-31,Atlético de Madrid,Chelsea FC,0.98
+20437,Sergi Guardiola,2020-2021,2021-2022,Valladolid,2021-08-05,2021-08-31,Real Valladolid CF,Rayo Vallecano,0.92
+20449,Simon Banza,2020-2021,2021-2022,Lens,2021-08-05,2021-08-31,RC Lens,FC Famalicão,0.7272727272727273
+20473,Tammy Abraham,2020-2021,2021-2022,Chelsea,2021-08-05,2021-08-17,Chelsea FC,AS Roma,0.98
+20483,Thomas Delaney,2020-2021,2021-2022,Dortmund,2021-08-05,2021-08-25,Borussia Dortmund,Sevilla FC,1.0
+20495,Toma Bašić,2020-2021,2021-2022,Bordeaux,2021-08-05,2021-08-25,FC Girondins Bordeaux,SS Lazio,0.92
+20506,Unai López,2020-2021,2021-2022,Athletic Club,2021-08-05,2021-08-31,Athletic Bilbao,Rayo Vallecano,0.92
+20529,Willian,2020-2021,2021-2022,Arsenal,2021-08-05,2021-08-30,Arsenal FC,Sport Club Corinthians Paulista,0.98
+20536,Yacine Adli,2020-2021,2021-2022,Bordeaux,2021-08-05,2021-08-30,FC Girondins Bordeaux,AC Milan,0.92
+20536,Yacine Adli,2020-2021,2021-2022,Bordeaux,2021-08-05,2021-08-31,AC Milan,FC Girondins Bordeaux,0.92
+20544,Yoane Wissa,2020-2021,2021-2022,Lorient,2021-08-05,2021-08-10,FC Lorient,Brentford FC,0.98
+20566,Adnan Januzaj,2021-2022,2022-2023,Real Sociedad,2022-08-04,2022-08-31,Real Sociedad,Sevilla FC,1.0
+20572,Ajdin Hrustic,2021-2022,2022-2023,Eint Frankfurt,2022-08-04,2022-09-01,Eintracht Frankfurt,Hellas Verona,1.0
+20587,Alexander Isak,2021-2022,2022-2023,Real Sociedad,2022-08-04,2022-08-26,Real Sociedad,Newcastle United,1.0
+20588,Alexander Sørloth,2021-2022,2022-2023,Real Sociedad,2022-08-04,2022-08-29,RB Leipzig,Real Sociedad,1.0
+20594,Allan,2021-2022,2022-2023,Everton,2022-08-04,2022-09-25,Everton FC,Al-Wahda FC,0.98
+20599,Amadou Onana,2021-2022,2022-2023,Lille,2022-08-04,2022-08-09,LOSC Lille,Everton FC,0.92
+20601,Amine Gouiri,2021-2022,2022-2023,Nice,2022-08-04,2022-09-01,OGC Nice,Stade Rennais FC,0.6666666666666666
+20602,Amine Harit,2021-2022,2022-2023,Marseille,2022-08-04,2022-09-01,FC Schalke 04,Olympique Marseille,0.92
+20603,Ander Herrera,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-08-27,Paris Saint-Germain,Athletic Bilbao,1.0
+20608,Andrea Belotti,2021-2022,2022-2023,Torino,2022-08-04,2022-08-28,Torino FC,AS Roma,0.98
+20630,Antonín Barák,2021-2022,2022-2023,Hellas Verona,2022-08-04,2022-08-26,Hellas Verona,ACF Fiorentina,1.0
+20631,Antonio Candreva,2021-2022,2022-2023,Sampdoria,2022-08-04,2022-08-12,UC Sampdoria,US Salernitana 1919,0.92
+20636,Arkadiusz Milik,2021-2022,2022-2023,Marseille,2022-08-04,2022-08-26,Olympique Marseille,Juventus FC,0.92
+20637,Armand Lauriente,2021-2022,2022-2023,Lorient,2022-08-04,2022-08-31,FC Lorient,US Sassuolo,0.98
+20643,Arthur Melo,2021-2022,2022-2023,Juventus,2022-08-04,2022-09-01,Juventus FC,Liverpool FC,0.98
+20646,Aster Vranckx,2021-2022,2022-2023,Wolfsburg,2022-08-04,2022-09-01,VfL Wolfsburg,AC Milan,0.98
+20665,Boubacar Traoré,2021-2022,2022-2023,Metz,2022-08-04,2022-09-01,FC Metz,Wolverhampton Wanderers,0.98
+20667,Boulaye Dia,2021-2022,2022-2023,Villarreal,2022-08-04,2022-08-18,Villarreal CF,US Salernitana 1919,0.98
+20679,Callum Hudson-Odoi,2021-2022,2022-2023,Chelsea,2022-08-04,2022-08-30,Chelsea FC,Bayer 04 Leverkusen,0.98
+20681,Calvin Stengs,2021-2022,2022-2023,Nice,2022-08-04,2022-08-30,OGC Nice,Royal Antwerp FC,0.6666666666666666
+20684,Carlos Soler,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,Paris Saint-Germain,0.98
+20685,Casemiro,2021-2022,2022-2023,Real Madrid,2022-08-04,2022-08-22,Real Madrid,Manchester United,1.0
+20691,Cheikhou Kouyaté,2021-2022,2022-2023,Crystal Palace,2022-08-04,2022-08-13,Crystal Palace,Nottingham Forest,1.0
+20713,Daniel James,2021-2022,2022-2023,Leeds United,2022-08-04,2022-09-01,Leeds United,Fulham FC,1.0
+20742,Diadie Samassékou,2021-2022,2022-2023,Hoffenheim,2022-08-04,2022-09-15,TSG 1899 Hoffenheim,Olympiacos Piraeus,0.92
+20756,Dries Mertens,2021-2022,2022-2023,Napoli,2022-08-04,2022-08-08,SSC Napoli,Galatasaray,0.92
+20764,El Bilal Touré,2021-2022,2022-2023,Reims,2022-08-04,2022-09-01,Stade Reims,UD Almería,0.92
+20773,Emmanuel Dennis,2021-2022,2022-2023,Watford,2022-08-04,2022-08-13,Watford FC,Nottingham Forest,0.98
+20804,Filip Kostić,2021-2022,2022-2023,Eint Frankfurt,2022-08-04,2022-08-12,Eintracht Frankfurt,Juventus FC,1.0
+20832,Gaël Kakuta,2021-2022,2022-2023,Lens,2022-08-04,2022-10-05,RC Lens,Amiens SC,0.7272727272727273
+20841,Georginio Wijnaldum,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-08-05,Paris Saint-Germain,AS Roma,1.0
+20848,Giacomo Raspadori,2021-2022,2022-2023,Sassuolo,2022-08-04,2022-08-20,US Sassuolo,SSC Napoli,0.92
+20853,Giovani Lo Celso,2021-2022,2022-2023,Villarreal,2022-08-04,2022-08-14,Tottenham Hotspur,Villarreal CF,0.98
+20854,Giovanni Simeone,2021-2022,2022-2023,Hellas Verona,2022-08-04,2022-08-18,Hellas Verona,SSC Napoli,1.0
+20856,Giulio Maggiore,2021-2022,2022-2023,Spezia,2022-08-04,2022-08-16,Spezia Calcio,US Salernitana 1919,0.98
+20858,Gonçalo Guedes,2021-2022,2022-2023,Valencia,2022-08-04,2022-08-08,Valencia CF,Wolverhampton Wanderers,0.98
+20860,Gonzalo Melero,2021-2022,2022-2023,Levante,2022-08-04,2022-09-01,Levante UD,UD Almería,0.92
+20865,Guido Carrillo,2021-2022,2022-2023,Elche,2022-08-04,2022-08-30,Elche CF,Henan FC,0.98
+20875,Harry Winks,2021-2022,2022-2023,Tottenham,2022-08-04,2022-08-30,Tottenham Hotspur,UC Sampdoria,0.92
+20896,Ignatius Ganago,2021-2022,2022-2023,Lens,2022-08-04,2022-09-01,RC Lens,FC Nantes,0.7272727272727273
+20899,Ilan Kebbal,2021-2022,2022-2023,Reims,2022-08-04,2022-09-01,Stade Reims,Paris FC,0.92
+20948,Jens Petter Hauge,2021-2022,2022-2023,Eint Frankfurt,2022-08-04,2022-08-16,Eintracht Frankfurt,KAA Gent,1.0
+20983,Jordan Veretout,2021-2022,2022-2023,Roma,2022-08-04,2022-08-05,AS Roma,Olympique Marseille,0.7272727272727273
+21017,Kasper Dolberg,2021-2022,2022-2023,Nice,2022-08-04,2022-09-01,OGC Nice,Sevilla FC,0.6666666666666666
+21069,Lucas Ocampos,2021-2022,2022-2023,Sevilla,2022-08-04,2022-08-31,Sevilla FC,Ajax Amsterdam,0.98
+21090,Mahdi Camara,2021-2022,2022-2023,Saint-Étienne,2022-08-04,2022-08-26,AS Saint-Étienne,Stade Brestois 29,0.92
+21146,Mauro Icardi,2021-2022,2022-2023,Paris S-G,2022-08-04,2022-09-08,Paris Saint-Germain,Galatasaray,1.0
+21150,Maxi Gómez,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,Trabzonspor,0.98
+21157,Maxwel Cornet,2021-2022,2022-2023,Burnley,2022-08-04,2022-08-05,Burnley FC,West Ham United,0.98
+21197,Nathan Redmond,2021-2022,2022-2023,Southampton,2022-08-04,2022-09-08,Southampton FC,Besiktas JK,0.98
+21199,Neal Maupay,2021-2022,2022-2023,Brighton,2022-08-04,2022-08-26,Brighton & Hove Albion,Everton FC,0.92
+21235,Oriol Romeu,2021-2022,2022-2023,Southampton,2022-08-04,2022-09-01,Southampton FC,Girona FC,0.98
+21236,Óscar Melendo,2021-2022,2022-2023,Espanyol,2022-08-04,2022-08-06,RCD Espanyol Barcelona,Granada CF,0.92
+21269,Pierre-Emerick Aubameyang,2021-2022,2022-2023,Barcelona,2022-08-04,2022-09-01,FC Barcelona,Chelsea FC,0.98
+21274,Pol Lirola,2021-2022,2022-2023,Marseille,2022-08-04,2022-08-12,Olympique Marseille,Elche CF,0.92
+21289,Raúl de Tomás,2021-2022,2022-2023,Espanyol,2022-08-04,2022-09-13,RCD Espanyol Barcelona,Rayo Vallecano,0.92
+21295,Remi Oudin,2021-2022,2022-2023,Bordeaux,2022-08-04,2022-08-31,FC Girondins Bordeaux,US Lecce,0.92
+21296,Remo Freuler,2021-2022,2022-2023,Atalanta,2022-08-04,2022-08-14,Atalanta BC,Nottingham Forest,0.98
+21298,Renato Steffen,2021-2022,2022-2023,Wolfsburg,2022-08-04,2022-08-30,VfL Wolfsburg,FC Lugano,0.98
+21356,Sasa Kalajdzic,2021-2022,2022-2023,Stuttgart,2022-08-04,2022-08-31,VfB Stuttgart,Wolverhampton Wanderers,0.98
+21373,Sergiño Dest,2021-2022,2022-2023,Barcelona,2022-08-04,2022-09-01,FC Barcelona,AC Milan,0.98
+21377,Sergio Reguilón,2021-2022,2022-2023,Tottenham,2022-08-04,2022-08-30,Tottenham Hotspur,Atlético de Madrid,0.92
+21383,Sofiane Diop,2021-2022,2022-2023,Monaco,2022-08-04,2022-08-29,AS Monaco,OGC Nice,0.92
+21425,Timo Werner,2021-2022,2022-2023,Chelsea,2022-08-04,2022-08-09,Chelsea FC,RB Leipzig,0.98
+21439,Tonny Vilhena,2021-2022,2022-2023,Espanyol,2022-08-04,2022-08-10,RCD Espanyol Barcelona,US Salernitana 1919,0.92
+21445,Uroš Račić,2021-2022,2022-2023,Valencia,2022-08-04,2022-09-01,Valencia CF,SC Braga,0.98
+21459,Wajdi Kechrida,2021-2022,2022-2023,Salernitana,2022-08-04,2022-08-29,US Salernitana 1919,Atromitos Athens,0.92
+21503,Ado Onaiwu,2022-2023,2023-2024,Toulouse,2023-08-10,2023-08-28,FC Toulouse,AJ Auxerre,0.98
+21517,Aleksandar Mitrović,2022-2023,2023-2024,Fulham,2023-08-10,2023-08-19,Fulham FC,Al-Hilal SFC,0.98
+21523,Alex Iwobi,2022-2023,2023-2024,Everton,2023-08-10,2023-09-01,Everton FC,Fulham FC,0.98
+21529,Alexis Flips,2022-2023,2023-2024,Reims,2023-08-10,2023-08-12,Stade Reims,RSC Anderlecht,0.92
+21531,Alexis Saelemaekers,2022-2023,2023-2024,Milan,2023-08-10,2023-08-30,AC Milan,Bologna FC 1909,0.98
+21532,Alexis Sánchez,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-26,Olympique Marseille,Inter Milan,0.92
+21549,Andrea Petagna,2022-2023,2023-2024,Monza,2023-08-10,2023-08-30,AC Monza,Cagliari Calcio,0.98
+21562,Ansu Fati,2022-2023,2023-2024,Barcelona,2023-08-10,2023-09-01,FC Barcelona,Brighton & Hove Albion,0.98
+21571,Anton Stach,2022-2023,2023-2024,Mainz 05,2023-08-10,2023-09-01,1.FSV Mainz 05,TSG 1899 Hoffenheim,0.92
+21577,Arber Zeneli,2022-2023,2023-2024,Reims,2023-08-10,2023-09-02,Stade Reims,Adana Demirspor,0.92
+21586,Assan Ceesay,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-15,US Lecce,Damac FC,0.92
+21601,Beto,2022-2023,2023-2024,Udinese,2023-08-10,2023-08-29,Udinese Calcio,Everton FC,0.98
+21608,Boubakary Soumaré,2022-2023,2023-2024,Leicester City,2023-08-10,2023-09-01,Leicester City,Sevilla FC,1.0
+21617,Brennan Johnson,2022-2023,2023-2024,Nott'ham Forest,2023-08-10,2023-09-01,Nottingham Forest,Tottenham Hotspur,1.0
+21635,Cengiz Ünder,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-13,Olympique Marseille,Fenerbahce,0.92
+21637,Charles De Ketelaere,2022-2023,2023-2024,Milan,2023-08-10,2023-08-16,AC Milan,Atalanta BC,0.98
+21694,Demarai Gray,2022-2023,2023-2024,Everton,2023-08-10,2023-09-07,Everton FC,Al-Ettifaq FC,0.98
+21703,Divock Origi,2022-2023,2023-2024,Milan,2023-08-10,2023-09-01,AC Milan,Nottingham Forest,0.98
+21705,Dodi Lukebakio,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-24,Hertha BSC,Sevilla FC,1.0
+21716,Duván Zapata,2022-2023,2023-2024,Atalanta,2023-08-10,2023-09-01,Atalanta BC,Torino FC,0.98
+21734,Elye Wahi,2022-2023,2023-2024,Montpellier,2023-08-10,2023-08-20,Montpellier HSC,RC Lens,0.92
+21743,Eric García,2022-2023,2023-2024,Barcelona,2023-08-10,2023-09-01,FC Barcelona,Girona FC,0.98
+21761,Fares Chaïbi,2022-2023,2023-2024,Toulouse,2023-08-10,2023-08-30,FC Toulouse,Eintracht Frankfurt,0.98
+21764,Federico Di Francesco,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-31,US Lecce,Palermo FC,0.92
+21790,Fred,2022-2023,2023-2024,Manchester Utd,2023-08-10,2023-08-13,Manchester United,Fenerbahce,1.0
+21826,Habib Diallo,2022-2023,2023-2024,Strasbourg,2023-08-10,2023-08-13,RC Strasbourg Alsace,Al-Shabab FC,0.92
+21833,Harry Kane,2022-2023,2023-2024,Tottenham,2023-08-10,2023-08-12,Tottenham Hotspur,Bayern Munich,0.92
+21841,Hirving Lozano,2022-2023,2023-2024,Napoli,2023-08-10,2023-09-01,SSC Napoli,PSV Eindhoven,0.92
+21849,Ibrahima Koné,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-16,FC Lorient,UD Almería,0.98
+21859,Ilia Gruev,2022-2023,2023-2024,Werder Bremen,2023-08-10,2023-08-31,SV Werder Bremen,Leeds United,0.98
+21880,Jack Harrison,2022-2023,2023-2024,Leeds United,2023-08-10,2023-08-14,Leeds United,Everton FC,1.0
+21884,Jaidon Anthony,2022-2023,2023-2024,Bournemouth,2023-08-10,2023-09-01,AFC Bournemouth,Leeds United,0.98
+21889,James Ward-Prowse,2022-2023,2023-2024,Southampton,2023-08-10,2023-08-14,Southampton FC,West Ham United,0.98
+21903,Jerdy Schouten,2022-2023,2023-2024,Bologna,2023-08-10,2023-08-16,Bologna FC 1909,PSV Eindhoven,0.98
+21907,Jesper Lindstrøm,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-08-29,Eintracht Frankfurt,SSC Napoli,1.0
+21911,Joakim Mæhle,2022-2023,2023-2024,Atalanta,2023-08-10,2023-08-12,Atalanta BC,VfL Wolfsburg,0.98
+21916,Joaquín Correa,2022-2023,2023-2024,Inter,2023-08-10,2023-08-25,Inter Milan,Olympique Marseille,0.92
+21945,Juan Bernat,2022-2023,2023-2024,Paris S-G,2023-08-10,2023-09-01,Paris Saint-Germain,SL Benfica,1.0
+21947,Juanmi,2022-2023,2023-2024,Betis,2023-08-10,2023-08-19,Real Betis Balompié,Al-Riyadh SC,0.92
+21954,Junior Messias,2022-2023,2023-2024,Milan,2023-08-10,2023-08-11,AC Milan,Genoa CFC,0.98
+21959,Kamory Doumbia,2022-2023,2023-2024,Reims,2023-08-10,2023-09-01,Stade Reims,Stade Brestois 29,0.92
+21974,Kevin Lasagna,2022-2023,2023-2024,Hellas Verona,2023-08-10,2023-08-15,Hellas Verona,Fatih Karagümrük,1.0
+22029,Lucas Boyé,2022-2023,2023-2024,Elche,2023-08-10,2023-08-30,Elche CF,Granada CF,0.98
+22045,Luka Jović,2022-2023,2023-2024,Fiorentina,2023-08-10,2023-09-01,ACF Fiorentina,AC Milan,0.92
+22060,Marco Richter,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-22,Hertha BSC,1.FSV Mainz 05,1.0
+22071,Marko Arnautović,2022-2023,2023-2024,Bologna,2023-08-10,2023-08-16,Bologna FC 1909,Inter Milan,0.98
+22093,Mattéo Guendouzi,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-31,Olympique Marseille,SS Lazio,0.92
+22102,Maxime Lopez,2022-2023,2023-2024,Sassuolo,2023-08-10,2023-09-01,US Sassuolo,ACF Fiorentina,0.92
+22105,Mehdi Bourabia,2022-2023,2023-2024,Spezia,2023-08-10,2023-09-01,Spezia Calcio,Frosinone Calcio,0.98
+22107,Mergim Berisha,2022-2023,2023-2024,Augsburg,2023-08-10,2023-08-30,FC Augsburg,TSG 1899 Hoffenheim,0.98
+22122,Mitchell van Bergen,2022-2023,2023-2024,Reims,2023-08-10,2023-08-31,Stade Reims,Twente Enschede FC,0.92
+22130,Moisés Caicedo,2022-2023,2023-2024,Brighton,2023-08-10,2023-08-14,Brighton & Hove Albion,Chelsea FC,0.92
+22134,Morten Hjulmand,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-13,US Lecce,Sporting CP,0.92
+22143,Musa Barrow,2022-2023,2023-2024,Bologna,2023-08-10,2023-09-04,Bologna FC 1909,Al-Taawoun FC,0.98
+22144,Nabil Bentaleb,2022-2023,2023-2024,Angers,2023-08-10,2023-08-28,Angers SCO,LOSC Lille,0.92
+22149,Neal Maupay,2022-2023,2023-2024,Everton,2023-08-10,2023-09-01,Everton FC,Brentford FC,0.98
+22153,Nemanja Matić,2022-2023,2023-2024,Roma,2023-08-10,2023-08-14,AS Roma,Stade Rennais FC,0.7272727272727273
+22155,Neymar,2022-2023,2023-2024,Paris S-G,2023-08-10,2023-08-15,Paris Saint-Germain,Al-Hilal SFC,1.0
+22156,Niclas Füllkrug,2022-2023,2023-2024,Werder Bremen,2023-08-10,2023-08-31,SV Werder Bremen,Borussia Dortmund,0.98
+22159,Nicolás Domínguez,2022-2023,2023-2024,Bologna,2023-08-10,2023-09-01,Bologna FC 1909,Nottingham Forest,0.98
+22162,Nicolas Haas,2022-2023,2023-2024,Empoli,2023-08-10,2023-09-03,FC Empoli,FC Luzern,0.98
+22190,Ousmane Dembélé,2022-2023,2023-2024,Barcelona,2023-08-10,2023-08-12,FC Barcelona,Paris Saint-Germain,0.98
+22196,Papu Gómez,2022-2023,2023-2024,Sevilla,2023-08-10,2023-09-01,Sevilla FC,Without Club,0.98
+22221,Portu,2022-2023,2023-2024,Getafe,2023-08-10,2023-09-01,Getafe CF,Girona FC,0.98
+22225,Rafael Borré,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-09-01,Eintracht Frankfurt,SV Werder Bremen,1.0
+22230,Randal Kolo Muani,2022-2023,2023-2024,Eint Frankfurt,2023-08-10,2023-09-01,Eintracht Frankfurt,Paris Saint-Germain,1.0
+22241,Remi Oudin,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-28,FC Girondins Bordeaux,US Lecce,0.92
+22242,Remo Freuler,2022-2023,2023-2024,Nott'ham Forest,2023-08-10,2023-09-01,Nottingham Forest,Bologna FC 1909,1.0
+22257,Roberto Pereyra,2022-2023,2023-2024,Udinese,2023-08-10,2023-09-11,Without Club,Udinese Calcio,0.98
+22273,Roméo Lavia,2022-2023,2023-2024,Southampton,2023-08-10,2023-08-18,Southampton FC,Chelsea FC,0.98
+22274,Rominigue Kouamé,2022-2023,2023-2024,Troyes,2023-08-10,2023-09-01,ESTAC Troyes,Cádiz CF,0.92
+22285,Ruslan Malinovskyi,2022-2023,2023-2024,Marseille,2023-08-10,2023-08-19,Olympique Marseille,Genoa CFC,0.92
+22296,Samu Castillejo,2022-2023,2023-2024,Valencia,2023-08-10,2023-09-01,Valencia CF,US Sassuolo,0.98
+22306,Sardar Azmoun,2022-2023,2023-2024,Leverkusen,2023-08-10,2023-08-26,Bayer 04 Leverkusen,AS Roma,0.98
+22316,Sergi Darder,2022-2023,2023-2024,Espanyol,2023-08-10,2023-08-11,RCD Espanyol Barcelona,RCD Mallorca,0.92
+22320,Sergio Camello,2022-2023,2023-2024,Rayo Vallecano,2023-08-10,2023-08-17,Atlético de Madrid,Rayo Vallecano,1.0
+22327,Simon Zoller,2022-2023,2023-2024,Bochum,2023-08-10,2023-09-01,VfL Bochum,FC St. Pauli,0.98
+22328,Simone Bastoni,2022-2023,2023-2024,Spezia,2023-08-10,2023-09-01,Spezia Calcio,FC Empoli,0.98
+22331,Sofyan Amrabat,2022-2023,2023-2024,Fiorentina,2023-08-10,2023-09-01,ACF Fiorentina,Manchester United,0.92
+22340,Stéphane Diarra,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-21,FC Lorient,AS Saint-Étienne,0.98
+22343,Stijn Spierings,2022-2023,2023-2024,Toulouse,2023-08-10,2023-09-14,RC Lens,FC Toulouse,0.98
+22345,Suat Serdar,2022-2023,2023-2024,Hertha BSC,2023-08-10,2023-08-22,Hertha BSC,Hellas Verona,1.0
+22382,Tyler Adams,2022-2023,2023-2024,Leeds United,2023-08-10,2023-08-20,Leeds United,AFC Bournemouth,1.0
+22400,Wataru Endo,2022-2023,2023-2024,Stuttgart,2023-08-10,2023-08-18,VfB Stuttgart,Liverpool FC,0.98
+22407,Wilson Odobert,2022-2023,2023-2024,Troyes,2023-08-10,2023-08-12,ESTAC Troyes,Burnley FC,0.92
+22413,Yannick Carrasco,2022-2023,2023-2024,Atlético Madrid,2023-08-10,2023-09-04,Atlético de Madrid,Al-Shabab FC,0.98
+22418,Yoann Cathline,2022-2023,2023-2024,Lorient,2023-08-10,2023-08-21,FC Lorient,Almere City FC,0.98
+22423,Youssef Maleh,2022-2023,2023-2024,Lecce,2023-08-10,2023-08-31,US Lecce,FC Empoli,0.92
+22450,Albert Guðmundsson,2023-2024,2024-2025,Genoa,2024-08-14,2024-08-16,Genoa CFC,ACF Fiorentina,0.92
+22487,André Ayew,2023-2024,2024-2025,Le Havre,2024-08-14,2024-10-04,Without Club,Le Havre AC,0.98
+22494,Andrea Pinamonti,2023-2024,2024-2025,Sassuolo,2024-08-14,2024-08-16,US Sassuolo,Genoa CFC,0.92
+22523,Arne Engels,2023-2024,2024-2025,Augsburg,2024-08-14,2024-08-30,FC Augsburg,Celtic FC,0.98
+22528,Arthur Atta,2023-2024,2024-2025,Metz,2024-08-14,2024-08-30,FC Metz,Udinese Calcio,0.98
+22535,Aurélio Buta,2023-2024,2024-2025,Eint Frankfurt,2024-08-14,2024-08-29,Eintracht Frankfurt,Stade Reims,1.0
+22538,Azzedine Ounahi,2023-2024,2024-2025,Marseille,2024-08-14,2024-09-04,Olympique Marseille,Panathinaikos FC,0.92
+22553,Billy Gilmour,2023-2024,2024-2025,Brighton,2024-08-14,2024-08-30,Brighton & Hove Albion,SSC Napoli,0.92
+22558,Boulaye Dia,2023-2024,2024-2025,Salernitana,2024-08-14,2024-08-16,US Salernitana 1919,SS Lazio,0.92
+22578,Carlos Soler,2023-2024,2024-2025,Paris S-G,2024-08-14,2024-08-30,Paris Saint-Germain,West Ham United,1.0
+22586,Chiedozie Ogbene,2023-2024,2024-2025,Luton Town,2024-08-14,2024-08-28,Luton Town,Ipswich Town,1.0
+22601,Conor Gallagher,2023-2024,2024-2025,Chelsea,2024-08-14,2024-08-21,Chelsea FC,Atlético de Madrid,0.98
+22616,Danilo Cataldi,2023-2024,2024-2025,Lazio,2024-08-14,2024-08-30,SS Lazio,ACF Fiorentina,0.98
+22654,Eddie Nketiah,2023-2024,2024-2025,Arsenal,2024-08-14,2024-08-30,Arsenal FC,Crystal Palace,0.98
+22656,Edoardo Bove,2023-2024,2024-2025,Roma,2024-08-14,2024-08-30,AS Roma,ACF Fiorentina,0.7272727272727273
+22691,Fabio Miretti,2023-2024,2024-2025,Juventus,2024-08-14,2024-08-25,Juventus FC,Genoa CFC,0.98
+22697,Federico Chiesa,2023-2024,2024-2025,Juventus,2024-08-14,2024-08-29,Juventus FC,Liverpool FC,0.98
+22719,Frank Onyeka,2023-2024,2024-2025,Brentford,2024-08-14,2024-08-30,Brentford FC,FC Augsburg,0.98
+22720,Frederic Guilbert,2023-2024,2024-2025,Strasbourg,2024-08-14,2024-08-27,RC Strasbourg Alsace,US Lecce,0.92
+22736,Gianluca Gaetano,2023-2024,2024-2025,Cagliari,2024-08-14,2024-08-30,SSC Napoli,Cagliari Calcio,0.98
+22781,İlkay Gündoğan,2023-2024,2024-2025,Barcelona,2024-08-14,2024-08-23,FC Barcelona,Manchester City,0.98
+22795,Ivan Toney,2023-2024,2024-2025,Brentford,2024-08-14,2024-08-31,Brentford FC,Al-Ahli SFC,0.98
+22824,Jens Cajuste,2023-2024,2024-2025,Napoli,2024-08-14,2024-08-19,SSC Napoli,Ipswich Town,0.92
+22852,Jordan Ayew,2023-2024,2024-2025,Crystal Palace,2024-08-14,2024-08-23,Crystal Palace,Leicester City,1.0
+22856,Jordan Veretout,2023-2024,2024-2025,Marseille,2024-08-14,2024-09-04,Olympique Marseille,Olympique Lyon,0.92
+22925,Lazar Samardzic,2023-2024,2024-2025,Udinese,2024-08-14,2024-08-18,Udinese Calcio,Atalanta BC,0.98
+22957,Lucas Ocampos,2023-2024,2024-2025,Sevilla,2024-08-14,2024-09-03,Sevilla FC,CF Monterrey,0.98
+22968,Luis Rioja,2023-2024,2024-2025,Alavés,2024-08-14,2024-08-22,Deportivo Alavés,Valencia CF,0.92
+22974,Manu Koné,2023-2024,2024-2025,Gladbach,2024-08-14,2024-08-30,Borussia Mönchengladbach,AS Roma,1.0
+22979,Manuel Ugarte,2023-2024,2024-2025,Paris S-G,2024-08-14,2024-08-30,Paris Saint-Germain,Manchester United,1.0
+22983,Marco Brescianini,2023-2024,2024-2025,Frosinone,2024-08-14,2024-08-16,Frosinone Calcio,Atalanta BC,0.98
+23049,Mikel Merino,2023-2024,2024-2025,Real Sociedad,2024-08-14,2024-08-27,Real Sociedad,Arsenal FC,1.0
+23107,Niklas Dorsch,2023-2024,2024-2025,Augsburg,2024-08-14,2024-08-30,FC Augsburg,1.FC Heidenheim 1846,0.98
+23113,Odsonne Édouard,2023-2024,2024-2025,Crystal Palace,2024-08-14,2024-08-30,Crystal Palace,Leicester City,1.0
+23167,Raheem Sterling,2023-2024,2024-2025,Chelsea,2024-08-14,2024-08-30,Chelsea FC,Arsenal FC,0.98
+23185,Renato Tapia,2023-2024,2024-2025,Celta Vigo,2024-08-14,2024-08-15,Celta de Vigo,CD Leganés,0.98
+23198,Robin Gosens,2023-2024,2024-2025,Union Berlin,2024-08-14,2024-08-30,1.FC Union Berlin,ACF Fiorentina,0.98
+23207,Roland Sallai,2023-2024,2024-2025,Freiburg,2024-08-14,2024-09-13,SC Freiburg,Galatasaray,0.98
+23226,Salih Özcan,2023-2024,2024-2025,Dortmund,2024-08-14,2024-08-28,Borussia Dortmund,VfL Wolfsburg,1.0
+23227,Salis Abdul Samed,2023-2024,2024-2025,Lens,2024-08-14,2024-08-30,RC Lens,Sunderland AFC,0.7272727272727273
+23232,Samuel Moutoussamy,2023-2024,2024-2025,Nantes,2024-08-14,2024-08-22,FC Nantes,Sivasspor,0.98
+23234,Sander Berge,2023-2024,2024-2025,Burnley,2024-08-14,2024-08-22,Burnley FC,Fulham FC,0.98
+23241,Scott McTominay,2023-2024,2024-2025,Manchester Utd,2024-08-14,2024-08-30,Manchester United,SSC Napoli,1.0
+23272,Teun Koopmeiners,2023-2024,2024-2025,Atalanta,2024-08-14,2024-08-28,Atalanta BC,Juventus FC,0.98
+23288,Tom Krauß,2023-2024,2024-2025,Mainz 05,2024-08-14,2024-08-22,1.FSV Mainz 05,Luton Town,0.92
+23306,Victor Osimhen,2023-2024,2024-2025,Napoli,2024-08-14,2024-09-04,SSC Napoli,Galatasaray,0.92
+23325,Willian,2023-2024,2024-2025,Fulham,2024-08-14,2024-09-02,Fulham FC,Olympiacos Piraeus,0.98
+23327,Wilson Odobert,2023-2024,2024-2025,Burnley,2024-08-14,2024-08-16,Burnley FC,Tottenham Hotspur,0.98
+23332,Yacine Adli,2023-2024,2024-2025,Milan,2024-08-14,2024-08-28,AC Milan,ACF Fiorentina,0.98
+23345,Youssouf Fofana,2023-2024,2024-2025,Monaco,2024-08-14,2024-08-17,AS Monaco,AC Milan,0.92

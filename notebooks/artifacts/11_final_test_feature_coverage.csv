@@ -1,0 +1,7 @@
+metric,value
+final_test_rows,926.0
+tm_player_id_coverage,0.9395248380129589
+market_value_coverage,0.9341252699784017
+preseason_transfer_rate,0.19222462203023757
+changed_team_rate,0.16198704103671707
+new_team_strength_missing_rate,0.09611231101511879

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">EDA and domain insights</title>
+  <desc id="desc">Train-only summary showing current-to-next goal correlation, position differences, target distribution, and Big5 presence rate.</desc>
+  <style>
+    .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1}.title{fill:#f0f6fc;font:700 30px system-ui,-apple-system,Segoe UI,sans-serif}.sub{fill:#8b949e;font:15px system-ui,-apple-system,Segoe UI,sans-serif}.pt{fill:#f0f6fc;font:700 18px system-ui,-apple-system,Segoe UI,sans-serif}.big{fill:#58a6ff;font:700 54px system-ui,-apple-system,Segoe UI,sans-serif}.label{fill:#c9d1d9;font:14px system-ui,-apple-system,Segoe UI,sans-serif}.small{fill:#8b949e;font:13px system-ui,-apple-system,Segoe UI,sans-serif}.axis{stroke:#484f58;stroke-width:1}.blue{fill:#58a6ff}.green{fill:#3fb950}.orange{fill:#d29922}.red{fill:#f85149}.purple{fill:#a371f7}
+  </style>
+  <rect class="bg" width="1200" height="760" rx="18"/>
+  <text class="title" x="55" y="62">What the data said before modeling</text>
+  <text class="sub" x="55" y="90">Train only · 22,430 player-season pairs · long_basic</text>
+
+  <rect class="panel" x="45" y="125" width="535" height="260" rx="14"/>
+  <text class="pt" x="75" y="165">1. Current goals still matter — but are not enough</text>
+  <text class="big" x="75" y="245">r ≈ 0.65</text>
+  <text class="label" x="75" y="278">current goals ↔ next-season goals</text>
+  <line class="axis" x1="330" y1="320" x2="535" y2="320"/><line class="axis" x1="330" y1="320" x2="330" y2="205"/>
+  <circle class="blue" cx="350" cy="304" r="5"/><circle class="blue" cx="370" cy="294" r="5"/><circle class="blue" cx="395" cy="289" r="5"/><circle class="blue" cx="410" cy="270" r="5"/><circle class="blue" cx="430" cy="275" r="5"/><circle class="blue" cx="445" cy="250" r="5"/><circle class="blue" cx="466" cy="259" r="5"/><circle class="blue" cx="480" cy="230" r="5"/><circle class="blue" cx="505" cy="218" r="5"/><circle class="blue" cx="515" cy="245" r="5"/>
+  <text class="small" x="75" y="348">Past scoring is the strongest simple signal, but large season-to-season changes remain.</text>
+
+  <rect class="panel" x="620" y="125" width="535" height="260" rx="14"/>
+  <text class="pt" x="650" y="165">2. Position mattered more than league</text>
+  <text class="label" x="650" y="205">Mean next-season goals</text>
+  <rect class="blue" x="650" y="232" width="337" height="38" rx="6"/><text class="label" x="662" y="257">FW</text><text class="pt" x="1000" y="258">4.99</text>
+  <rect class="purple" x="650" y="294" width="97" height="38" rx="6"/><text class="label" x="662" y="319">MF</text><text class="pt" x="760" y="320">1.44</text>
+  <text class="small" x="650" y="357">A single overall metric can hide very different difficulty by position.</text>
+
+  <rect class="panel" x="45" y="420" width="535" height="275" rx="14"/>
+  <text class="pt" x="75" y="460">3. The target is zero-heavy and long-tailed</text>
+  <text class="label" x="75" y="498">Share of next_goals</text>
+  <rect class="red" x="75" y="525" width="174" height="48" rx="6"/><text class="label" x="88" y="555">0 goals</text><text class="pt" x="184" y="556">39.4%</text>
+  <rect class="green" x="255" y="525" width="231" height="48" rx="6"/><text class="label" x="268" y="555">1–9</text><text class="pt" x="421" y="556">52.3%</text>
+  <rect class="orange" x="492" y="525" width="37" height="48" rx="6"/>
+  <text class="label" x="75" y="610">10+ goals</text><text class="pt" x="172" y="611">8.36%</text>
+  <text class="small" x="75" y="650">High scorers are rare, but they are not noise — they are a key prediction target.</text>
+
+  <rect class="panel" x="620" y="420" width="535" height="275" rx="14"/>
+  <text class="pt" x="650" y="460">4. Zero goals mixes two different football events</text>
+  <text class="label" x="650" y="498">Next-season Big5 record</text>
+  <rect class="green" x="650" y="525" width="386" height="48" rx="6"/><text class="label" x="664" y="555">Presence</text><text class="pt" x="947" y="556">83.1%</text>
+  <rect class="red" x="1041" y="525" width="79" height="48" rx="6"/>
+  <text class="label" x="650" y="610">Exit / no Big5 record</text><text class="pt" x="820" y="611">16.9%</text>
+  <text class="small" x="650" y="650">This motivated separating “stay in Big5?” from “if yes, how many goals?”</text>
+
+  <text class="small" x="55" y="728">Sources: long_basic train summary and project EDA records. Correlation and position means are rounded.</text>
+</svg>

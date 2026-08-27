@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">From domain question to modeling decision</title>
+  <desc id="desc">Shows how domain hypotheses, data and EDA, experiments, and errors led to modeling decisions.</desc>
+  <style>
+    .bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d;stroke-width:1}.title{fill:#f0f6fc;font:700 30px system-ui,-apple-system,Segoe UI,sans-serif}.sub{fill:#8b949e;font:15px system-ui,-apple-system,Segoe UI,sans-serif}.h{fill:#f0f6fc;font:700 18px system-ui,-apple-system,Segoe UI,sans-serif}.t{fill:#c9d1d9;font:14px system-ui,-apple-system,Segoe UI,sans-serif}.small{fill:#8b949e;font:13px system-ui,-apple-system,Segoe UI,sans-serif}.blue{fill:#58a6ff}.green{fill:#3fb950}.orange{fill:#d29922}.purple{fill:#a371f7}.red{fill:#f85149}.arrow{stroke:#8b949e;stroke-width:2;fill:none;marker-end:url(#m)}
+  </style>
+  <defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/></marker></defs>
+  <rect class="bg" width="1200" height="720" rx="18"/>
+  <text class="title" x="55" y="62">Domain knowledge did not give the answer — it gave better questions</text>
+  <text class="sub" x="55" y="90">The project improved by repeating this loop rather than only tuning the model.</text>
+
+  <rect class="card" x="60" y="145" width="210" height="120" rx="14"/>
+  <circle class="blue" cx="90" cy="175" r="11"/><text class="h" x="115" y="181">Domain question</text>
+  <text class="t" x="82" y="215">Why does scoring change?</text><text class="small" x="82" y="241">team · transfer · role · minutes</text>
+  <path class="arrow" d="M270 205 H340"/>
+
+  <rect class="card" x="340" y="145" width="210" height="120" rx="14"/>
+  <circle class="purple" cx="370" cy="175" r="11"/><text class="h" x="395" y="181">Data & EDA</text>
+  <text class="t" x="362" y="215">Measure what is observable</text><text class="small" x="362" y="241">history · team strength · market</text>
+  <path class="arrow" d="M550 205 H620"/>
+
+  <rect class="card" x="620" y="145" width="210" height="120" rx="14"/>
+  <circle class="orange" cx="650" cy="175" r="11"/><text class="h" x="675" y="181">Experiment</text>
+  <text class="t" x="642" y="215">Validate with time order</text><text class="small" x="642" y="241">walk-forward · locked test</text>
+  <path class="arrow" d="M830 205 H900"/>
+
+  <rect class="card" x="900" y="145" width="240" height="120" rx="14"/>
+  <circle class="green" cx="930" cy="175" r="11"/><text class="h" x="955" y="181">Modeling decision</text>
+  <text class="t" x="922" y="215">Keep, remove, or redesign</text><text class="small" x="922" y="241">features · target · architecture</text>
+
+  <path class="arrow" d="M1020 265 V330 H165 V390"/>
+
+  <rect class="card" x="60" y="390" width="330" height="220" rx="14"/>
+  <text class="h" x="85" y="430">Example A · zero-goal mixture</text>
+  <text class="t" x="85" y="470">EDA</text><text class="small" x="155" y="470">39.4% of train rows have next_goals = 0</text>
+  <text class="t" x="85" y="505">Interpret</text><text class="small" x="155" y="505">zero includes true low scorers and Big5 exits</text>
+  <text class="t" x="85" y="540">Redesign</text><text class="small" x="155" y="540">Presence classifier + conditional regressor</text>
+  <text class="t" x="85" y="575">Result</text><text class="small" x="155" y="575">Hard Two-stage → locked MAE 2.003</text>
+
+  <rect class="card" x="435" y="390" width="330" height="220" rx="14"/>
+  <text class="h" x="460" y="430">Example B · transfer context</text>
+  <text class="t" x="460" y="470">Error</text><text class="small" x="530" y="470">breakout / decline hard to explain</text>
+  <text class="t" x="460" y="505">Question</text><text class="small" x="530" y="505">does the next environment matter?</text>
+  <text class="t" x="460" y="540">Data</text><text class="small" x="530" y="540">Transfermarkt market / transfer / new-team</text>
+  <text class="t" x="460" y="575">Result</text><text class="small" x="530" y="575">removing transfer context worsened dev MAE</text>
+
+  <rect class="card" x="810" y="390" width="330" height="220" rx="14"/>
+  <text class="h" x="835" y="430">Example C · tuning was not the answer</text>
+  <text class="t" x="835" y="470">Baseline</text><text class="small" x="915" y="470">CatBoost MAE 2.389</text>
+  <text class="t" x="835" y="505">HPO</text><text class="small" x="915" y="505">Tuned CatBoost MAE 2.398</text>
+  <text class="t" x="835" y="540">Lesson</text><text class="small" x="915" y="540">more tuning ≠ better generalization</text>
+  <text class="t" x="835" y="575">Shift</text><text class="small" x="915" y="575">problem/data redesign produced larger gains</text>
+
+  <text class="small" x="55" y="680">Core loop: domain hypothesis → measurable data → leakage-safe experiment → error analysis → next question.</text>
+</svg>

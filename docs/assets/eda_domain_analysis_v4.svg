@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="960" viewBox="0 0 1400 960" role="img" aria-labelledby="title desc">
+<title id="title">도메인과 데이터 인사이트 — 학습 시즌만 사용</title>
+<desc id="desc">다음 시즌 득점 분포, 현재 시즌과 다음 시즌 득점 관계, 포지션 분포, 리그별 포지션 평균을 보여주는 분석 시각화</desc>
+<style>
+.bg{fill:#fff}.panel{fill:#fff;stroke:#bcc7d4;stroke-width:1.4}.title{font:700 31px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#111827}.st{font:700 21px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#111827}.tx{font:15px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#273244}.sm{font:13px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#58677a}.axis{stroke:#708090;stroke-width:1.2}.grid{stroke:#e5eaf0;stroke-width:1}.blue{fill:#4f83c2}.orange{fill:#e7893a}.red{fill:#d65252}.dark{fill:#1d4f8c}.mid{fill:#6ea6cf}.light{fill:#c8dfef}.vl{fill:#eaf2f8}.boxfw{fill:#e99655;fill-opacity:.9;stroke:#333}.boxmf{fill:#5485bf;fill-opacity:.9;stroke:#333}
+</style>
+<rect class="bg" width="1400" height="960"/>
+<text class="title" x="700" y="42" text-anchor="middle">도메인과 데이터 인사이트 — 학습 시즌만 사용</text>
+
+<!-- panel 1 -->
+<rect class="panel" x="55" y="80" width="620" height="385"/>
+<text class="st" x="365" y="112" text-anchor="middle">다음 시즌 득점은 0골에 집중되고 긴 꼬리를 가진다</text>
+<line class="axis" x1="105" y1="410" x2="640" y2="410"/><line class="axis" x1="105" y1="145" x2="105" y2="410"/>
+<line class="grid" x1="105" y1="350" x2="640" y2="350"/><line class="grid" x1="105" y1="290" x2="640" y2="290"/><line class="grid" x1="105" y1="230" x2="640" y2="230"/><line class="grid" x1="105" y1="170" x2="640" y2="170"/>
+<rect class="blue" x="116" y="157" width="24" height="253"/><rect class="blue" x="142" y="315" width="24" height="95"/><rect class="blue" x="168" y="346" width="24" height="64"/><rect class="blue" x="194" y="362" width="24" height="48"/><rect class="blue" x="220" y="373" width="24" height="37"/><rect class="blue" x="246" y="382" width="24" height="28"/><rect class="blue" x="272" y="388" width="24" height="22"/><rect class="blue" x="298" y="393" width="24" height="17"/><rect class="blue" x="324" y="397" width="24" height="13"/><rect class="blue" x="350" y="400" width="24" height="10"/><rect class="blue" x="376" y="402" width="24" height="8"/><rect class="blue" x="402" y="404" width="24" height="6"/><rect class="blue" x="428" y="405" width="24" height="5"/><rect class="blue" x="454" y="406" width="24" height="4"/><rect class="blue" x="480" y="407" width="24" height="3"/><rect class="blue" x="506" y="407" width="24" height="3"/><rect class="blue" x="532" y="408" width="24" height="2"/><rect class="blue" x="558" y="408" width="24" height="2"/><rect class="blue" x="584" y="409" width="24" height="1"/>
+<text class="sm" x="535" y="157">0골: 39.4%</text><text class="sm" x="535" y="178">10+골: 8.4%</text>
+<text class="tx" x="370" y="447" text-anchor="middle">다음 시즌 Big5 득점</text><text class="tx" transform="translate(76 285) rotate(-90)" text-anchor="middle">선수 수</text>
+<text class="sm" x="120" y="428">0</text><text class="sm" x="245" y="428">5</text><text class="sm" x="370" y="428">10</text><text class="sm" x="495" y="428">15</text><text class="sm" x="615" y="428">20+</text>
+
+<!-- panel 2 -->
+<rect class="panel" x="725" y="80" width="620" height="385"/>
+<text class="st" x="1035" y="112" text-anchor="middle">현재 득점은 도움이 되지만 변동성은 크게 남는다</text>
+<line class="axis" x1="775" y1="410" x2="1300" y2="410"/><line class="axis" x1="775" y1="145" x2="775" y2="410"/>
+<line class="grid" x1="775" y1="350" x2="1300" y2="350"/><line class="grid" x1="775" y1="290" x2="1300" y2="290"/><line class="grid" x1="775" y1="230" x2="1300" y2="230"/><line class="grid" x1="880" y1="145" x2="880" y2="410"/><line class="grid" x1="985" y1="145" x2="985" y2="410"/><line class="grid" x1="1090" y1="145" x2="1090" y2="410"/><line class="grid" x1="1195" y1="145" x2="1195" y2="410"/>
+<!-- density cells -->
+<g opacity=".95">
+<circle class="dark" cx="790" cy="396" r="18"/><circle class="dark" cx="820" cy="390" r="20"/><circle class="dark" cx="850" cy="383" r="20"/><circle class="dark" cx="880" cy="378" r="19"/><circle class="mid" cx="910" cy="372" r="18"/><circle class="mid" cx="940" cy="366" r="17"/><circle class="mid" cx="970" cy="360" r="16"/>
+<circle class="dark" cx="800" cy="365" r="18"/><circle class="dark" cx="835" cy="355" r="19"/><circle class="mid" cx="870" cy="348" r="20"/><circle class="mid" cx="905" cy="340" r="20"/><circle class="mid" cx="940" cy="333" r="18"/><circle class="light" cx="975" cy="325" r="18"/><circle class="light" cx="1010" cy="318" r="17"/>
+<circle class="mid" cx="805" cy="330" r="16"/><circle class="mid" cx="845" cy="317" r="18"/><circle class="mid" cx="885" cy="308" r="20"/><circle class="mid" cx="925" cy="300" r="20"/><circle class="light" cx="965" cy="292" r="19"/><circle class="light" cx="1005" cy="282" r="18"/><circle class="light" cx="1045" cy="275" r="17"/>
+<circle class="light" cx="830" cy="285" r="15"/><circle class="light" cx="875" cy="270" r="17"/><circle class="light" cx="920" cy="260" r="18"/><circle class="light" cx="965" cy="250" r="18"/><circle class="light" cx="1010" cy="240" r="17"/><circle class="vl" cx="1055" cy="230" r="16"/><circle class="vl" cx="1100" cy="220" r="15"/>
+<circle class="vl" cx="865" cy="235" r="14"/><circle class="vl" cx="915" cy="220" r="15"/><circle class="vl" cx="965" cy="205" r="15"/><circle class="vl" cx="1015" cy="195" r="15"/><circle class="vl" cx="1065" cy="185" r="14"/><circle class="vl" cx="1120" cy="175" r="13"/><circle class="vl" cx="1180" cy="165" r="12"/>
+</g>
+<line x1="775" y1="410" x2="1300" y2="145" stroke="#d65252" stroke-width="2" stroke-dasharray="7 5"/>
+<text class="sm" x="800" y="166">Pearson r = 0.65</text><text class="sm" x="1180" y="390">점선: 다음 시즌 동일 득점</text>
+<text class="tx" x="1035" y="447" text-anchor="middle">현재 시즌 득점</text><text class="tx" transform="translate(747 285) rotate(-90)" text-anchor="middle">다음 시즌 Big5 득점</text>
+
+<!-- panel 3 -->
+<rect class="panel" x="55" y="505" width="620" height="390"/>
+<text class="st" x="365" y="538" text-anchor="middle">포지션에 따라 타깃 분포 자체가 달라진다</text>
+<line class="axis" x1="105" y1="845" x2="640" y2="845"/><line class="axis" x1="105" y1="575" x2="105" y2="845"/>
+<line class="grid" x1="105" y1="780" x2="640" y2="780"/><line class="grid" x1="105" y1="715" x2="640" y2="715"/><line class="grid" x1="105" y1="650" x2="640" y2="650"/>
+<!-- FW boxplot -->
+<line x1="265" y1="595" x2="265" y2="845" stroke="#222"/><line x1="225" y1="595" x2="305" y2="595" stroke="#222"/><rect class="boxfw" x="205" y="705" width="120" height="140"/><line x1="205" y1="790" x2="325" y2="790" stroke="#fff" stroke-width="3"/><polygon class="red" points="265,728 275,738 265,748 255,738"/><text class="red" x="288" y="741" style="font:700 16px system-ui">4.99</text>
+<!-- MF boxplot -->
+<line x1="485" y1="755" x2="485" y2="845" stroke="#222"/><line x1="445" y1="755" x2="525" y2="755" stroke="#222"/><rect class="boxmf" x="425" y="798" width="120" height="47"/><line x1="425" y1="825" x2="545" y2="825" stroke="#fff" stroke-width="3"/><polygon class="red" points="485,807 495,817 485,827 475,817"/><text class="red" x="508" y="820" style="font:700 16px system-ui">1.44</text>
+<text class="tx" x="265" y="872" text-anchor="middle">FW</text><text class="tx" x="485" y="872" text-anchor="middle">MF</text><text class="sm" x="540" y="582">◆ 평균</text>
+<text class="tx" transform="translate(76 715) rotate(-90)" text-anchor="middle">다음 시즌 Big5 득점</text>
+
+<!-- panel 4 -->
+<rect class="panel" x="725" y="505" width="620" height="390"/>
+<text class="st" x="1035" y="538" text-anchor="middle">리그 평균보다 포지션 차이가 더 크게 나타난다</text>
+<line class="axis" x1="775" y1="845" x2="1305" y2="845"/><line class="axis" x1="775" y1="575" x2="775" y2="845"/>
+<line class="grid" x1="775" y1="785" x2="1305" y2="785"/><line class="grid" x1="775" y1="725" x2="1305" y2="725"/><line class="grid" x1="775" y1="665" x2="1305" y2="665"/><line class="grid" x1="775" y1="605" x2="1305" y2="605"/>
+<!-- grouped bars -->
+<rect class="orange" x="805" y="625" width="38" height="220"/><rect class="blue" x="846" y="775" width="38" height="70"/><text class="sm" x="824" y="617" text-anchor="middle">5.0</text><text class="sm" x="865" y="768" text-anchor="middle">1.6</text>
+<rect class="orange" x="905" y="616" width="38" height="229"/><rect class="blue" x="946" y="783" width="38" height="62"/><text class="sm" x="924" y="608" text-anchor="middle">5.2</text><text class="sm" x="965" y="776" text-anchor="middle">1.4</text>
+<rect class="orange" x="1005" y="630" width="38" height="215"/><rect class="blue" x="1046" y="783" width="38" height="62"/><text class="sm" x="1024" y="622" text-anchor="middle">4.9</text><text class="sm" x="1065" y="776" text-anchor="middle">1.4</text>
+<rect class="orange" x="1105" y="598" width="38" height="247"/><rect class="blue" x="1146" y="779" width="38" height="66"/><text class="sm" x="1124" y="590" text-anchor="middle">5.6</text><text class="sm" x="1165" y="772" text-anchor="middle">1.5</text>
+<rect class="orange" x="1205" y="651" width="38" height="194"/><rect class="blue" x="1246" y="788" width="38" height="57"/><text class="sm" x="1224" y="643" text-anchor="middle">4.4</text><text class="sm" x="1265" y="781" text-anchor="middle">1.3</text>
+<text class="sm" x="815" y="868">Premier</text><text class="sm" x="916" y="868">La Liga</text><text class="sm" x="1005" y="868">Bundesliga</text><text class="sm" x="1120" y="868">Serie A</text><text class="sm" x="1218" y="868">Ligue 1</text>
+<rect class="orange" x="1210" y="555" width="22" height="12"/><text class="sm" x="1238" y="566">FW</text><rect class="blue" x="1275" y="555" width="22" height="12"/><text class="sm" x="1303" y="566">MF</text>
+<text class="tx" transform="translate(747 715) rotate(-90)" text-anchor="middle">평균 다음 시즌 득점</text>
+
+<text class="sm" x="700" y="932" text-anchor="middle">Train 22,430건만 사용 · Validation과 Final Test는 모델 선택용 EDA에서 제외</text>
+</svg>

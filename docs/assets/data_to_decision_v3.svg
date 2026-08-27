@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">EDA가 실제 모델 결정으로 이어진 과정</title>
+  <desc id="desc">도메인 지식, EDA, 오류 분석이 실제 모델 구조와 피처 결정으로 이어진 흐름을 설명하는 다이어그램</desc>
+  <style>
+    .bg { fill: #0d1117; }.panel { fill: #161b22; stroke: #30363d; stroke-width: 1; }.title { fill: #f0f6fc; font: 700 30px system-ui, -apple-system, 'Segoe UI', sans-serif; }.sub { fill: #8b949e; font: 15px system-ui, -apple-system, 'Segoe UI', sans-serif; }.section { fill: #f0f6fc; font: 700 20px system-ui, -apple-system, 'Segoe UI', sans-serif; }.boxtext { fill: white; font: 700 14px system-ui, -apple-system, 'Segoe UI', sans-serif; }.small { fill: #8b949e; font: 13px system-ui, -apple-system, 'Segoe UI', sans-serif; }.box-blue { fill: #1f6feb; }.box-green { fill: #238636; }.box-orange { fill: #9e6a03; }.box-red { fill: #da3633; }.box-purple { fill: #8957e5; }.arrow { stroke: #6e7681; stroke-width: 2.5; marker-end: url(#arrowhead); }
+  </style>
+  <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#6e7681" /></marker></defs>
+  <rect class="bg" width="1200" height="760" rx="18" />
+  <text class="title" x="50" y="60">EDA가 실제 모델 결정으로 이어진 과정</text>
+  <text class="sub" x="50" y="90">도메인 질문 → 데이터 근거 → 모델 구조와 피처 결정</text>
+  <rect class="panel" x="45" y="130" width="525" height="565" rx="16" />
+  <text class="section" x="70" y="170">A. 왜 단일 회귀만으로는 부족했는가</text><text class="small" x="70" y="195">EDA에서 확인한 점</text>
+  <rect class="box-orange" x="90" y="220" width="435" height="52" rx="10" /><text class="boxtext" x="110" y="252">next_goals = 0 인 선수가 많았다</text>
+  <line class="arrow" x1="307" y1="272" x2="307" y2="312" />
+  <rect class="box-blue" x="90" y="312" width="435" height="72" rx="10" /><text class="boxtext" x="110" y="342">축구적으로 해석</text><text class="boxtext" x="110" y="362">단순 저득점자뿐 아니라 다음 시즌 Big5 이탈 선수도 섞여 있었다</text>
+  <line class="arrow" x1="307" y1="384" x2="307" y2="424" />
+  <rect class="box-purple" x="90" y="424" width="435" height="72" rx="10" /><text class="boxtext" x="110" y="454">문제 재정의</text><text class="boxtext" x="110" y="474">Big5 잔류 여부와 잔류 시 득점을 분리해서 보자</text>
+  <line class="arrow" x1="307" y1="496" x2="307" y2="536" />
+  <rect class="box-green" x="90" y="536" width="435" height="96" rx="10" /><text class="boxtext" x="110" y="566">최종 모델 결정</text><text class="boxtext" x="110" y="586">Model A: 다음 시즌 Big5 기록 존재 여부 분류</text><text class="boxtext" x="110" y="606">Model B: 잔류 선수 조건부 득점 회귀</text>
+  <text class="small" x="70" y="665">결과: Hard Two-stage가 이탈 선수 처리에 유리해 전체 MAE를 낮췄다.</text>
+  <rect class="panel" x="630" y="130" width="525" height="565" rx="16" />
+  <text class="section" x="655" y="170">B. 왜 이적 맥락 피처가 중요해졌는가</text><text class="small" x="655" y="195">오류 분석에서 확인한 점</text>
+  <rect class="box-red" x="675" y="220" width="435" height="72" rx="10" /><text class="boxtext" x="695" y="250">Breakout과 Decline 사례에서 큰 오차가 발생했다</text><text class="boxtext" x="695" y="270">갑작스러운 역할 변화나 팀 환경 변화가 의심됐다</text>
+  <line class="arrow" x1="892" y1="292" x2="892" y2="332" />
+  <rect class="box-blue" x="675" y="332" width="435" height="72" rx="10" /><text class="boxtext" x="695" y="362">도메인 가설</text><text class="boxtext" x="695" y="382">과거 성적만으로는 이적, 새 팀 환경, 역할 변화를 설명하기 어렵다</text>
+  <line class="arrow" x1="892" y1="404" x2="892" y2="444" />
+  <rect class="box-orange" x="675" y="444" width="435" height="72" rx="10" /><text class="boxtext" x="695" y="474">데이터 액션</text><text class="boxtext" x="695" y="494">시장가치, 이적 여부, 새 팀 환경 피처를 추가했다</text>
+  <line class="arrow" x1="892" y1="516" x2="892" y2="556" />
+  <rect class="box-green" x="675" y="556" width="435" height="76" rx="10" /><text class="boxtext" x="695" y="586">검증 결과</text><text class="boxtext" x="695" y="606">Transfer context를 제거하면 개발 MAE가 악화됐다</text>
+  <text class="small" x="655" y="665">결론: 도메인 가설은 측정 가능한 피처로 바꾸고 검증할 때 의미가 있다.</text>
+  <text class="small" x="50" y="730">요약: 이 프로젝트는 모델 튜닝보다 문제 정의, 데이터 해석, 오류 분석이 더 큰 개선을 만들었다.</text>
+</svg>

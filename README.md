@@ -63,7 +63,7 @@ Hard Two-stage는 사전 지정한 전체 MAE 기준에서 가장 좋았습니�
 
 ## EDA에서 확인한 핵심 도메인 인사이트
 
-![EDA and domain insights](./docs/assets/eda_domain_insights.svg)
+![모델링 전에 데이터가 먼저 보여준 것](./docs/assets/eda_domain_insights_v3.svg)
 
 Train 22,430건을 중심으로 확인한 중요한 특징은 다음과 같습니다.
 
@@ -77,7 +77,7 @@ Train 22,430건을 중심으로 확인한 중요한 특징은 다음과 같습�
 
 ### EDA가 실제 모델 결정으로 이어진 과정
 
-![Data to decision](./docs/assets/data_to_decision_v2.svg)
+![EDA가 실제 모델 결정으로 이어진 과정](./docs/assets/data_to_decision_v3.svg)
 
 이 프로젝트에서 EDA는 모델링 전에 한 번 하고 끝나는 절차가 아니라, **오류 분석이 다시 다음 데이터와 가설로 이어지는 반복 과정**이었습니다.
 
@@ -166,7 +166,7 @@ flowchart LR
 
 ## 가장 중요한 실패 패턴
 
-![Final error analysis](docs/assets/final_error_analysis.svg)
+![최종 오류 분석](docs/assets/final_error_analysis_v3.svg)
 
 | 실제 득점 구간 | 선수 수 | MAE | Bias |
 | --- | ---: | ---: | ---: |

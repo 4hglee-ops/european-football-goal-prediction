@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">최종 오류 분석</title>
+  <desc id="desc">Locked test에서 실제 득점 구간별 MAE와 Bias를 요약한 시각화</desc>
+  <style>
+    .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1}.title{fill:#f0f6fc;font:700 30px system-ui,-apple-system,'Segoe UI',sans-serif}.sub{fill:#8b949e;font:15px system-ui,-apple-system,'Segoe UI',sans-serif}.pt{fill:#f0f6fc;font:700 18px system-ui,-apple-system,'Segoe UI',sans-serif}.label{fill:#c9d1d9;font:14px system-ui,-apple-system,'Segoe UI',sans-serif}.small{fill:#8b949e;font:13px system-ui,-apple-system,'Segoe UI',sans-serif}.bar1{fill:#58a6ff}.bar2{fill:#3fb950}.bar3{fill:#d29922}.bar4{fill:#f85149}.grid{stroke:#30363d;stroke-width:1}.axis{stroke:#6e7681;stroke-width:1.5}
+  </style>
+  <rect class="bg" width="1200" height="760" rx="18"/>
+  <text class="title" x="55" y="62">최종 오류 분석: 평균 성능 뒤에 숨은 한계</text>
+  <text class="sub" x="55" y="90">Locked Test · 926명 · Hard Two-stage</text>
+
+  <rect class="panel" x="45" y="125" width="535" height="575" rx="14"/>
+  <text class="pt" x="75" y="165">1. 실제 득점 구간별 MAE</text>
+  <line class="grid" x1="120" y1="620" x2="520" y2="620"/><line class="grid" x1="120" y1="520" x2="520" y2="520"/><line class="grid" x1="120" y1="420" x2="520" y2="420"/><line class="grid" x1="120" y1="320" x2="520" y2="320"/><line class="grid" x1="120" y1="220" x2="520" y2="220"/>
+  <line class="axis" x1="120" y1="180" x2="120" y2="620"/><line class="axis" x1="120" y1="620" x2="520" y2="620"/>
+  <rect class="bar1" x="150" y="536" width="55" height="84" rx="6"/><rect class="bar2" x="245" y="382" width="55" height="238" rx="6"/><rect class="bar3" x="340" y="319" width="55" height="301" rx="6"/><rect class="bar4" x="435" y="182" width="55" height="438" rx="6"/>
+  <text class="label" x="147" y="645">전체</text><text class="label" x="235" y="645">10+ 골</text><text class="label" x="331" y="645">15+ 골</text><text class="label" x="426" y="645">20+ 골</text>
+  <text class="label" x="146" y="528">2.003</text><text class="label" x="238" y="374">5.660</text><text class="label" x="333" y="311">7.172</text><text class="label" x="427" y="174">10.426</text>
+  <text class="small" x="75" y="690">고득점 구간으로 갈수록 절대 오차가 빠르게 커졌다.</text>
+
+  <rect class="panel" x="620" y="125" width="535" height="575" rx="14"/>
+  <text class="pt" x="650" y="165">2. 실제 득점 구간별 Bias</text>
+  <text class="small" x="650" y="192">음수 Bias는 과소예측 경향을 뜻한다</text>
+  <line class="grid" x1="710" y1="260" x2="1110" y2="260"/><line class="grid" x1="710" y1="360" x2="1110" y2="360"/><line class="grid" x1="710" y1="460" x2="1110" y2="460"/><line class="grid" x1="710" y1="560" x2="1110" y2="560"/>
+  <line class="axis" x1="710" y1="220" x2="710" y2="620"/><line class="axis" x1="710" y1="620" x2="1110" y2="620"/>
+  <rect class="bar1" x="740" y="606" width="55" height="14" rx="6"/><rect class="bar2" x="835" y="391" width="55" height="229" rx="6"/><rect class="bar3" x="930" y="340" width="55" height="280" rx="6"/><rect class="bar4" x="1025" y="222" width="55" height="398" rx="6"/>
+  <text class="label" x="734" y="645">전체</text><text class="label" x="825" y="645">10+ 골</text><text class="label" x="921" y="645">15+ 골</text><text class="label" x="1016" y="645">20+ 골</text>
+  <text class="label" x="736" y="598">+0.327</text><text class="label" x="825" y="383">-5.295</text><text class="label" x="920" y="332">-6.995</text><text class="label" x="1016" y="214">-9.954</text>
+  <text class="small" x="650" y="690">희소한 고득점자는 평균 쪽으로 수축되며 강한 과소예측이 발생했다.</text>
+
+  <text class="small" x="55" y="730">해석: 전체 MAE 2.003은 좋아 보이지만, 득점왕급 선수 발굴에는 별도 목적함수·데이터·모델링이 필요하다.</text>
+</svg>
